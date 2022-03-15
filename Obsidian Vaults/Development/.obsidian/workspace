@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "b0908ba9d30cbe02",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd3f7b6ab7e05ba5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Web/Azure Web Developer Associate/Web Apps/Scale Apps in Azure App Service/Enable Autoscale in App Service.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8763d8e231ac2fd0",
+    "type": "split",
+    "children": [
+      {
+        "id": "22a61e78b58f6698",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "463f8c739f1a5c45",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "bb26e126b8f6c9b7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 405
+  },
+  "right": {
+    "id": "977474422d0419a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "d98709f78f7da760",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5405c0c4ca9a7249",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Web/Azure Web Developer Associate/Web Apps/Scale Apps in Azure App Service/Enable Autoscale in App Service.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "7caa383b20652ef7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5836d12b475780af",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Web/Azure Web Developer Associate/Web Apps/Scale Apps in Azure App Service/Enable Autoscale in App Service.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [
+                    {
+                      "query": "tag:#stub",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14701138
+                      }
+                    },
+                    {
+                      "query": "tag:#category",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14148156
+                      }
+                    },
+                    {
+                      "query": "tag:#main",
+                      "color": {
+                        "a": 1,
+                        "rgb": 1220057
+                      }
+                    },
+                    {
+                      "query": "tag:#topic",
+                      "color": {
+                        "a": 1,
+                        "rgb": 13383808
+                      }
+                    }
+                  ],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 0.495726495726496,
+                  "repelStrength": 7.52136752136752,
+                  "linkStrength": 1,
+                  "linkDistance": 199,
+                  "scale": 0.25883865621816343,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 297
+  },
+  "active": "fd3f7b6ab7e05ba5",
+  "lastOpenFiles": [
+    "Web/Azure Web Developer Associate/Web Apps/Scale Apps in Azure App Service/Enable Autoscale in App Service.md",
+    "Web/Azure Web Developer Associate/Web Apps/Scale Apps in Azure App Service.md",
+    "Web/Azure Web Developer Associate/Web Apps/Scale Apps in Azure App Service/Identify Autoscale Factors.md",
+    "Languages/CSS/Reset Rule.md",
+    "Web/Azure Web Developer Associate/Web Apps/Explore Azure App Service/Exercise - Create Static HTML Web App Using Cloud Shell.md",
+    "Web/Azure Web Developer Associate/Web Apps/Explore Azure App Service/Explore Authentication & Authorization in App Service.md",
+    "Web/Azure Web Developer Associate/Web Apps/Scale Apps in Azure App Service/Examine Autoscale Factors.md",
+    "Web/Azure Web Developer Associate/Azure Web Apps.md",
+    "Languages/HTML.md",
+    "Languages/HTML/Fundamentals.md"
+  ]
+}
