@@ -1,4 +1,4 @@
-#css #stub #topic
+#css #topic
 
 # Selectors
 ## Selecting by element type
