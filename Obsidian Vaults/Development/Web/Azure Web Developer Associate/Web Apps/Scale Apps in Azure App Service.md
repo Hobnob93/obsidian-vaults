@@ -1,4 +1,4 @@
-#azure #stub #azure-wda
+#azure #azure-wda
 
 # Scale Apps in Azure App Service
 [[Examine Autoscale Factors]]
