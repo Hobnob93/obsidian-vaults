@@ -1,4 +1,4 @@
-#azure #stub #azure-wda #topic
+#azure #stub #azure-wda #module 
 
 # Event-Based Solutions
 [[Explore Azure Event Grid]]

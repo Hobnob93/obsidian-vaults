@@ -1,4 +1,4 @@
-#azure #stub #azure-wda #topic
+#azure #stub #azure-wda #module 
 
 # Infrastructure as a Service Solutions
 [[Provision VMs in Azure]]

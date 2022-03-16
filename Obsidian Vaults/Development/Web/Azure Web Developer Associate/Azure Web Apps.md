@@ -1,4 +1,4 @@
-#azure #azure-wda #topic
+#azure #azure-wda #module
 
 # Azure Web Apps
 [[Explore Azure App Service]]

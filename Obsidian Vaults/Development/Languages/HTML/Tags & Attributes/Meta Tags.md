@@ -1,4 +1,4 @@
-#html 
+#html #topic 
 
 # Meta Tags
 Used for search engine optimisation, being discoverable online, and providing text and images previews when the site is linked to.

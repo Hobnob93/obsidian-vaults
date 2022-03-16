@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web/Azure Web Dev Associate.md",
+            "file": "Web/Azure Web Developer Associate/Azure Web Apps.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Azure Web Dev Associate.md",
+                "file": "Web/Azure Web Developer Associate/Azure Web Apps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +92,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Web/Azure Web Dev Associate.md",
+                "file": "Web/Azure Web Developer Associate/Azure Web Apps.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -103,7 +103,7 @@
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": true,
+                  "collapse-color-groups": false,
                   "colorGroups": [
                     {
                       "query": "tag:#stub",
@@ -127,10 +127,17 @@
                       }
                     },
                     {
-                      "query": "tag:#topic",
+                      "query": "tag:#module",
                       "color": {
                         "a": 1,
                         "rgb": 13383808
+                      }
+                    },
+                    {
+                      "query": "tag:#topic",
+                      "color": {
+                        "a": 1,
+                        "rgb": 5431473
                       }
                     }
                   ],
@@ -139,7 +146,7 @@
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
-                  "collapse-forces": false,
+                  "collapse-forces": true,
                   "centerStrength": 0.495726495726496,
                   "repelStrength": 7.52136752136752,
                   "linkStrength": 1,
@@ -158,15 +165,15 @@
   },
   "active": "fd3f7b6ab7e05ba5",
   "lastOpenFiles": [
+    "Web/Azure Web Developer Associate/Azure Web Apps.md",
     "Web/Azure Web Dev Associate.md",
-    "Web/Azure Web Developer Associate/Web Apps/Explore Azure App Service Deployment Slots/Explore Staging Environments.md",
-    "Web/Azure Web Developer Associate/Web Apps/Explore Azure App Service Deployment Slots.md",
-    "Web/Azure Web Developer Associate/Web Apps/Scale Apps in Azure App Service.md",
-    "Web/Azure Web Developer Associate/Web Apps/Explore Azure App Service/Examine Azure App Service Plans.md",
-    "Web/Azure Web Developer Associate/Web Apps/Explore Azure App Service.md",
-    "Web/Azure Web Developer Associate/Web Apps/Scale Apps in Azure App Service/Explore Autoscale Best Practices.md",
-    "Web/Azure Web Developer Associate/Web Apps/Scale Apps in Azure App Service/Enable Autoscale in App Service.md",
-    "Web/Azure Web Developer Associate/Web Apps/Scale Apps in Azure App Service/Identify Autoscale Factors.md",
-    "Languages/CSS/Reset Rule.md"
+    "Web.md",
+    "Games.md",
+    "Languages/HTML/Libraries/jQuery.md",
+    "Languages/HTML/Tags & Attributes/Button.md",
+    "Languages/HTML/Tags & Attributes/Classes & IDs.md",
+    "Languages/HTML/Tags & Attributes/Code.md",
+    "Languages/HTML/Tags & Attributes/Div & Section.md",
+    "Languages/HTML/Tags & Attributes/Doc Type & Basic Layout.md"
   ]
 }

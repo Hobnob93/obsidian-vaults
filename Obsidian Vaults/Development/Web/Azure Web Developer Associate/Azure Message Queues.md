@@ -1,3 +1,3 @@
-#azure #stub #azure-wda #topic
+#azure #stub #azure-wda #module 
 
 # Azure Message Queues

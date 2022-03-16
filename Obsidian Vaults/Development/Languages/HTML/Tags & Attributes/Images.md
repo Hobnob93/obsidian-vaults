@@ -1,4 +1,4 @@
-#html 
+#html #topic 
 
 # Images
 In modern sites, they tend to be contained within the `wwwroot/img` or `wwwroot/images` folder.

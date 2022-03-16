@@ -1,4 +1,4 @@
-#html #topic
+#html #module 
 
 # Fundamentals
 [[Page Structure]]

@@ -1,4 +1,4 @@
-#azure #stub #azure-wda #topic
+#azure #stub #azure-wda #module 
 
 # Azure Blob Storage
 [[Explore Azure Blob Storage]]

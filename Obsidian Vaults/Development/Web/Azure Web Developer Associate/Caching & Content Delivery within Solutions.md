@@ -1,4 +1,4 @@
-#azure #stub #azure-wda #topic
+#azure #stub #azure-wda #module
 
 # Caching & Content Delivery within Solutions
 [[Azure Cache for Redis]]

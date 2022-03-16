@@ -1,4 +1,4 @@
-#azure #stub #azure-wda #topic
+#azure #stub #azure-wda #module 
 
 # Implement Secure Cloud Solutions
 [[Azure Key Vault]]

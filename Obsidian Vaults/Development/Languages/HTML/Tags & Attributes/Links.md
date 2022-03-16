@@ -1,4 +1,4 @@
-#html 
+#html #topic 
 
 # Links
 These are represented with an `<a href=""></a>` tag, with a *required* `href` attribute - containing the endpoint of where you want the link to navigate.

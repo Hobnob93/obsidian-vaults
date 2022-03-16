@@ -1,4 +1,4 @@
-#html 
+#html  #topic 
 
 # Classes & IDs
 In terms of CSS, they have very similar behaviours. You're able to use them in selectors and create styles for elements with these classes or IDs.

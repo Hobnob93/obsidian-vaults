@@ -1,4 +1,4 @@
-#html #stub
+#html #topic 
 
 # HTML5 Semantic Tags
 Before HTML5, websites were made with most elements being put into a `div` (see [[Div & Section]]).

@@ -1,4 +1,4 @@
-#azure #stub #azure-wda #topic
+#azure #stub #azure-wda #module 
 
 # Azure User Authentication & Authorisation
 [[Explore Microsoft Identity Platform]]

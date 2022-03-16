@@ -1,3 +1,3 @@
-#azure #stub #azure-wda
+#azure #stub #azure-wda #topic
 
 # Managed Identities
