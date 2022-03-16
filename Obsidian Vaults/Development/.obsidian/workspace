@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Languages/CSS.md",
+            "file": "Languages/CSS/Fundamentals/Selectors.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Languages/CSS.md",
+                "file": "Languages/CSS/Fundamentals/Selectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +92,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Languages/CSS.md",
+                "file": "Languages/CSS/Fundamentals/Selectors.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -165,6 +165,7 @@
   },
   "active": "fd3f7b6ab7e05ba5",
   "lastOpenFiles": [
+    "Languages/CSS/Fundamentals/Selectors.md",
     "Languages/CSS.md",
     "Libraries/Web/jQuery.md",
     "Libraries.md",
@@ -173,7 +174,6 @@
     "Web/Azure Web Developer Associate/Functions/Explore Azure Functions/Discover Azure Functions.md",
     "Web/Azure Web Developer Associate/Web Apps/Explore Azure App Service Deployment Slots.md",
     "Web/Azure Web Developer Associate/Web Apps/Explore Azure App Service Deployment Slots/Route Traffic in App Service.md",
-    "Web/Azure Web Developer Associate/Web Apps/Explore Azure App Service Deployment Slots/Swap Deployment Slots.md",
-    "Web/Azure Web Developer Associate/Web Apps/Explore Azure App Service Deployment Slots/Examine Slot Swapping.md"
+    "Web/Azure Web Developer Associate/Web Apps/Explore Azure App Service Deployment Slots/Swap Deployment Slots.md"
   ]
 }
