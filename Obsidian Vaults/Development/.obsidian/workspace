@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Languages/CSS/Fundamentals/Fonts.md",
+            "file": "Web/Azure Web Developer Associate/Functions/Explore Azure Functions/Compare Azure Functions Hosting Options.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Languages/CSS/Fundamentals/Fonts.md",
+                "file": "Web/Azure Web Developer Associate/Functions/Explore Azure Functions/Compare Azure Functions Hosting Options.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +92,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Languages/CSS/Fundamentals/Fonts.md",
+                "file": "Web/Azure Web Developer Associate/Functions/Explore Azure Functions/Compare Azure Functions Hosting Options.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -165,15 +165,15 @@
   },
   "active": "fd3f7b6ab7e05ba5",
   "lastOpenFiles": [
+    "Web/Azure Web Developer Associate/Functions/Explore Azure Functions/Compare Azure Functions Hosting Options.md",
+    "Web/Azure Web Developer Associate/Functions/Explore Azure Functions.md",
+    "Web/Azure Web Developer Associate/Azure Functions.md",
+    "Web/Azure Web Developer Associate/Functions/Explore Azure Functions/Discover Azure Functions.md",
+    "Web/Azure Web Developer Associate/Cosmos DB/Explore Azure Cosmos DB.md",
+    "Web/Azure Web Developer Associate/Azure Cosmos DB.md",
     "Languages/CSS/Fundamentals/Fonts.md",
     "Languages/CSS/Fundamentals/fonts.google.com.md",
     "Languages/CSS/Fundamentals/Selectors.md",
-    "Languages/CSS/Fundamentals.md",
-    "Languages/CSS.md",
-    "Libraries/Web/jQuery.md",
-    "Libraries.md",
-    "Web/Azure Web Developer Associate/Functions/Explore Azure Functions.md",
-    "Web/Azure Web Developer Associate/Azure Functions.md",
-    "Web/Azure Web Developer Associate/Functions/Explore Azure Functions/Discover Azure Functions.md"
+    "Languages/CSS/Fundamentals.md"
   ]
 }
