@@ -32,3 +32,17 @@ There are two other hosting options for ==control== and ==isolation==:
 - `Kubernetes`
 	- Provides a fully isolated and dedicated environment
 	- Runs on Kubernetes platform
+
+## Always On
+If you use *App Service* plan, you should enable `Always On` setting so the function runs correctly.
+The function's runtime goes idle after a few minutes of inactivity, so only HTTP triggers will "wake up" functions.
+Setting is *only* available on *App Service* plan.
+On a Consumption plan, platform activates function apps automatically.
+
+## Storage Account Requirements
+A function app requires a general *Azure Storage* account; supporting *Azure Blob*, *Queue*, *Files*, and *Table* storage.
+*Functions* relies on storage for managing triggers, and logging function executions.
+Some storage accounts *do not* support queues and tables, such as blob-only accounts.
+
+You can use the same storage account for application data.
+However, for storage-intensive operations, you should use a separate storage account.

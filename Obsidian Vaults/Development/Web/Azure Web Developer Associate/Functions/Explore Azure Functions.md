@@ -1,5 +1,6 @@
-#azure #azure-wda #topic #stub 
+#azure #azure-wda #topic 
 
 # Explore Azure Functions
 [[Discover Azure Functions]]
 [[Compare Azure Functions Hosting Options]]
+[[Scale Azure Functions]]
