@@ -1,4 +1,4 @@
-#azure #azure-wda #exercise
+#azure #azure-wda #exercise #shell #json
 
 # Create Static HTML Web App Using Cloud Shell
 You will need an *Azure* account with an active subscription in order to fulfil this exercise.

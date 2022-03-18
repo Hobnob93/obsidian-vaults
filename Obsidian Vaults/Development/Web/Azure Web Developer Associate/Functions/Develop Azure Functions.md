@@ -1,5 +1,7 @@
-#azure #stub #azure-wda #topic
+#azure #azure-wda #topic
 
 # Develop Azure Functions
 [[Explore Azure Functions Development]]
 [[Create Triggers & Bindings]]
+[[Connect Functions to Azure Services]]
+[[Exercise - Create an Azure Function Using VS Code]]
