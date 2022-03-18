@@ -19,7 +19,11 @@ The following languages are supported:
 Primary use of *Durable Functions* is simplifying complex, stateful requirements in serverless applications.
 The following sections describe typical application patterns that benefit from *Durable Functions*:
 - [[Function Chaining]]
-- [[Fan-Out/Fan-In]]
+- [[Fan-Out & Fan-In]]
 - [[Async HTTP APIs]]
 - [[Monitor]]
 - [[Human Interaction]]
+
+## Additional Resources
+Differences between *Durable Functions* 1.x and 2.x:
+[Durable Functions version overview](https://docs.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-versions)
