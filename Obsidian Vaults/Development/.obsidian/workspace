@@ -7,8 +7,12 @@
         "id": "fd3f7b6ab7e05ba5",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Web/Azure Web Developer Associate/Functions/Develop Azure Functions/Create Triggers & Bindings.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Web/Azure Web Developer Associate/Functions/Develop Azure Functions/Create Triggers & Bindings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,6 +92,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Web/Azure Web Developer Associate/Functions/Develop Azure Functions/Create Triggers & Bindings.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -97,13 +103,41 @@
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": false,
+                  "collapse-color-groups": true,
                   "colorGroups": [
                     {
-                      "query": "",
+                      "query": "tag:#stub",
                       "color": {
                         "a": 1,
                         "rgb": 14701138
+                      }
+                    },
+                    {
+                      "query": "tag:#category",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14148156
+                      }
+                    },
+                    {
+                      "query": "tag:#main",
+                      "color": {
+                        "a": 1,
+                        "rgb": 1220057
+                      }
+                    },
+                    {
+                      "query": "tag:#module",
+                      "color": {
+                        "a": 1,
+                        "rgb": 13383808
+                      }
+                    },
+                    {
+                      "query": "tag:#topic",
+                      "color": {
+                        "a": 1,
+                        "rgb": 5431473
                       }
                     }
                   ],
@@ -118,7 +152,7 @@
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 0.2588386562181627,
-                  "close": false
+                  "close": true
                 }
               }
             }
@@ -131,15 +165,15 @@
   },
   "active": "fd3f7b6ab7e05ba5",
   "lastOpenFiles": [
-    "Web/Azure Web Dev Associate.md",
-    "Web/Azure Web Developer Associate/Functions/Develop Azure Functions/Explore Azure Functions Development.md",
+    "Web/Azure Web Developer Associate/Functions/Develop Azure Functions/Create Triggers & Bindings.md",
     "Web/Azure Web Developer Associate/Functions/Develop Azure Functions.md",
+    "Web/Azure Web Developer Associate/Functions/Develop Azure Functions/Explore Azure Functions Development.md",
+    "Web/Azure Web Dev Associate.md",
     "Web/Azure Web Developer Associate/Web Apps/Explore Azure App Service.md",
     "Web/Azure Web Developer Associate/Functions/Explore Azure Functions.md",
     "Web/Azure Web Developer Associate/Functions/Explore Azure Functions/Scale Azure Functions.md",
     "Web/Azure Web Developer Associate/Functions/Explore Azure Functions/Compare Azure Functions Hosting Options.md",
     "Web/Azure Web Developer Associate/Azure Functions.md",
-    "Web/Azure Web Developer Associate/Functions/Explore Azure Functions/Discover Azure Functions.md",
-    "Web/Azure Web Developer Associate/Cosmos DB/Explore Azure Cosmos DB.md"
+    "Web/Azure Web Developer Associate/Functions/Explore Azure Functions/Discover Azure Functions.md"
   ]
 }

@@ -2,3 +2,4 @@
 
 # Develop Azure Functions
 [[Explore Azure Functions Development]]
+[[Create Triggers & Bindings]]
