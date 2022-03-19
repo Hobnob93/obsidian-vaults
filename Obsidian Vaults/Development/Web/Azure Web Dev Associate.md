@@ -10,6 +10,7 @@
 	- [[Explore Azure Functions]]
 	- [[Develop Azure Functions]]
 	- [[Implement Azure Durable Functions]]
+- [[Azure Storage]]
 - [[Azure Blob Storage]]
 	- [[Explore Azure Blob Storage]]
 	- [[Manage Azure Blob Storage Lifecycle]]

@@ -7,8 +7,12 @@
         "id": "fd3f7b6ab7e05ba5",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Web/Azure Web Developer Associate/Azure Storage/Azure Storage Redundancy Options.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Web/Azure Web Developer Associate/Azure Storage/Azure Storage Redundancy Options.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,6 +92,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Web/Azure Web Developer Associate/Azure Storage/Azure Storage Redundancy Options.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -159,15 +165,15 @@
   },
   "active": "fd3f7b6ab7e05ba5",
   "lastOpenFiles": [
-    "Web/Azure Web Developer Associate/Functions/Implement Azure Durable Functions.md",
-    "Web/Azure Web Developer Associate/Azure Functions.md",
+    "Web/Azure Web Developer Associate/Azure Storage/Azure Storage Redundancy Options.md",
+    "Web/Azure Web Developer Associate/Azure Storage/Azure Storage Encryption for Data at Rest.md",
+    "Web/Azure Web Developer Associate/Azure Storage.md",
+    "Web/Azure Web Developer Associate/Azure Storage/Types of Storage Accounts.md",
     "Web/Azure Web Developer Associate/Blob Storage/Explore Azure Blob Storage.md",
     "Web/Azure Web Developer Associate/Azure Blob Storage.md",
-    "Web/Azure Web Developer Associate/Functions/Implement Azure Durable Functions/Send & Wait For Events.md",
-    "Web/Azure Web Developer Associate/Functions/Implement Azure Durable Functions/Control Timing in Durable Functions.md",
-    "Web/Azure Web Developer Associate/Functions/Implement Azure Durable Functions/Plan.md",
-    "Web/Azure Web Developer Associate/Functions/Implement Azure Durable Functions/Explore Durable Functions App Patterns.md",
-    "Web/Azure Web Developer Associate/Functions/Explore Azure Functions/Compare Azure Functions Hosting Options.md",
-    "Web/Azure Web Developer Associate/Functions/Explore Durable Orchestrations.md"
+    "Web/Azure Web Developer Associate/Blob Storage/Explore Azure Blob Storage/Discover Azure Blob Storage Resource Types.md",
+    "Web/Azure Web Developer Associate/Blob Storage/Explore Azure Blob Storage/Access Tiers for Block Blob Data.md",
+    "Web/Azure Web Developer Associate/Web Apps/Configure Web App Settings.md",
+    "Web/Azure Web Dev Associate.md"
   ]
 }
