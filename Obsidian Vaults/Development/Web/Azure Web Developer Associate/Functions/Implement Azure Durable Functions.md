@@ -5,3 +5,4 @@
 [[Discover The Four Function Types]]
 [[Explore Task Hubs]]
 [[Explore Durable Orchestrations]]
+[[Control Timing in Durable Functions]]
