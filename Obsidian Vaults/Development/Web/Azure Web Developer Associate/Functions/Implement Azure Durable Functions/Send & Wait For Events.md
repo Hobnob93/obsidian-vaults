@@ -13,6 +13,39 @@ Example below listens for a specific single event and takes action when received
 [FunctionName("BudgetApproval")]
 public static async Task Run(
 	[OrchestrationTrigger]
-	IDurableOrchestrationContext context
-)
+	IDurableOrchestrationContext context)
+{
+	var approved = await context.WaitForExternalEvent<bool>("Approval");
+	if (approved)
+	{
+		// Approval granted - do something
+	}
+	else
+	{
+		// Approval denied - do something else
+	}
+}
 ```
+
+## Send Events
+The `RaiseEventAsync` method of orchestration client binding sends event that a `WaitForExternalEvent` waits for.
+The `RaiseEventAsync` method takes `eventName` and `eventData` as parameters.
+Event data **must** be JSON-serialisable.
+
+Example below is of queue-triggered function that sends "Approval" event to orchestrator function instance.
+The `instance ID` comes from body of the queue message.
+```cs
+[FunctionName("ApprovalQueueProcessor")]
+public static async Task Run(
+	[QueueTrigger("approval-queue")]
+	string instanceId,
+	[DurableClient]
+	IDurableOrchestrationClient client)
+{
+	await client.RaiseEventAsync(instanceId, "Approval", true);
+}
+```
+
+Internally, `RaiseEventAsync` enqueues a message that orchestrator function waits for.
+If instance is not waiting on specified `event name`, event message added to in-memory queue.
+If instance later begins listening for that `event name`, it will check queue for event messages.

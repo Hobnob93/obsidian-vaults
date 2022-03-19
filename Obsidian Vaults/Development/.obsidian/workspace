@@ -7,12 +7,8 @@
         "id": "fd3f7b6ab7e05ba5",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Web/Azure Web Developer Associate/Functions/Implement Azure Durable Functions/Send & Wait For Events.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Azure Web Developer Associate/Functions/Implement Azure Durable Functions/Send & Wait For Events.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +87,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Web/Azure Web Developer Associate/Functions/Implement Azure Durable Functions/Send & Wait For Events.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -165,15 +159,15 @@
   },
   "active": "fd3f7b6ab7e05ba5",
   "lastOpenFiles": [
-    "Web/Azure Web Developer Associate/Functions/Implement Azure Durable Functions/Send & Wait For Events.md",
     "Web/Azure Web Developer Associate/Functions/Implement Azure Durable Functions.md",
+    "Web/Azure Web Developer Associate/Azure Functions.md",
+    "Web/Azure Web Developer Associate/Blob Storage/Explore Azure Blob Storage.md",
+    "Web/Azure Web Developer Associate/Azure Blob Storage.md",
+    "Web/Azure Web Developer Associate/Functions/Implement Azure Durable Functions/Send & Wait For Events.md",
     "Web/Azure Web Developer Associate/Functions/Implement Azure Durable Functions/Control Timing in Durable Functions.md",
     "Web/Azure Web Developer Associate/Functions/Implement Azure Durable Functions/Plan.md",
     "Web/Azure Web Developer Associate/Functions/Implement Azure Durable Functions/Explore Durable Functions App Patterns.md",
     "Web/Azure Web Developer Associate/Functions/Explore Azure Functions/Compare Azure Functions Hosting Options.md",
-    "Web/Azure Web Developer Associate/Functions/Explore Durable Orchestrations.md",
-    "Web/Azure Web Developer Associate/Azure Functions.md",
-    "Web/Azure Web Developer Associate/Functions/Implement Azure Durable Functions/Explore Task Hubs.md",
-    "Web/Azure Web Developer Associate/Functions/Implement Azure Durable Functions/Discover The Four Function Types.md"
+    "Web/Azure Web Developer Associate/Functions/Explore Durable Orchestrations.md"
   ]
 }
