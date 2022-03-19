@@ -6,3 +6,4 @@
 [[Explore Task Hubs]]
 [[Explore Durable Orchestrations]]
 [[Control Timing in Durable Functions]]
+[[Send & Wait For Events]]
