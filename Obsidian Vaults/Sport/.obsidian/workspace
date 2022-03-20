@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "b0908ba9d30cbe02",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd3f7b6ab7e05ba5",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8763d8e231ac2fd0",
+    "type": "split",
+    "children": [
+      {
+        "id": "22a61e78b58f6698",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "463f8c739f1a5c45",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "bb26e126b8f6c9b7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "consumption plan",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 405
+  },
+  "right": {
+    "id": "977474422d0419a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "d98709f78f7da760",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5405c0c4ca9a7249",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "dc95840a718470c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9181d8a74f85a40c",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [
+                    {
+                      "query": "tag:#stub",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14701138
+                      }
+                    },
+                    {
+                      "query": "tag:#category",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14148156
+                      }
+                    },
+                    {
+                      "query": "tag:#main",
+                      "color": {
+                        "a": 1,
+                        "rgb": 1220057
+                      }
+                    },
+                    {
+                      "query": "tag:#module",
+                      "color": {
+                        "a": 1,
+                        "rgb": 13383808
+                      }
+                    },
+                    {
+                      "query": "tag:#topic",
+                      "color": {
+                        "a": 1,
+                        "rgb": 5431473
+                      }
+                    }
+                  ],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.2588386562181627,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 319
+  },
+  "active": "fd3f7b6ab7e05ba5",
+  "lastOpenFiles": [
+    "Web/Azure Web Developer Associate/Azure Storage/Azure Storage Redundancy Options.md",
+    "Web/Azure Web Developer Associate/Azure Storage/Azure Storage Encryption for Data at Rest.md",
+    "Web/Azure Web Developer Associate/Azure Storage.md",
+    "Web/Azure Web Developer Associate/Azure Storage/Types of Storage Accounts.md",
+    "Web/Azure Web Developer Associate/Blob Storage/Explore Azure Blob Storage.md",
+    "Web/Azure Web Developer Associate/Azure Blob Storage.md",
+    "Web/Azure Web Developer Associate/Blob Storage/Explore Azure Blob Storage/Discover Azure Blob Storage Resource Types.md",
+    "Web/Azure Web Developer Associate/Blob Storage/Explore Azure Blob Storage/Access Tiers for Block Blob Data.md",
+    "Web/Azure Web Developer Associate/Web Apps/Configure Web App Settings.md",
+    "Web/Azure Web Dev Associate.md"
+  ]
+}
