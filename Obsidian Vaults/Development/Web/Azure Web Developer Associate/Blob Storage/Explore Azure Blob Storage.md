@@ -1,4 +1,4 @@
-#azure #stub #azure-wda #topic
+#azure #azure-wda #topic
 
 # Explore Azure Blob Storage
 Microsoft's object storage solution for the cloud.

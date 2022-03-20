@@ -25,3 +25,21 @@ To create a block blob storage account in *Azure Portal*:
 8. Click `Review + create` to review storage account settings
 9. Select `Create`
 
+## Create Account by Using Azure Cloud Shell
+1. Login to *Azure Portal* and open *Cloud Shell*
+2. Create new Resource Group with command:
+```shell
+az group create --name <resource-group-name> --location <my-loc>
+```
+3. Create block blob storage account with following command:
+```shell
+az storage account create --resource-group <resource-group-name> --name 
+	<storage-acct-name> --location <my-loc> --kind BlockBlobStorage 
+	--sku Premium_LRS
+```
+
+## Clean Up Resources
+Run the following command to delete the resource group and associated resources
+```shell
+az group delete --name <resource-group-name> --no-wait
+```
