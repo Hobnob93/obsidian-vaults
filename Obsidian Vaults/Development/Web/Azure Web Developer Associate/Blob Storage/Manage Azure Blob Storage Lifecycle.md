@@ -2,3 +2,4 @@
 
 # Manage Azure Blob Storage Lifecycle
 [[Explore Azure Blob Storage Lifecycle]]
+[[Discover Blob Storage Lifecycle Policies]]
