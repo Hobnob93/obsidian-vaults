@@ -83,3 +83,41 @@ The JSON below runs actions on objects that exist inside `container1` and start 
 ```
 
 ## Rule Filters
+Filters limit rule actions to a subset of blobs within the storage account.
+A logical `AND` runes if there are multiple filters applied.
+- `blobTypes`
+	- An array of predefined enum values
+- `prefixMatch`
+	- Array of string prefixes to be matched
+	- Each rule can define up to 10 prefixes
+	- Prefix string *must* start with a container name
+- `blobIndexMatch`
+	- Array of dictionary values consisting of blob index tag key and value conditions to be matched
+	- Each rule can define up to 10 blob index tag conditions
+
+## Rule Actions
+Actions applied to filtered blobs when condition is met.
+
+Lifecycle management supports tiering and deletion of blobs as well as snapshots.
+Define *at least* one action for each rule.
+- `tierToCool`
+	- Supported for blockBlob
+	- Supported for snapshot
+- `enableAutoTierToHotFromCool`
+	- Supported for blockBlob
+	- Not supported for snapshot
+- `tierToArchive`
+	- Supported for blockBlob
+	- Supported for snapshot
+- `delete`
+	- Supported for blockBlob
+	- Supported for appendBlob
+	- Supported for snapshot
+
+Run conditions are based on age.
+base blobs use the latest modified time to track age.
+Blob snapshots use the creation time to track age.
+- `daysAfterModificationGreaterThan`
+	- Integer value indicating age in days
+- `daysAfterCreationGreaterThan`
+	- Integer value indicating age in days
