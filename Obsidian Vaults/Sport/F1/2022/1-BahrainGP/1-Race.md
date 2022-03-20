@@ -2,22 +2,22 @@
 | Pos | Driver | Team       | Crashed | Other DNF |
 | --- | ------ | ---------- | ------- | --------- |
 | 1   | LEC    | Ferrari    |         |           |
-| 2   | VER    | RB         |         |           |
-| 3   | SAI    | Ferrari    |         |           |
-| 4   | PER    | RB         |         |           |
-| 5   | HAM    | Mercedes   |         |           |
+| 2   | SAI    | Ferrari    |         |           |
+| 3   | HAM    | Mercedes   |         |           |
+| 4   | RUS    | Mercedes   |         |           |
+| 5   | MAG    | Haas       |         |           |
 | 6   | BOT    | Alfa       |         |           |
-| 7   | MAG    | Haas       |         |           |
-| 8   | ALO    | Alpine     |         |           |
-| 9   | RUS    | Mercedes   |         |           |
-| 10  | GAS    | AlphaTauri |         |           |
-| 11  | OCO    | Alpine     |         |           | 
-| 12  | MSC    | Haas       |         |           |
-| 13  | NOR    | McLaren    |         |           |
-| 14  | ALB    | Williams   |         |           |
-| 15  | ZHO    | Alfa       |         |           |
-| 16  | TSU    | AlphaTauri |         |           |
+| 7   | OCO    | Alpine     |         |           |
+| 8   | TSU    | AlphaTauri |         |           |
+| 9   | ALO    | Alpine     |         |           |
+| 10  | ZHO    | Alfa       |         |           |
+| 11  | MSC    | Haas       |         |           |
+| 12  | STR    | Aston      |         |           |
+| 13  | ALB    | Williams   |         |           |
+| 14  | RIC    | McLaren    |         |           |
+| 15  | NOR    | McLaren    |         |           |
+| 16  | LAT    | Williams   |         |           |
 | 17  | HUL    | Aston      |         |           |
-| 18  | RIC    | McLaren    |         |           |
-| 19  | STR    | Aston      |         |           |
-| 20  | LAT    | Williams   |         |           |
+| 18  | PER    | RB         |         | ✓         |
+| 19  | VER    | RB         |         | ✓         |
+| 20  | GAS    | AlphaTauri |         | ✓         |

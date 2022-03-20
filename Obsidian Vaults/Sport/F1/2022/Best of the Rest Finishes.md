@@ -9,7 +9,7 @@
 | BOT    | Alfa       | 0                    |
 | MAG    | Haas       | 0                    |
 | ALO    | Alpine     | 0                    |
-| RUS    | Mercedes   | 0                    |
+| RUS    | Mercedes   | 1                    |
 | GAS    | AlphaTauri | 0                    |
 | OCO    | Alpine     | 0                    |
 | MSC    | Haas       | 0                    |

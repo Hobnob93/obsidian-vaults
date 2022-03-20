@@ -1,11 +1,11 @@
 # Who Has Finished on the Podium?
 | Driver | Team       | Number of Podiums | 
 | ------ | ---------- | ----------------- |
-| LEC    | Ferrari    | 0                 |
+| LEC    | Ferrari    | 1                 |
 | VER    | RB         | 0                 |
-| SAI    | Ferrari    | 0                 |
+| SAI    | Ferrari    | 1                 |
 | PER    | RB         | 0                 |
-| HAM    | Mercedes   | 0                 |
+| HAM    | Mercedes   | 1                 |
 | BOT    | Alfa       | 0                 |
 | MAG    | Haas       | 0                 |
 | ALO    | Alpine     | 0                 |

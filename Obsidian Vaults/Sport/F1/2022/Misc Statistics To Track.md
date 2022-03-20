@@ -24,7 +24,7 @@
 | 19  | STR    | Aston      | 0      |
 | 20  | LAT    | Williams   | 0      |
 
-**Races won be Ferrari**: 0
+**Races won by Ferrari**: 1
 **First-Time Race Winners**: 
 **Top 3 Scores by Summer break**: 
 **Hamilton Wins a Race?**: 

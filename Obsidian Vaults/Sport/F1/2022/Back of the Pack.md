@@ -20,4 +20,4 @@
 | HUL    | Aston      | 0                             |
 | RIC    | McLaren    | 0                             |
 | STR    | Aston      | 0                             |
-| LAT    | Williams   | 0                             |
+| LAT    | Williams   | 1                             |
