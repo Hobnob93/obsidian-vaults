@@ -22,3 +22,4 @@ Storage containers provide unique namespace for the data stored within.
 ## Topics
 [[Access Tiers for Block Blob Data]]
 [[Discover Azure Blob Storage Resource Types]]
+[[Exercise - Create A Block Blob Storage Account]]
