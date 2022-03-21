@@ -4,3 +4,4 @@
 [[Identify Key Benefits of Cosmos DB]]
 [[Explore The Resource Hierarchy]]
 [[Explore Consistency Levels]]
+[[Choose The Right Consistency Level]]

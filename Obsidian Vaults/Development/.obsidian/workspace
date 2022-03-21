@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web/Azure Web Developer Associate/Cosmos DB/Explore Azure Cosmos DB/Explore Consistency Levels.md",
+            "file": "Web/Azure Web Developer Associate/Cosmos DB/Explore Azure Cosmos DB/Identify Key Benefits of Cosmos DB.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Azure Web Developer Associate/Cosmos DB/Explore Azure Cosmos DB/Explore Consistency Levels.md",
+                "file": "Web/Azure Web Developer Associate/Cosmos DB/Explore Azure Cosmos DB/Identify Key Benefits of Cosmos DB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +92,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Web/Azure Web Developer Associate/Cosmos DB/Explore Azure Cosmos DB/Explore Consistency Levels.md",
+                "file": "Web/Azure Web Developer Associate/Cosmos DB/Explore Azure Cosmos DB/Identify Key Benefits of Cosmos DB.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -165,15 +165,15 @@
   },
   "active": "fd3f7b6ab7e05ba5",
   "lastOpenFiles": [
-    "Web/Azure Web Developer Associate/Cosmos DB/Explore Azure Cosmos DB/Explore Consistency Levels.md",
-    "Web/Azure Web Developer Associate/Cosmos DB/Explore Azure Cosmos DB.md",
-    "Web/Azure Web Developer Associate/Cosmos DB/Explore Azure Cosmos DB/Explore The Resource Hierarchy.md",
     "Web/Azure Web Developer Associate/Cosmos DB/Explore Azure Cosmos DB/Identify Key Benefits of Cosmos DB.md",
+    "Web/Azure Web Developer Associate/Cosmos DB/Explore Azure Cosmos DB/Explore The Resource Hierarchy.md",
+    "Web/Azure Web Developer Associate/Cosmos DB/Explore Azure Cosmos DB/Explore Consistency Levels.md",
+    "Web/Azure Web Developer Associate/Cosmos DB/Explore Azure Cosmos DB/Choose The Right Consistency Level.md",
+    "Web/Azure Web Developer Associate/Cosmos DB/Explore Azure Cosmos DB.md",
     "Web/Azure Web Developer Associate/Azure Cosmos DB.md",
     "Web/Azure Web Developer Associate/Azure Blob Storage.md",
     "Web/Azure Web Developer Associate/Blob Storage/Work With Azure Blob Storage.md",
     "Web/Azure Web Developer Associate/Blob Storage/Work With Azure Blob Storage/Set & Retrieve Properties & Metadata Using REST.md",
-    "Web/Azure Web Developer Associate/Blob Storage/Work With Azure Blob Storage/Manage Container Properties & Metadata Using DOTNET.md",
-    "Web/Azure Web Developer Associate/Blob Storage/Work With Azure Blob Storage/Exercise - Create Blob Storage Resources Using Client Library.md"
+    "Web/Azure Web Developer Associate/Blob Storage/Work With Azure Blob Storage/Manage Container Properties & Metadata Using DOTNET.md"
   ]
 }
