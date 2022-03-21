@@ -1,3 +1,5 @@
 #azure #stub #azure-wda #topic
 
 # Explore Azure Cosmos DB
+[[Identify Key Benefits of Cosmos DB]]
+[[Explore The Resource Hierarchy]]
