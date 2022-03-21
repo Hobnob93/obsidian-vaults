@@ -3,3 +3,4 @@
 # Explore Azure Cosmos DB
 [[Identify Key Benefits of Cosmos DB]]
 [[Explore The Resource Hierarchy]]
+[[Explore Consistency Levels]]
