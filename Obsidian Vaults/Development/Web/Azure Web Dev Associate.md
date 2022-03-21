@@ -14,7 +14,7 @@
 - [[Azure Blob Storage]]
 	- [[Explore Azure Blob Storage]]
 	- [[Manage Azure Blob Storage Lifecycle]]
-	- [[Work with Azure Blob Storage]]
+	- [[Work With Azure Blob Storage]]
 - [[Azure Cosmos DB]]
 	- [[Explore Azure Cosmos DB]]
 	- [[Partitioning in Azure Cosmos DB]]
