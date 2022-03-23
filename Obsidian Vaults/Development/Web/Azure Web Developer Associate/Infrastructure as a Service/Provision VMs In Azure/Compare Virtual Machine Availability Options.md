@@ -24,5 +24,38 @@ A logical grouping of VMs allowing *Azure* to understand how app is built to pro
 A set is composed of two additional groupings that protect against hardware failures and allow updates to safely be applied.
 
 ### Fault Domains
+A logical group of shared underlying hardware.
+Hardware shared include:
+- Power source
+- Network switch
+As VMs created within availability set, *Azure* platform automatically distributes VMs across different fault domains.
+This approach limits impact of potential physical hardware failures, network outages, or power interruptions.
+
+![[Fault Domain Diagram.png]]
 
 ### Update Domains
+A logical group of underlying hardware that can undergo maintenance or be rebooted at the same time.
+*Azure* platform automatically distributes VMs across different update domains.
+This ensures at least one instance always remains running as periodic maintenance takes place.
+Order of update domains being rebooted may not proceed sequentially planned maintenance.
+Only one update domain is rebooted at a time.
+
+![[Update Domain Diagram.png]]
+
+## Virtual Machine Scale Sets
+Lets you create and manage group of load balanced VMs.
+Number of VM instances can automatically increase or decrease in response to demand or defined schedule.
+
+### Load Balancer
+Combine load balancer with availability zone or availability set to get most resiliency.
+*Azure* load balancer is a Layer-4 (TCP, UDP) load balancer providing high availability.
+It distributes traffic among healthy VMs.
+A health probe monitors a given port on each VM and only distributes traffic to operational VM.
+
+You define front-end IP config containing one or more public IP addresses.
+This config allows your load balancer and apps to be accessible over the Internet.
+
+VMs connect to a load balancer using their virtual network interface card (NIC).
+To distribute traffic to VMs, back-end address pool contains IP addresses of the virtual NICs connected to load balancer.
+
+To control traffic flow, you define load balancer rules for specific ports and protocols that map to your VMs.
