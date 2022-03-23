@@ -18,7 +18,7 @@
 - [[Azure Cosmos DB]]
 	- [[Explore Azure Cosmos DB]]
 	- [[Partitioning in Azure Cosmos DB]]
-	- [[Work with Azure Cosmos DB]]
+	- [[Work With Azure Cosmos DB]]
 - [[Infrastructure as a Service Solutions]]
 	- [[Provision VMs in Azure]]
 	- [[Azure Resource Manager Templates]]
