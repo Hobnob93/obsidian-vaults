@@ -1,4 +1,4 @@
-#azure #stub #azure-wda #module 
+#azure #azure-wda #module 
 
 # Azure Cosmos DB
 [[Explore Azure Cosmos DB]]
