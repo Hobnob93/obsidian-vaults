@@ -16,7 +16,7 @@
 | NOR    | McLaren    | 0        |
 | ALB    | Williams   | 0        |
 | ZHO    | Alfa       | 0        |
-| TSU    | AlphaTauri | 0        |
+| TSU    | AlphaTauri | 4        |
 | HUL    | Aston      | 0        |
 | RIC    | McLaren    | 0        |
 | STR    | Aston      | 0        |
