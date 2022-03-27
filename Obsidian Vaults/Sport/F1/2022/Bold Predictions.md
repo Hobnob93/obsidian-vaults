@@ -6,7 +6,7 @@
 - [ ] Latifi will outscore Albon
 - [ ] At least 3 first-time race winners
 - [ ] Less than 15 points separating top 3 drivers at summer break
-- [ ] Hamilton does not win a race
+- [x] Hamilton does not win a race
 - [ ] Magnussen will score at least 15 points
 - [ ] Schumacher makes Q3 at least 3 times
 - [ ] Vettel will retire this season

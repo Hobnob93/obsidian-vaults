@@ -35,5 +35,5 @@
 ## General Race Things
 **Number of Red Flags**: 0
 **Wet sessions** (in. sprints): 0
-**VSCs**: 1
-**Safety Cars**: 1
+**VSCs**: 2
+**Safety Cars**: 2
