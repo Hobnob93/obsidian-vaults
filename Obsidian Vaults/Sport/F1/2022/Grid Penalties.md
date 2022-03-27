@@ -18,6 +18,6 @@
 | ZHO    | Alfa       | 0                |
 | TSU    | AlphaTauri | 0                |
 | HUL    | Aston      | 0                |
-| RIC    | McLaren    | 0                |
+| RIC    | McLaren    | 3                |
 | STR    | Aston      | 0                |
 | LAT    | Williams   | 0                |

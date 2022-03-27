@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "F1/2022/Q2 Specialists.md",
+            "file": "F1/2022/Grid Penalties.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "F1/2022/Q2 Specialists.md",
+                "file": "F1/2022/Grid Penalties.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +92,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "F1/2022/Q2 Specialists.md",
+                "file": "F1/2022/Grid Penalties.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -165,6 +165,7 @@
   },
   "active": "34d14338809262a5",
   "lastOpenFiles": [
+    "F1/2022/Grid Penalties.md",
     "F1/2022/Q2 Specialists.md",
     "F1/2022/Podium Finishers.md",
     "F1/2022/Misc Statistics To Track.md",
@@ -172,7 +173,6 @@
     "F1/2022/License Points.md",
     "F1/2022/Laps Lead.md",
     "F1/2022/Head To Heads.md",
-    "F1/2022/Grid Penalties.md",
     "F1/2022/Drivers of the Days.md",
     "F1/2022/Bold Predictions.md"
   ]
