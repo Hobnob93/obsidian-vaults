@@ -6,9 +6,9 @@
 | SAI    | Ferrari    | 0        |
 | PER    | RB         | 3        |
 | HAM    | Mercedes   | 0        |
-| BOT    | Alfa       | 0        |
+| BOT    | Alfa       | 7        |
 | MAG    | Haas       | 0        |
-| ALO    | Alpine     | 0        |
+| ALO    | Alpine     | 5        |
 | RUS    | Mercedes   | 0        |
 | GAS    | AlphaTauri | 1        |
 | OCO    | Alpine     | 0        |
@@ -18,6 +18,6 @@
 | ZHO    | Alfa       | 0        |
 | TSU    | AlphaTauri | 4        |
 | HUL    | Aston      | 0        |
-| RIC    | McLaren    | 0        |
+| RIC    | McLaren    | 6        |
 | STR    | Aston      | 0        |
 | LAT    | Williams   | 0        |
