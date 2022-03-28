@@ -1,4 +1,4 @@
-# License Points Dished Out
+# Grid Penalties Taken
 | Driver | Team       | Grid Places Lost | 
 | ------ | ---------- | ---------------- |
 | LEC    | Ferrari    | 0                |

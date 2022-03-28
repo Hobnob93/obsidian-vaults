@@ -1,10 +1,10 @@
 # Who Leads the Most Laps?
 | Driver | Team       | Number of Laps Lead |
 | ------ | ---------- | ------------------- |
-| LEC    | Ferrari    | 57                  | 
-| VER    | RB         | 0                   |
+| LEC    | Ferrari    | 87                  |
+| VER    | RB         | 6                   |
 | SAI    | Ferrari    | 0                   |
-| PER    | RB         | 0                   |
+| PER    | RB         | 14                  |
 | HAM    | Mercedes   | 0                   |
 | BOT    | Alfa       | 0                   |
 | MAG    | Haas       | 0                   |

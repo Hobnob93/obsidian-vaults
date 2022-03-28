@@ -1,7 +1,7 @@
 # Who Gets Driver of the Day The Most?
 | Driver | Team       | Number of Awards | 
 | ------ | ---------- | ---------------- |
-| LEC    | Ferrari    | 1                |
+| LEC    | Ferrari    | 2                |
 | VER    | RB         | 0                |
 | SAI    | Ferrari    | 0                |
 | PER    | RB         | 0                |

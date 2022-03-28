@@ -4,7 +4,7 @@
 | LEC    | Ferrari    | 0                    |
 | VER    | RB         | 0                    |
 | SAI    | Ferrari    | 0                    |
-| PER    | RB         | 0                    |
+| PER    | RB         | 1                    |
 | HAM    | Mercedes   | 0                    |
 | BOT    | Alfa       | 0                    |
 | MAG    | Haas       | 0                    |
@@ -17,7 +17,7 @@
 | ALB    | Williams   | 0                    |
 | ZHO    | Alfa       | 0                    |
 | TSU    | AlphaTauri | 0                    |
-| HUL    | Aston      | 0                    |
+| VET    | Aston      | 0                    |
 | RIC    | McLaren    | 0                    |
 | STR    | Aston      | 0                    |
 | LAT    | Williams   | 0                    |

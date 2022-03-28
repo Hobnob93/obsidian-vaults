@@ -1,22 +1,23 @@
-# Suadi Race Results
+# Saudi Race Results
 | Pos | Driver | Team       | Crashed | Other DNF |
 | --- | ------ | ---------- | ------- | --------- |
-| 1   | LEC    | Ferrari    |         |           |
-| 2   | SAI    | Ferrari    |         |           |
-| 3   | HAM    | Mercedes   |         |           |
-| 4   | RUS    | Mercedes   |         |           |
-| 5   | MAG    | Haas       |         |           |
-| 6   | BOT    | Alfa       |         | ✓         |
-| 7   | OCO    | Alpine     |         |           |
-| 9   | ALO    | Alpine     |         | ✓         |
-| 10  | ZHO    | Alfa       |         |           |
-| 11  | MSC    | Haas       |         | ✓         |
-| 12  | STR    | Aston      |         |           |
-| 13  | ALB    | Williams   | ✓       |           |
-| 14  | RIC    | McLaren    |         | ✓         |
-| 15  | NOR    | McLaren    |         |           |
-| 17  | HUL    | Aston      |         |           |
-| 18  | PER    | RB         |         |           |
-| 19  | VER    | RB         |         |           |
-| 20  | GAS    | AlphaTauri |         |           |
-| 20  | TSU    | AlphaTauri |         | ✓         |
+| 1   | VER    | RB         |         |           |
+| 2   | LEC    | Ferrari    |         |           |
+| 3   | SAI    | Ferrari    |         |           |
+| 4   | PER    | RB         |         |           |
+| 5   | RUS    | Mercedes   |         |           |
+| 6   | OCO    | Alpine     |         |           |
+| 7   | NOR    | McLaren    |         |           |
+| 8   | GAS    | AlphaTauri |         |           |
+| 9   | MAG    | Haas       |         |           |
+| 10  | HAM    | Mercedes   |         |           |
+| 11  | ZHO    | Alfa       |         |           |
+| 12  | HUL    | Aston      |         |           |
+| 13  | STR    | Aston      |         |           |
+| 14  | ALB    | Williams   | ✓       |           |
+| 15  | BOT    | Alfa       |         | ✓         |
+| 16  | ALO    | Alpine     |         | ✓         |
+| 17  | RIC    | McLaren    |         | ✓         |
+| 18  | LAT    | Williams   | ✓       |           |
+| 19  | TSU    | AlphaTauri |         | DNS       |
+| 20  | MSC    | Haas       |         | DNS       |
