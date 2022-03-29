@@ -23,3 +23,20 @@ Consider the following advantages of using templates:
 	- *Resource Manager* orchestrates deployment of interdependent resources so they're created in the correct order
 	- All resources deployed in parallel where possible
 	- You deploy template through one command, rather than multiple imperative commands
+
+## Template File
+Within template, you can write template expressions extending capabilities of JSON.
+Expressions make use of the [functions](https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/template-functions) provided by *Resource Manager*.
+
+Template has the following sections:
+- [Parameters](https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/parameters) 
+	- Provides values during deployment allowing same template to be used with different environments
+- [Variables](https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/variables) 
+	- Values reused within templates
+	- Can be constructed from parameter values
+- [User-defined functions](https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/user-defined-functions)
+	- Create customised functions that simplify your template
+- [Resources](https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/resource-declaration)
+	- Specify resources to deploy
+- [Outputs](https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/outputs)
+	- Return values from deployed resources

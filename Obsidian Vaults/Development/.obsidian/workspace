@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web/Azure Web Developer Associate/Infrastructure as a Service/Azure Resource Manager Templates/Explore Azure Resource Manager.md",
+            "file": "Web/Azure Web Developer Associate/Infrastructure as a Service/Azure Resource Manager Templates/Explore Conditional Deployment.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Azure Web Developer Associate/Infrastructure as a Service/Azure Resource Manager Templates/Explore Azure Resource Manager.md",
+                "file": "Web/Azure Web Developer Associate/Infrastructure as a Service/Azure Resource Manager Templates/Explore Conditional Deployment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +92,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Web/Azure Web Developer Associate/Infrastructure as a Service/Azure Resource Manager Templates/Explore Azure Resource Manager.md",
+                "file": "Web/Azure Web Developer Associate/Infrastructure as a Service/Azure Resource Manager Templates/Explore Conditional Deployment.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -165,15 +165,15 @@
   },
   "active": "fd3f7b6ab7e05ba5",
   "lastOpenFiles": [
-    "Web/Azure Web Developer Associate/Infrastructure as a Service/Azure Resource Manager Templates/Explore Azure Resource Manager.md",
+    "Web/Azure Web Developer Associate/Infrastructure as a Service/Azure Resource Manager Templates/Explore Conditional Deployment.md",
     "Web/Azure Web Developer Associate/Infrastructure as a Service/Azure Resource Manager Templates.md",
+    "Web/Azure Web Developer Associate/Infrastructure as a Service/Azure Resource Manager Templates/Deploy Multi-Tiered Solutions.md",
+    "Web/Azure Web Developer Associate/Infrastructure as a Service/Azure Resource Manager Templates/Explore Azure Resource Manager.md",
     "Web/Azure Web Developer Associate/Infrastructure as a Service Solutions.md",
     "Web/Azure Web Developer Associate/Infrastructure as a Service/Provision VMs in Azure.md",
     "Web/Azure Web Developer Associate/Infrastructure as a Service/Provision VMs In Azure/Exercise - Create A Virtual Machine Using Azure CLI.md",
     "Web/Azure Web Developer Associate/Infrastructure as a Service/Provision VMs In Azure/Determine Appropriate Virtual Machine Size.md",
     "Web/Azure Web Developer Associate/Infrastructure as a Service/Provision VMs In Azure/Compare Virtual Machine Availability Options.md",
-    "Web/Azure Web Developer Associate/Infrastructure as a Service/Provision VMs In Azure/Explore Azure Virtual Machines.md",
-    "Web/Azure Web Dev Associate.md",
-    "Web/Azure Web Developer Associate/Azure Cosmos DB.md"
+    "Web/Azure Web Developer Associate/Infrastructure as a Service/Provision VMs In Azure/Explore Azure Virtual Machines.md"
   ]
 }
