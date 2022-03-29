@@ -7,8 +7,12 @@
         "id": "fd3f7b6ab7e05ba5",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Web/Azure Web Developer Associate/Infrastructure as a Service/Container Images in Container Registry/Build & Manage Containers With Tasks.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Web/Azure Web Developer Associate/Infrastructure as a Service/Container Images in Container Registry/Build & Manage Containers With Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,6 +92,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Web/Azure Web Developer Associate/Infrastructure as a Service/Container Images in Container Registry/Build & Manage Containers With Tasks.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -159,15 +165,15 @@
   },
   "active": "fd3f7b6ab7e05ba5",
   "lastOpenFiles": [
-    "Web/Azure Web Developer Associate/Infrastructure as a Service/Container Images in Container Registry/Discover Azure Container Registry.md",
+    "Web/Azure Web Developer Associate/Infrastructure as a Service/Container Images in Container Registry/Build & Manage Containers With Tasks.md",
     "Web/Azure Web Developer Associate/Infrastructure as a Service/Container Images in Container Registry.md",
+    "Web/Azure Web Developer Associate/Infrastructure as a Service/Container Images in Container Registry/Explore Storage Capabilities.md",
+    "Web/Azure Web Developer Associate/Infrastructure as a Service/Container Images in Container Registry/Discover Azure Container Registry.md",
     "Web/Azure Web Developer Associate/Infrastructure as a Service Solutions.md",
     "Web/Azure Web Developer Associate/Infrastructure as a Service/Azure Resource Manager Templates.md",
     "Web/Azure Web Developer Associate/Infrastructure as a Service/Azure Resource Manager Templates/Exercise - Create & Deploy Azure Resource Manager Templates.md",
     "Web/Azure Web Developer Associate/Functions/Develop Azure Functions/Exercise - Create an Azure Function Using VS Code.md",
     "Web/Azure Web Developer Associate/Infrastructure as a Service/Provision VMs In Azure/Exercise - Create A Virtual Machine Using Azure CLI.md",
-    "Web/Azure Web Developer Associate/Blob Storage/Explore Azure Blob Storage/Exercise - Create A Block Blob Storage Account.md",
-    "Web/Azure Web Developer Associate/Infrastructure as a Service/Azure Resource Manager Templates/Set Correct Deployment Mode.md",
-    "Web/Azure Web Developer Associate/Infrastructure as a Service/Azure Resource Manager Templates/Explore Conditional Deployment.md"
+    "Web/Azure Web Developer Associate/Blob Storage/Explore Azure Blob Storage/Exercise - Create A Block Blob Storage Account.md"
   ]
 }
