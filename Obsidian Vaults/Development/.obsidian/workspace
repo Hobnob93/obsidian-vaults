@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web/Azure Web Developer Associate/Authentication & Authorisation/Explore Microsoft Identity Platform/About Microsoft identity Platform.md",
+            "file": "Web/Azure Web Developer Associate/Authentication & Authorisation/Explore Microsoft Identity Platform.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Azure Web Developer Associate/Authentication & Authorisation/Explore Microsoft Identity Platform/About Microsoft identity Platform.md",
+                "file": "Web/Azure Web Developer Associate/Authentication & Authorisation/Explore Microsoft Identity Platform.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +92,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Web/Azure Web Developer Associate/Authentication & Authorisation/Explore Microsoft Identity Platform/About Microsoft identity Platform.md",
+                "file": "Web/Azure Web Developer Associate/Authentication & Authorisation/Explore Microsoft Identity Platform.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -165,8 +165,8 @@
   },
   "active": "fd3f7b6ab7e05ba5",
   "lastOpenFiles": [
-    "Web/Azure Web Developer Associate/Authentication & Authorisation/Explore Microsoft Identity Platform/About Microsoft identity Platform.md",
     "Web/Azure Web Developer Associate/Authentication & Authorisation/Explore Microsoft Identity Platform.md",
+    "Web/Azure Web Developer Associate/Authentication & Authorisation/Explore Microsoft Identity Platform/About Microsoft identity Platform.md",
     "Web/Azure Web Developer Associate/Azure User Authentication & Authorisation.md",
     "Web/Azure Web Dev Associate.md",
     "Web/Azure Web Developer Associate/Infrastructure as a Service Solutions.md",
