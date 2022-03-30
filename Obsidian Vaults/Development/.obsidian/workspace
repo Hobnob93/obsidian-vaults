@@ -7,8 +7,12 @@
         "id": "fd3f7b6ab7e05ba5",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Web/Azure Web Developer Associate/Authentication & Authorisation/Explore Microsoft Identity Platform/About Microsoft identity Platform.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Web/Azure Web Developer Associate/Authentication & Authorisation/Explore Microsoft Identity Platform/About Microsoft identity Platform.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,6 +92,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Web/Azure Web Developer Associate/Authentication & Authorisation/Explore Microsoft Identity Platform/About Microsoft identity Platform.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -159,15 +165,15 @@
   },
   "active": "fd3f7b6ab7e05ba5",
   "lastOpenFiles": [
+    "Web/Azure Web Developer Associate/Authentication & Authorisation/Explore Microsoft Identity Platform/About Microsoft identity Platform.md",
+    "Web/Azure Web Developer Associate/Authentication & Authorisation/Explore Microsoft Identity Platform.md",
+    "Web/Azure Web Developer Associate/Azure User Authentication & Authorisation.md",
+    "Web/Azure Web Dev Associate.md",
     "Web/Azure Web Developer Associate/Infrastructure as a Service Solutions.md",
     "Web/Azure Web Developer Associate/Infrastructure as a Service/Run Container Images in Container Instances.md",
     "Web/Azure Web Developer Associate/Infrastructure as a Service/Run Container Images in Container Instances/Mount Azure File Share in ACI.md",
     "Web/Azure Web Developer Associate/Infrastructure as a Service/Run Container Images in Container Instances/Set Environment Variables in Container Instances.md",
     "Web/Azure Web Developer Associate/Infrastructure as a Service/Run Container Images in Container Instances/Run Containerised Tasks With Restart Policies.md",
-    "Web/Azure Web Developer Associate/Infrastructure as a Service/Container Images in Container Registry/Azure Files.md",
-    "Web/Azure Web Developer Associate/Infrastructure as a Service/Run Container Images in Container Instances/Exercise - Deploy Container Instance Using Azure CLI.md",
-    "Web/Azure Web Developer Associate/Infrastructure as a Service/Run Container Images in Container Instances/Explore Azure Container Instances.md",
-    "Web/Azure Web Developer Associate/Infrastructure as a Service/Container Images in Container Registry.md",
-    "Web/Azure Web Developer Associate/Infrastructure as a Service/Container Images in Container Registry/Exercise - Build & Run Container Image Using ACR.md"
+    "Web/Azure Web Developer Associate/Infrastructure as a Service/Container Images in Container Registry/Azure Files.md"
   ]
 }
