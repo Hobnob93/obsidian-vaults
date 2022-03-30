@@ -2,3 +2,4 @@
 
 # Explore Microsoft Identity Platform
 [[About Microsoft identity Platform]]
+[[Explore Service Principals]]
