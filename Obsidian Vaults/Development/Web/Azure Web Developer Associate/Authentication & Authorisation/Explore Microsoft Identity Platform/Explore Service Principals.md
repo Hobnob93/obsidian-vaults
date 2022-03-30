@@ -29,3 +29,10 @@ Application object describes three aspects of an application:
 ## Service Principal Object
 Entity requiring access must be represented by a security principal in order for it to access resources secured by *AAD* tenant.
 This is true for both users (principal) and applications (service principal).
+
+Security principal defines the access policy and permissions for the user/app in the *AAD* tenant.
+This enables core features, such as auth of user/app during sign-in, and authorisation during resource access.
+
+There are three types of service principal:
+- **Application**
+	- The local representation, or app instance, of a global application object 
