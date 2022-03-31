@@ -26,7 +26,7 @@
 	- [[Run Container Images in Container Instances]]
 - [[Azure User Authentication & Authorisation]]
 	- [[Explore Microsoft Identity Platform]]
-	- [[Authenticating with Microsoft Auth Library]]
+	- [[Authenticating with Microsoft Authentication Library]]
 	- [[Shared Access Signatures]]
 	- [[Explore Microsoft Graph]]
 - [[Implement Secure Cloud Solutions]]
