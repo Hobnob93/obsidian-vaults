@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web/Azure Web Developer Associate/Authentication & Authorisation/Shared Access Signatures/Discover Shared Access Signatures.md",
+            "file": "Web/Azure Web Developer Associate/Authentication & Authorisation/Shared Access Signatures/Choose When to Use Shared Access Signatures.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Azure Web Developer Associate/Authentication & Authorisation/Shared Access Signatures/Discover Shared Access Signatures.md",
+                "file": "Web/Azure Web Developer Associate/Authentication & Authorisation/Shared Access Signatures/Choose When to Use Shared Access Signatures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +92,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Web/Azure Web Developer Associate/Authentication & Authorisation/Shared Access Signatures/Discover Shared Access Signatures.md",
+                "file": "Web/Azure Web Developer Associate/Authentication & Authorisation/Shared Access Signatures/Choose When to Use Shared Access Signatures.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -165,15 +165,15 @@
   },
   "active": "fd3f7b6ab7e05ba5",
   "lastOpenFiles": [
-    "Web/Azure Web Developer Associate/Authentication & Authorisation/Shared Access Signatures/Discover Shared Access Signatures.md",
+    "Web/Azure Web Developer Associate/Authentication & Authorisation/Shared Access Signatures/Choose When to Use Shared Access Signatures.md",
     "Web/Azure Web Developer Associate/Authentication & Authorisation/Shared Access Signatures.md",
+    "Web/Azure Web Developer Associate/Authentication & Authorisation/Shared Access Signatures/Discover Shared Access Signatures.md",
     "Web/Azure Web Developer Associate/Azure User Authentication & Authorisation.md",
     "Web/Azure Web Developer Associate/Authentication & Authorisation/Authenticating with Microsoft Authentication Library.md",
     "Web/Azure Web Developer Associate/Authentication & Authorisation/Microsoft Authentication Library/Exercise - Implement Interactive Authentication Using MSAL.NET.md",
     "Web/Azure Web Developer Associate/Authentication & Authorisation/Microsoft Authentication Library/Initialise Client Applications.md",
     "Web/Azure Web Developer Associate/Authentication & Authorisation/Microsoft Authentication Library/Explore Microsoft Authentication Library.md",
     "Web/Azure Web Developer Associate/Authentication & Authorisation/Explore Microsoft Identity Platform.md",
-    "Web/Azure Web Developer Associate/Authentication & Authorisation/Explore Microsoft Identity Platform/Discover Conditional Access.md",
-    "Web/Azure Web Developer Associate/Authentication & Authorisation/Explore Microsoft Identity Platform/Discover Permissions & Consent.md"
+    "Web/Azure Web Developer Associate/Authentication & Authorisation/Explore Microsoft Identity Platform/Discover Conditional Access.md"
   ]
 }
