@@ -53,4 +53,4 @@ To reduce risks of using SAS, there is some guidance:
 - Some situations where SAS isn't correct solution
 	- create a middle-tier service to manage users and access to storage
 
-The most flexible way to use a service or account SAS is to associate tokens with a stored access policy.
+The most flexible way to use a service or account SAS is to associate tokens with a [[Explore Stored Access Policies|stored access policy]].
