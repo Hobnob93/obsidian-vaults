@@ -1,4 +1,4 @@
-#azure #azure-wda 
+#azure #az-204 
 
 # Determine Appropriate Virtual Machine Size
 Consider the type of workload your VM needs to run.

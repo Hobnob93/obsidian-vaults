@@ -1,4 +1,4 @@
-#azure #azure-wda #exercise #shell
+#azure #az-204 #exercise #shell
 
 # Exercise - Build & Run Container Image Using ACR
 ## Prerequisites

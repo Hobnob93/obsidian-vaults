@@ -1,4 +1,4 @@
-#azure #azure-wda 
+#azure #az-204 
 
 # Explore Azure Blob Storage Lifecycle
 Data sets have unique lifecycles.

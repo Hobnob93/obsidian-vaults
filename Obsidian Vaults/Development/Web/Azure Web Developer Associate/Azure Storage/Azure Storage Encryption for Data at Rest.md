@@ -1,4 +1,4 @@
-#azure #azure-wda #topic 
+#azure #az-204 #topic 
 
 # Azure Storage Encryption for Data at Rest
 Automatically encrypts data when persisting to the cloud.

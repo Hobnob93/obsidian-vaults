@@ -1,4 +1,4 @@
-#azure #azure-wda 
+#azure #az-204
 
 # Route Traffic in App Service
 By default, all client requests to prod URL go to `http://<appname>.azurewebsites.net`.

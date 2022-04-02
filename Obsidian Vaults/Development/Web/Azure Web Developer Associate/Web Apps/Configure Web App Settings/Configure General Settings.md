@@ -1,4 +1,4 @@
-#azure #azure-wda 
+#azure #az-204 
 
 # Configure General Settings
 In the ==General Settings== section you can configure common app settings.

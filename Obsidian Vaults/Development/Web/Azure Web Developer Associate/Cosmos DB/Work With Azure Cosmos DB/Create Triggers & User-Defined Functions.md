@@ -1,4 +1,4 @@
-#azure #azure-wda #javascript 
+#azure #az-204 #javascript 
 
 # Create Triggers & User-Defined Functions
 *Azure Cosmos DB* supports ==pre-triggers== and ==post-triggers==.

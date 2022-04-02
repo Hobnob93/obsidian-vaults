@@ -1,4 +1,4 @@
-#azure #azure-wda 
+#azure #az-204 
 
 # Discover Azure Container Registry
 The *Azure Container Registry* (ACR) service builds container images in *Azure*.

@@ -1,4 +1,4 @@
-#azure #azure-wda 
+#azure #az-204
 
 # Explore Storage Capabilities
 Every *ACR* [[Discover Azure Container Registry#Azure Container Registry Service Tiers|tier]] benefits from advanced *Azure* storage features:

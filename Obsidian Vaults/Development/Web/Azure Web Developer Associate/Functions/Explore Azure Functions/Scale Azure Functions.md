@@ -1,4 +1,4 @@
-#azure #azure-wda 
+#azure #az-204
 
 # Scale Azure Functions
 Under the `Consumption` and `Premium` plans, *Azure* scales CPU and memory resources.

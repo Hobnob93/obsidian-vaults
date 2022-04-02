@@ -1,4 +1,4 @@
-#azure #azure-wda #topic
+#azure #az-204 #topic
 
 # Explore Azure Blob Storage
 Microsoft's object storage solution for the cloud.

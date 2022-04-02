@@ -1,4 +1,4 @@
-#azure #azure-wda #exercise #json 
+#azure #az-204 #exercise #json 
 
 # Exercise - Create Cosmos DB Resources Using Azure Portal
 ## Prerequisites

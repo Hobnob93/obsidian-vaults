@@ -1,4 +1,4 @@
-#azure #azure-wda #exercise #json #shell 
+#azure #az-204 #exercise #json #shell 
 
 # Exercise - Create & Deploy Azure Resource Manager Templates
 ## Prerequisites

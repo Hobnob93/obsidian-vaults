@@ -1,4 +1,4 @@
-#azure #azure-wda 
+#azure #az-204
 
 # Explore The Resource Hierarchy
 The *Azure Cosmos* account is fundamental unit of distribution and high availability.

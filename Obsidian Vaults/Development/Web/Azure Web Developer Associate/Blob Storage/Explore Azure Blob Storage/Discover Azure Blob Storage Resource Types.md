@@ -1,4 +1,4 @@
-#azure #azure-wda 
+#azure #az-204 
 
 # Discover Azure Blob Storage Resource Types
 Blob storage offers three types of resources:

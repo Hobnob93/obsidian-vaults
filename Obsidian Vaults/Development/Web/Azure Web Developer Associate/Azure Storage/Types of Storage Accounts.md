@@ -1,4 +1,4 @@
-#azure #azure-wda #topic 
+#azure #az-204 #topic 
 
 # Types of Storage Accounts
 *Azure Storage* offers two performance levels of storage accounts; `standard` and `premium`.

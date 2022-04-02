@@ -1,4 +1,4 @@
-#azure #azure-wda #csharp 
+#azure #az-204 #csharp 
 
 # Control Timing in Durable Functions
 Create a *durable timer* by calling the `CreateTimer` method.

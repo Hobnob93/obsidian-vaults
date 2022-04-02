@@ -1,4 +1,4 @@
-#azure #azure-wda 
+#azure #az-204
 
 # Discover The Four Function Types
 Currently, the types are:

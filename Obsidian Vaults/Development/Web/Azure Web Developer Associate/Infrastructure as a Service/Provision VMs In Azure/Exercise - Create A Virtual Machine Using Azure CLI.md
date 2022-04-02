@@ -1,4 +1,4 @@
-#azure #azure-wda #exercise #shell #cli
+#azure #az-204 #exercise #shell #cli
 
 # Exercise - Create A Virtual Machine Using Azure CLI
 ## Prerequisites

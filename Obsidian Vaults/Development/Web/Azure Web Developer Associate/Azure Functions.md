@@ -1,4 +1,4 @@
-#azure #azure-wda #module 
+#azure #az-204 #module 
 
 # Azure Functions
 [[Explore Azure Functions]]

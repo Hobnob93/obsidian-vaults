@@ -1,4 +1,4 @@
-#azure #azure-wda #json 
+#azure #az-204 #json 
 
 # Explore Azure Functions Development
 A function contains two pieces:

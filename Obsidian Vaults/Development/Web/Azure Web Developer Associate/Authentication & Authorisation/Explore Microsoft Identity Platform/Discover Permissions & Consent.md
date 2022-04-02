@@ -1,4 +1,4 @@
-#azure #azure-wda 
+#azure #az-204 
 
 # Discover Permissions & Consent
 Apps integrating with Microsoft identity platform use an authorisation model to control use/admin access to data.

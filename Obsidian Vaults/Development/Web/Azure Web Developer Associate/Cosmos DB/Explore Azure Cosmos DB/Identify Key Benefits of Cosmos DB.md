@@ -1,4 +1,4 @@
-#azure #azure-wda 
+#azure #az-204
 
 # Identify Key Benefits of Cosmos DB
 Designed for these main benefits:

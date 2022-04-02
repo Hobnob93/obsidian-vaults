@@ -1,4 +1,4 @@
-#azure #azure-wda #topic
+#azure #az-204 #topic
 
 # Implement Azure Durable Functions
 [[Explore Durable Functions App Patterns]]

@@ -1,4 +1,4 @@
-#azure #azure-wda #csharp #json #javascript 
+#azure #az-204 #csharp #json #javascript 
 
 # Create Triggers & Bindings
 Triggers are what cause a function to run, or how it is invoked.

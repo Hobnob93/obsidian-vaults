@@ -1,4 +1,4 @@
-#azure #azure-wda #shell 
+#azure #az-204 #shell 
 
 # Set Correct Deployment Mode#
 Can set if deployment is either ==incremental== update or ==complete== update.

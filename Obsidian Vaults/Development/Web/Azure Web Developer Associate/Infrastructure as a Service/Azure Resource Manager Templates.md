@@ -1,4 +1,4 @@
-#azure #azure-wda #topic
+#azure #az-204 #topic
 
 # Azure Resource Manager Templates
 [[Explore Azure Resource Manager]]

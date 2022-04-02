@@ -1,4 +1,4 @@
-#azure #azure-wda #main
+#azure #az-204 #main
 
 # Azure Web Developer Associate
 - [[Azure Web Apps]]

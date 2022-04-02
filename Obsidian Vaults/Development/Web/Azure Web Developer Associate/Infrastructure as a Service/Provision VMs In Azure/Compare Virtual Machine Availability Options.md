@@ -1,4 +1,4 @@
-#azure #azure-wda 
+#azure #az-204 
 
 # Compare Virtual Machine Availability Options
 *Azure* offers several options for ensuring availability of VMs.

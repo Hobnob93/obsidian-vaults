@@ -1,4 +1,4 @@
-#azure #azure-wda #exercise #shell 
+#azure #az-204 #exercise #shell 
 
 # Exercise - Create A Block Blob Storage Account
 Lets you create block blobs with premium performance.

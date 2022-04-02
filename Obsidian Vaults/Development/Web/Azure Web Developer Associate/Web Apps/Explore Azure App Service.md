@@ -1,4 +1,4 @@
-#azure #azure-wda #topic
+#azure #az-204 #topic
 
 # Explore Azure App Service
 It's an HTTP-based service for ==hosting web applications==, ==REST APIs==, and ==mobile backends==.

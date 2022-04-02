@@ -1,4 +1,4 @@
-#azure #azure-wda 
+#azure #az-204
 
 # Explore Service Principals
 App must be registered with *Azure Active Directory* (AAD) in order to delegate Identity and Access Management functions to *Azure Active Directory*.

@@ -1,4 +1,4 @@
-#azure #azure-wda #csharp 
+#azure #az-204 #csharp 
 
 # Explore Microsoft .NET SDK v3 for Azure Cosmos DB
 Due to *Azure Cosmos* supports multiple [[Explore Supported APIs|API models]], the .NET SDK uses some generic terms:

@@ -1,4 +1,4 @@
-#azure #azure-wda 
+#azure #az-204 
 
 # Examine Slot Swapping
 *App Service* does the following upon swapping slots to ensure *target* slot doesn't experience downtime:

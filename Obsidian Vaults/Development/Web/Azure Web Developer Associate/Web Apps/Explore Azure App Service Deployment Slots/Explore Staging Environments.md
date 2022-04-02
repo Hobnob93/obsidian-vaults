@@ -1,4 +1,4 @@
-#azure #azure-wda 
+#azure #az-204
 
 # Explore Staging Environments
 Can use a different deployment slot instead of default *production*.

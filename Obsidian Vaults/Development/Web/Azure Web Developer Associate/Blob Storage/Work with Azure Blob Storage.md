@@ -1,4 +1,4 @@
-#azure #azure-wda #topic
+#azure #az-204 #topic
 
 # Work With Azure Blob Storage
 [[Explore Azure Blob Storage Client Library]]

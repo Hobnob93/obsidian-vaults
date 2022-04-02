@@ -1,4 +1,4 @@
-#azure #azure-wda #json #shell 
+#azure #az-204 #json #shell 
 
 # Implement Blob Storage Lifecycle Policies
 You can add, edit, or remove a policy through any of these methods:

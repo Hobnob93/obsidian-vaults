@@ -1,4 +1,4 @@
-#azure #azure-wda 
+#azure #az-204
 
 # Incremental & Dynamic User Consent
 Using identity platform endpoint, you can ignore static permissions defined in app registration.

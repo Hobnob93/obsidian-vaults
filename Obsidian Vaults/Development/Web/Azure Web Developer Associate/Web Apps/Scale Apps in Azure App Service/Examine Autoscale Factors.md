@@ -1,4 +1,4 @@
-#azure #azure-wda 
+#azure #az-204 
 
 # Examine Autoscale Factors
 Autoscaling can be triggered according to a schedule, or by a resource usage threshold.

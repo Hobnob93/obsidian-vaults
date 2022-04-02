@@ -1,4 +1,4 @@
-#azure #azure-wda #json 
+#azure #az-204 #json 
 
 # Explore Conditional Deployment
 Allows you to optionally deploy a resource in a template.

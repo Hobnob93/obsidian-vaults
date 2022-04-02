@@ -1,4 +1,4 @@
-#azure #azure-wda 
+#azure #az-204
 
 # Explore Durable Functions App Patterns
 It's an extension of functions.

@@ -1,4 +1,4 @@
-#azure #azure-wda
+#azure #az-204
 
 # Explore Microsoft Authentication Library
 The *Microsoft Authentication Library* (MSAL) is used to provide secure access to *Microsoft Graph*, other MS APIs, third-party web APIs, or your own web API.

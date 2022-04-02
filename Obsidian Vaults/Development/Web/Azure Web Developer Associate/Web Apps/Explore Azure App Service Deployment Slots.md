@@ -1,4 +1,4 @@
-#azure #azure-wda #topic
+#azure #az-204 #topic
 
 # Azure App Service Deployment Slots
 [[Explore Staging Environments]]

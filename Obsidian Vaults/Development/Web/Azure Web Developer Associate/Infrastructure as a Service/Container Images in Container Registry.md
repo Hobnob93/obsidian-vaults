@@ -1,4 +1,4 @@
-#azure #azure-wda #topic
+#azure #az-204 #topic
 
 # Container Images in Container Registry
 [[Discover Azure Container Registry]]

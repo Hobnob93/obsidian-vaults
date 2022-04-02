@@ -1,4 +1,4 @@
-#azure #azure-wda 
+#azure #az-204
 
 # Explore Durable Orchestrations
 Use an [[Discover The Four Function Types#Orchestrator Functions|Orchestrator Function]] to orchestrate execution of other *durable functions* within an app.

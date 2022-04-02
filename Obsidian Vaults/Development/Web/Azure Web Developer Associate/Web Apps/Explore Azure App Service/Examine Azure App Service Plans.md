@@ -1,4 +1,4 @@
-#azure #azure-wda
+#azure #az-204
 
 # Examine Azure App Service Plans
 In *App Service*, an app always runs in an ==App Service Plan==.

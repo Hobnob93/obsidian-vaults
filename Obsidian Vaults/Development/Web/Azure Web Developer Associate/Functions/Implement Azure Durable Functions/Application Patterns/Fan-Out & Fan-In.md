@@ -1,4 +1,4 @@
-#azure #azure-wda #csharp 
+#azure #az-204 #csharp 
 
 # Application Pattern - Fan-Out & Fan-In
 Execute multiple functions in parallel, then wait for all functions to finish.

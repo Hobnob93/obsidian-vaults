@@ -1,4 +1,4 @@
-#azure #azure-wda 
+#azure #az-204 
 
 # Discover Request Units
 With *Azure Cosmos DB*, you pay for throughput you provision and storage you consume, per hour.

@@ -1,4 +1,4 @@
-#azure #azure-wda 
+#azure #az-204 
 
 # Create A Synthetic Partition Key
 Best practise to have a key with many distinct values.

@@ -1,4 +1,4 @@
-#azure #azure-wda 
+#azure #az-204 
 
 # Explore Azure Resource Manager
 *Resource Manager* receives requests from any *Azure* tools, APIs, or SDKs.

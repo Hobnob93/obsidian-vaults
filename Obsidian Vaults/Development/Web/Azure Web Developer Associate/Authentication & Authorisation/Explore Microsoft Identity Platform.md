@@ -1,4 +1,4 @@
-#azure #azure-wda #topic
+#azure #az-204 #topic
 
 # Explore Microsoft Identity Platform
 [[About Microsoft identity Platform]]

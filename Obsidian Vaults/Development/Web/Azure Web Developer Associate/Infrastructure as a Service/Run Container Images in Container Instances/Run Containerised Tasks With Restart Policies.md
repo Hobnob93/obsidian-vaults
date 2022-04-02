@@ -1,4 +1,4 @@
-#azure #azure-wda #shell 
+#azure #az-204 #shell 
 
 # Run Containerised Tasks With Restart Policies
 Ease and speed of deploying containers in *ACI* makes run-once tasks feasible.

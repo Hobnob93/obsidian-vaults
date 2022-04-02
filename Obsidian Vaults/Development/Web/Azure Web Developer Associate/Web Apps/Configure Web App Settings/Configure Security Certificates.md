@@ -1,4 +1,4 @@
-#azure #azure-wda #security
+#azure #az-204 #security
 
 # Configure Security Certificates
 *Azure App Service* has tools that let you create, upload, or import a private or public certificate.

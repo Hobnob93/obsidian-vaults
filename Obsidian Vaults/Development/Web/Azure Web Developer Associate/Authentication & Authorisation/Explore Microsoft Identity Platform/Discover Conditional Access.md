@@ -1,4 +1,4 @@
-#azure #azure-wda 
+#azure #az-204 
 
 # Discover Conditional Access
 Feature of *AAD* offering several ways to secure app and protect a service.

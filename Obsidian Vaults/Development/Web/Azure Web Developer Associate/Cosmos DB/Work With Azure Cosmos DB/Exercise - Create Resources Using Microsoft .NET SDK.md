@@ -1,4 +1,4 @@
-#azure #azure-wda #exercise #shell #csharp 
+#azure #az-204 #exercise #shell #csharp 
 
 # Exercise - Create Resources Using Microsoft .NET SDK
 ## Prerequisites

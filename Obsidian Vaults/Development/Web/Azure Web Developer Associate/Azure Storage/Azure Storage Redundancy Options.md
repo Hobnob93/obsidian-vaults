@@ -1,4 +1,4 @@
-#azure #azure-wda #topic 
+#azure #az-204 #topic 
 
 # Azure Storage Redundancy Options
 Multiple copies of data is always stored.

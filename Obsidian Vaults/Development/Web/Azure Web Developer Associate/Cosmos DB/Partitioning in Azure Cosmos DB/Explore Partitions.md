@@ -1,4 +1,4 @@
-#azure #azure-wda 
+#azure #az-204
 
 # Explore Partitioning
 Items in container are divided into distinct subsets.

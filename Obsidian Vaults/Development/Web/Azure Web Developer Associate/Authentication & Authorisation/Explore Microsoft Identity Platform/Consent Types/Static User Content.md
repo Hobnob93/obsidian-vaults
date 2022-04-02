@@ -1,4 +1,4 @@
-#azure #azure-wda 
+#azure #az-204
 
 # Static User Content
 You must specify all permissions in app's configuration in *Azure Portal*.

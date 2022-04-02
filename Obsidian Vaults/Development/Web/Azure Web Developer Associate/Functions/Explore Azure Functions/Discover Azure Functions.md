@@ -1,4 +1,4 @@
-#azure #azure-wda 
+#azure #az-204 
 
 # Discover Azure Functions
 A solution for processing data; integrating systems; working with IoT; simples APIs; and microservices.

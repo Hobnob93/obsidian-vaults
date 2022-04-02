@@ -1,4 +1,4 @@
-#azure-wda #azure #logging #csharp
+#az-204 #azure #logging #csharp
 
 # Diagnostic Logging
 ## Enable Diagnostic Logging

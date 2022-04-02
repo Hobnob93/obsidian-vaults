@@ -1,4 +1,4 @@
-#azure #azure-wda 
+#azure #az-204 
 
 # Admin Consent
 Required when app needs access to certain high-privilege permissions.

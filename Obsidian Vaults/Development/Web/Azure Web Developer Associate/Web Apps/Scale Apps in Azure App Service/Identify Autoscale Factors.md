@@ -1,4 +1,4 @@
-#azure #azure-wda
+#azure #az-204
 
 # Identify Autoscale Factors
 Effective scaling ensures sufficient resources always available to handle large volumes at peak times.

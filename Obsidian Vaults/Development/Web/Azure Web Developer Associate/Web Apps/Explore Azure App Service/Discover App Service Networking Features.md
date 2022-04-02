@@ -1,4 +1,4 @@
-#azure #azure-wda
+#azure #az-204
 
 # Discover App Service Networking Features
 By default, apps are accessible through internet and can only reach internet-hosted endpoints.

@@ -1,4 +1,4 @@
-#azure #azure-wda #json 
+#azure #az-204 #json 
 
 # Deploy Multi-Tiered Solutions
 Using [[Explore Azure Resource Manager|Resource Manager]], you can create a template defining infrastructure and config of *Azure* solution.

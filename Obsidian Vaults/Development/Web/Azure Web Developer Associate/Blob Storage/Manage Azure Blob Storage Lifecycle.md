@@ -1,4 +1,4 @@
-#azure #azure-wda #topic
+#azure #az-204 #topic
 
 # Manage Azure Blob Storage Lifecycle
 [[Explore Azure Blob Storage Lifecycle]]

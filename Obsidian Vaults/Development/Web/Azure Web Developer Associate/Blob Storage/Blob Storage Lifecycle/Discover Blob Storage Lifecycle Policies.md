@@ -1,4 +1,4 @@
-#azure #azure-wda #json 
+#azure #az-204 #json 
 
 # Discover Blob Storage Lifecycle Policies
 A lifecycle management policy is a ==collection of rules==.

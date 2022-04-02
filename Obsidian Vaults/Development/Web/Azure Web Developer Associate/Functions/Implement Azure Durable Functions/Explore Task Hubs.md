@@ -1,4 +1,4 @@
-#azure #azure-wda #json 
+#azure #az-204 #json 
 
 # Explore Task Hubs
 In Durable Functions, it is a logical container for durable storage resources.

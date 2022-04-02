@@ -1,4 +1,4 @@
-#azure #azure-wda #topic
+#azure #az-204 #topic
 
 # Configure Web App Settings
 [[Configure Application Settings]]

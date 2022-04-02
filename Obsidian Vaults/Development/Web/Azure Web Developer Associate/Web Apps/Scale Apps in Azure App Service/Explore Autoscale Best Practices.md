@@ -1,4 +1,4 @@
-#azure #azure-wda 
+#azure #az-204 
 
 # Explore Autoscale Best Practices
 Not following good practices can lead to **undesirable results**.

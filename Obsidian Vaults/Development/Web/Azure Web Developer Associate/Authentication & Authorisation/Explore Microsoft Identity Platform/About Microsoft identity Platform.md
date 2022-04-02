@@ -1,4 +1,4 @@
-#azure #azure-wda 
+#azure #az-204 
 
 # About Microsoft identity Platform
 Helps you build apps where users and customers can sign in.

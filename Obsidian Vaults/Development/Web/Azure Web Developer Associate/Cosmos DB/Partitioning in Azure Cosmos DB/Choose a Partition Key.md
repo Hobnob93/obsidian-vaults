@@ -1,4 +1,4 @@
-#azure #azure-wda 
+#azure #az-204 
 
 # Choose A Partition Key
 A partition key has two components; `partition key path` and `partition key value`.

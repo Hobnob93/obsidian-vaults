@@ -1,4 +1,4 @@
-#azure #azure-wda 
+#azure #az-204 
 
 # Enable Autoscale in App Service
 ## Enable Autoscaling

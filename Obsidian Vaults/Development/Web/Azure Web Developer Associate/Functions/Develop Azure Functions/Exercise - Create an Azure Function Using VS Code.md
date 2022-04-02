@@ -1,4 +1,4 @@
-#azure #azure-wda #exercise 
+#azure #az-204 #exercise 
 
 # Exercise - Create an Azure Function Using VS Code
 ## Prerequisites

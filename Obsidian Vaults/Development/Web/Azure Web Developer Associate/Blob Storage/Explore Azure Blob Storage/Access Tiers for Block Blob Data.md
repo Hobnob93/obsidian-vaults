@@ -1,4 +1,4 @@
-#azure #azure-wda 
+#azure #az-204 
 
 # Access Tiers for Block Blob Data
 Different options for accessing block blob data based on usage patterns.

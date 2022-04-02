@@ -1,4 +1,4 @@
-#azure #azure-wda 
+#azure #az-204 
 
 # Explore Azure Virtual Machines
 A VM gives the flexibility of virtualisation without having to buy and maintain physical hardware that it runs.

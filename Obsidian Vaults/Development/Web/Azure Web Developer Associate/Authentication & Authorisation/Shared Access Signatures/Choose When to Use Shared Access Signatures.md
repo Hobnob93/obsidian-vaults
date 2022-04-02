@@ -1,4 +1,4 @@
-#azure #azure-wda 
+#azure #az-204 
 
 # Choose When to Use Shared Access Signatures
 Use SAS when you want secured access to resources in storage account to any client who does not otherwise have permissions to those resources.

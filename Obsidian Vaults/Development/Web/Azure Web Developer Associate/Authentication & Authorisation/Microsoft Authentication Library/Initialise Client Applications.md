@@ -1,4 +1,4 @@
-#azure  #azure-wda #csharp 
+#azure  #az-204 #csharp 
 
 # Initialise Client Applications
 With *MSAL.NET 3.x*, recommended way to instantiate app is using app builders.

@@ -1,4 +1,4 @@
-#azure #azure-wda 
+#azure #az-204 
 
 # Choose The Right Consistency Level
 Cosmos DB allows devs to choose from the 5 [[Explore Consistency Levels|consistency levels]].

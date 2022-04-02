@@ -1,4 +1,4 @@
-#azure #azure-wda #authentication #authorization
+#azure #az-204 #authentication #authorization
 
 # Explore Authentication & Authorization in App Service
 *Azure App Service* provides built-in auth support.

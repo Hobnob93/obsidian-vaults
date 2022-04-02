@@ -1,4 +1,4 @@
-#azure #azure-wda 
+#azure #az-204 
 
 # Compare Azure Functions Hosting Options
 When creating a *Function App*, you must choose a hosting plan.

@@ -1,4 +1,4 @@
-#azure #azure-wda #csharp #shell 
+#azure #az-204 #csharp #shell 
 
 # Explore Stored Access Policies
 Provides additional level of control over service-level SAS on server side.

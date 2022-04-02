@@ -1,4 +1,4 @@
-#azure #azure-wda #javascript 
+#azure #az-204 #javascript 
 
 # Create Stored Procedures
 *Azure Cosmos DB* provides language-integrated, transactional execution of *JavaScript*.

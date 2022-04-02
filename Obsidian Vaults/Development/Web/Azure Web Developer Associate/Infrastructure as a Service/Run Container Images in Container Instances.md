@@ -1,4 +1,4 @@
-#azure #azure-wda #topic
+#azure #az-204 #topic
 
 # Run Container Images in Container Instances
 [[Explore Azure Container Instances]]

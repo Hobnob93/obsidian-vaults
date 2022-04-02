@@ -1,4 +1,4 @@
-#azure #azure-wda #ci #deployment
+#azure #az-204 #ci #deployment
 
 # Deploy to App Service
 Every deployment has unique requirements, making implementing an efficient pipeline difficult.

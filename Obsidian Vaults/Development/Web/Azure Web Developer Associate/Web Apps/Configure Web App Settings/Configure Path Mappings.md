@@ -1,4 +1,4 @@
-#azure #azure-wda 
+#azure #az-204 
 
 # Configure Path Mappings
 Can use the ==Path Mappings== section to configure handler , virtual application, and directory mappings.

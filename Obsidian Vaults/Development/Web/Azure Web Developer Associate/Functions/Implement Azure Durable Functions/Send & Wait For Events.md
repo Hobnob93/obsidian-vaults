@@ -1,4 +1,4 @@
-#azure #azure-wda #csharp 
+#azure #az-204 #csharp 
 
 # Send & Wait For Events
 Orchestrator functions have the ability to wait and listen for external events.

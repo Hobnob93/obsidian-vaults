@@ -1,4 +1,4 @@
-#azure #azure-wda #shell #json 
+#azure #az-204#shell #json 
 
 # Set Environment Variables in Container Instances
 Setting environment variables in container allows for dynamic configuration of app or script the container runs.

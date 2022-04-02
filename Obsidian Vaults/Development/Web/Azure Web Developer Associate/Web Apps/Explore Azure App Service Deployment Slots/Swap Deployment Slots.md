@@ -1,4 +1,4 @@
-#azure #azure-wda 
+#azure #az-204
 
 # Swap Deployment Slots
 Can swap slots on app's ==Deployment Slots== page or ==Overview Page==.

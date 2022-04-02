@@ -1,4 +1,4 @@
-#azure #azure-wda #ci #deployment
+#azure #az-204 #ci #deployment
 
 # Examine Azure App Service
 ## Built-in Auto Scale Support

@@ -1,4 +1,4 @@
-#azure #azure-wda 
+#azure #az-204 
 
 # Explore Consistency Levels
 Cosmos DB approaches data consistency as a spectrum of choices instead of two extremes.

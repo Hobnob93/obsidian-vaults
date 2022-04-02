@@ -1,4 +1,4 @@
-#azure #azure-wda 
+#azure #az-204 
 
 # Configure Application Settings
 App settings are environment variables passed to the app.

@@ -1,4 +1,4 @@
-#azure #azure-wda #shell #json 
+#azure #az-204 #shell #json 
 
 # Mount Azure File Share in ACI
 By default, *ACI*s are stateless.

@@ -1,4 +1,4 @@
-#azure #azure-wda 
+#azure #az-204 
 
 # Discover Shared Access Signatures
 (SAS) is a signed URI pointing to one or more storage resources.

@@ -1,4 +1,4 @@
-#azure #azure-wda #topic
+#azure #az-204 #topic
 
 # Develop Azure Functions
 [[Explore Azure Functions Development]]

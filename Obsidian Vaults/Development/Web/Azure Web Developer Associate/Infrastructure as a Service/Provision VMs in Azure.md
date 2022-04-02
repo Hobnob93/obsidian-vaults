@@ -1,4 +1,4 @@
-#azure #azure-wda #topic
+#azure #az-204 #topic
 
 # Provision VMs in Azure
 [[Explore Azure Virtual Machines]]

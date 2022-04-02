@@ -1,4 +1,4 @@
-#azure #azure-wda 
+#azure #az-204 
 
 # Connect Functions to Azure Services
 Reference connection info by name from its config provider.
