@@ -29,10 +29,18 @@ Rounded corners
 - `border-top-left-radius`: will only round the top left border
 
 ## Background Properties
-- `background`: lets you set a [[Colour Types|colour]]
+- `background-color`: lets you set a [[Colour Types|colour]]
 - `background-image`: use the `url()` function to point to an image for background
 - `background-repeat`: repeats an image - best used with seamless images
 	- option to `repeat-x` or `repeat-y`
 - `background-position`: moves the image around within its container
 	- takes `x` and `y` axis
 	- can use `center`, `left`, `right`, `top`, or `bottom` to position on `x` and/or `y`
+- `background-size`: scales image preserving aspect ratio
+	- options are `cover` and `contain`
+- `background`: generic property allowing for a combination (or all) of the above to be set
+- `background-attachment`: additional control over how the background is displayed
+	- `fixed`: fixed with regard to viewport
+	- `local`
+	- `scroll`
+	- `unset`
