@@ -7,8 +7,12 @@
         "id": "fd3f7b6ab7e05ba5",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Web/Azure Web Developer Associate/Authentication & Authorisation/Explore Microsoft Graph/Query Microsoft Graph Using SDKs.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Web/Azure Web Developer Associate/Authentication & Authorisation/Explore Microsoft Graph/Query Microsoft Graph Using SDKs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,6 +92,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Web/Azure Web Developer Associate/Authentication & Authorisation/Explore Microsoft Graph/Query Microsoft Graph Using SDKs.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -159,15 +165,15 @@
   },
   "active": "fd3f7b6ab7e05ba5",
   "lastOpenFiles": [
+    "Web/Azure Web Developer Associate/Authentication & Authorisation/Explore Microsoft Graph/Query Microsoft Graph Using SDKs.md",
+    "Web/Azure Web Developer Associate/Authentication & Authorisation/Explore Microsoft Graph.md",
+    "Web/Azure Web Developer Associate/Authentication & Authorisation/Explore Microsoft Graph/Query Microsoft Graph Using REST.md",
+    "Web/General Web Stuff/HTTP Methods.md",
+    "Web/General Web Stuff.md",
+    "Web/Azure Web Dev Associate.md",
     "Web/Azure Web Developer Associate/Images/Transactions In Stored Procs Diagram.png",
     "Web/Azure Web Developer Associate/Blob Storage/Work With Azure Blob Storage.md",
     "Web/Azure Web Developer Associate/Cosmos DB/Work With Azure Cosmos DB.md",
-    "Web/Azure Web Developer Associate/Web Apps/Explore Azure App Service Deployment Slots/Swap Deployment Slots.md",
-    "Web/Azure Web Developer Associate/Azure Storage/Types of Storage Accounts.md",
-    "Web/Azure Web Developer Associate/Authentication & Authorisation/Explore Microsoft Identity Platform/Consent Types/Static User Content.md",
-    "Web/Azure Web Developer Associate/Caching/Storage on CDNs.md",
-    "Web/Azure Web Developer Associate/Infrastructure as a Service/Run Container Images in Container Instances/Set Environment Variables in Container Instances.md",
-    "Web/Azure Web Developer Associate/Authentication & Authorisation/Shared Access Signatures.md",
-    "Web/Azure Web Developer Associate/Blob Storage/Work With Azure Blob Storage/Set & Retrieve Properties & Metadata Using REST.md"
+    "Web/Azure Web Developer Associate/Web Apps/Explore Azure App Service Deployment Slots/Swap Deployment Slots.md"
   ]
 }
