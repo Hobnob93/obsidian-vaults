@@ -35,4 +35,4 @@ Rounded corners
 	- option to `repeat-x` or `repeat-y`
 - `background-position`: moves the image around within its container
 	- takes `x` and `y` axis
-	- can use `center` to position on `x` and/or `y`
+	- can use `center`, `left`, `right`, `top`, or `bottom` to position on `x` and/or `y`
