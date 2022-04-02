@@ -7,4 +7,7 @@ What it means is the browser will first look for `Arial` support; then `Helvetic
 
 Can use [Google Fonts](http://fonts.google.com) if you want to use a font not typically supported by browsers.
 
-Can set the font stack in css using the `font-family` property.
+Can set the font stack in CSS using the `font-family` property.
+Can set the font size using the `font-size` property.
+Can adjust line height using `line-height` - uses relative units.
+- Recommended is `1.6em`.

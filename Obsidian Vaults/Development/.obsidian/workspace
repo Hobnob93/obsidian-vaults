@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Web/Azure Web Developer Associate/Authentication & Authorisation/Explore Microsoft Graph/Query Microsoft Graph Using SDKs.md",
+            "file": "Languages/CSS/Fundamentals/Fonts.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Azure Web Developer Associate/Authentication & Authorisation/Explore Microsoft Graph/Query Microsoft Graph Using SDKs.md",
+                "file": "Languages/CSS/Fundamentals/Fonts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +92,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Web/Azure Web Developer Associate/Authentication & Authorisation/Explore Microsoft Graph/Query Microsoft Graph Using SDKs.md",
+                "file": "Languages/CSS/Fundamentals/Fonts.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -165,6 +165,7 @@
   },
   "active": "fd3f7b6ab7e05ba5",
   "lastOpenFiles": [
+    "Languages/CSS/Fundamentals/Fonts.md",
     "Web/Azure Web Developer Associate/Authentication & Authorisation/Explore Microsoft Graph/Query Microsoft Graph Using SDKs.md",
     "Web/Azure Web Developer Associate/Authentication & Authorisation/Explore Microsoft Graph.md",
     "Web/Azure Web Developer Associate/Authentication & Authorisation/Explore Microsoft Graph/Query Microsoft Graph Using REST.md",
@@ -173,7 +174,6 @@
     "Web/Azure Web Dev Associate.md",
     "Web/Azure Web Developer Associate/Images/Transactions In Stored Procs Diagram.png",
     "Web/Azure Web Developer Associate/Blob Storage/Work With Azure Blob Storage.md",
-    "Web/Azure Web Developer Associate/Cosmos DB/Work With Azure Cosmos DB.md",
-    "Web/Azure Web Developer Associate/Web Apps/Explore Azure App Service Deployment Slots/Swap Deployment Slots.md"
+    "Web/Azure Web Developer Associate/Cosmos DB/Work With Azure Cosmos DB.md"
   ]
 }
