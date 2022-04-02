@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Languages/CSS/Fundamentals/Colour Types.md",
+            "file": "Languages/CSS/Fundamentals/Backgrounds & Borders.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Languages/CSS/Fundamentals/Colour Types.md",
+                "file": "Languages/CSS/Fundamentals/Backgrounds & Borders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +92,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Languages/CSS/Fundamentals/Colour Types.md",
+                "file": "Languages/CSS/Fundamentals/Backgrounds & Borders.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -165,15 +165,15 @@
   },
   "active": "fd3f7b6ab7e05ba5",
   "lastOpenFiles": [
+    "Languages/CSS/Fundamentals/Backgrounds & Borders.md",
     "Languages/CSS/Fundamentals/Colour Types.md",
+    "Languages/CSS/Fundamentals.md",
     "Languages/CSS/Fundamentals/Measurement Units.md",
     "Languages/CSS/Fundamentals/Fonts.md",
-    "Languages/CSS/Fundamentals.md",
     "Languages/CSS/Fundamentals/Variables.md",
     "Languages/CSS/Fundamentals/Selectors.md",
     "Languages/CSS/Examples.md",
     "Languages/CSS/Responsive Design.md",
-    "Web/Azure Web Developer Associate/Authentication & Authorisation/Explore Microsoft Graph/Query Microsoft Graph Using SDKs.md",
-    "Web/Azure Web Developer Associate/Authentication & Authorisation/Explore Microsoft Graph.md"
+    "Web/Azure Web Developer Associate/Authentication & Authorisation/Explore Microsoft Graph/Query Microsoft Graph Using SDKs.md"
   ]
 }
