@@ -5,7 +5,7 @@
 	- [[Measurement Units]]
 	- [[Selectors]]
 	- [[Fonts]]
-	- [[Color Types]]
+	- [[Colour Types]]
 	- [[Backgrounds & Borders]]
 	- [[Box Model]]
 	- [[Float & Alignment]]
