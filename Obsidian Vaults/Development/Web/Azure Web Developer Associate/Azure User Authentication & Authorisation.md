@@ -1,4 +1,4 @@
-#azure #stub #az-204 #module 
+#azure #az-204 #module 
 
 # Azure User Authentication & Authorisation
 [[Explore Microsoft Identity Platform]]
