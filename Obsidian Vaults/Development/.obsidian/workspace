@@ -7,8 +7,12 @@
         "id": "fd3f7b6ab7e05ba5",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Web/Azure Web Developer Associate/Functions/Implement Azure Durable Functions/Explore Task Hubs.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Web/Azure Web Developer Associate/Functions/Implement Azure Durable Functions/Explore Task Hubs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,6 +92,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Web/Azure Web Developer Associate/Functions/Implement Azure Durable Functions/Explore Task Hubs.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -159,15 +165,15 @@
   },
   "active": "fd3f7b6ab7e05ba5",
   "lastOpenFiles": [
-    "Web.md",
-    "Web/Azure Web Developer Associate/Secure Cloud Solutions/Azure Key Vault/Explore Azure Key Vault.md",
-    "Web/Azure Web Developer Associate/Secure Cloud Solutions/Azure Key Vault.md",
-    "Web/Azure Web Developer Associate/Implement Secure Cloud Solutions.md",
-    "Web/Azure Web Developer Associate/Azure User Authentication & Authorisation.md",
-    "Web/Azure Web Developer Associate/Authentication & Authorisation/Explore Microsoft Graph.md",
-    "Web/Azure Web Developer Associate/Authentication & Authorisation/Explore Microsoft Graph/Apply Best Practises to Microsoft Graph.md",
-    "Web/Azure Web Developer Associate/Authentication & Authorisation/Explore Microsoft Identity Platform/Consent Types/Admin Consent.md",
-    "Web/Azure Web Developer Associate/Authentication & Authorisation/Explore Microsoft Identity Platform/Discover Permissions & Consent.md",
-    "Web/Azure Web Developer Associate/Authentication & Authorisation/Explore Microsoft Graph/Query Microsoft Graph Using SDKs.md"
+    "Web/Azure Web Developer Associate/Functions/Implement Azure Durable Functions/Explore Task Hubs.md",
+    "Web/Azure Web Developer Associate/Functions/Implement Azure Durable Functions.md",
+    "Languages/CSS/Examples/Nav Menu Styling.md",
+    "Languages/CSS/Examples/Link State & Button Styling.md",
+    "Languages/CSS/Fundamentals/Positioning & Order.md",
+    "Languages/CSS/Fundamentals.md",
+    "Languages/CSS/Fundamentals/Inline & Block Styling.md",
+    "Languages/CSS/Examples.md",
+    "Languages/CSS/Fundamentals/Selectors.md",
+    "Languages/CSS/Fundamentals/Float & Alignment.md"
   ]
 }
