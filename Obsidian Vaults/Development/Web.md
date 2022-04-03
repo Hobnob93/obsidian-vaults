@@ -1,6 +1,7 @@
 #web #css #javascript #html #category
 
 # Web Development
+[[General Web Stuff]]
 [[HTML]]
 [[CSS]]
 [[JavaScript]]

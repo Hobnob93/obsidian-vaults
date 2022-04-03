@@ -159,6 +159,7 @@
   },
   "active": "fd3f7b6ab7e05ba5",
   "lastOpenFiles": [
+    "Web.md",
     "Web/Azure Web Developer Associate/Secure Cloud Solutions/Azure Key Vault/Explore Azure Key Vault.md",
     "Web/Azure Web Developer Associate/Secure Cloud Solutions/Azure Key Vault.md",
     "Web/Azure Web Developer Associate/Implement Secure Cloud Solutions.md",
@@ -167,7 +168,6 @@
     "Web/Azure Web Developer Associate/Authentication & Authorisation/Explore Microsoft Graph/Apply Best Practises to Microsoft Graph.md",
     "Web/Azure Web Developer Associate/Authentication & Authorisation/Explore Microsoft Identity Platform/Consent Types/Admin Consent.md",
     "Web/Azure Web Developer Associate/Authentication & Authorisation/Explore Microsoft Identity Platform/Discover Permissions & Consent.md",
-    "Web/Azure Web Developer Associate/Authentication & Authorisation/Explore Microsoft Graph/Query Microsoft Graph Using SDKs.md",
-    "Languages/CSS/Fundamentals/Backgrounds & Borders.md"
+    "Web/Azure Web Developer Associate/Authentication & Authorisation/Explore Microsoft Graph/Query Microsoft Graph Using SDKs.md"
   ]
 }
