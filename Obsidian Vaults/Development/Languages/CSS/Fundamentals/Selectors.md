@@ -40,3 +40,7 @@ A space indicates a child:
 	font-size: 20px;
 }
 ```
+
+## Order of Precedence
+[[Specificity]] defines the order of precedence that will ultimately decide how an element gets styled.
+Can affect the order by using the `!important` flag - this will override specificity, unless something with a higher specificity is also marked as important.

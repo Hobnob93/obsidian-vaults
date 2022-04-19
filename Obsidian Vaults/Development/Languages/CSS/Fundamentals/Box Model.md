@@ -40,3 +40,8 @@ Properties for adjusting margin:
 - `margin-bottom`
 
 Can set to `auto` for the same amount of margin either side.
+
+## Negative Margin
+It is possible but should be **avoided**.
+Acts as you'd expect; instead of pushing elements away, it pulls elements closer.
+You cannot do negative padding.

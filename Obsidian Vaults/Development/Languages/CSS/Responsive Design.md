@@ -3,3 +3,4 @@
 # Responsive Design
 [[Grid]]
 [[Flexbox]]
+[[Visibility]]
