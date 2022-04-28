@@ -7,8 +7,12 @@
         "id": "fd3f7b6ab7e05ba5",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Languages/CSS/Responsive Design/Media Queries.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Languages/CSS/Responsive Design/Media Queries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,6 +92,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Languages/CSS/Responsive Design/Media Queries.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -159,15 +165,15 @@
   },
   "active": "fd3f7b6ab7e05ba5",
   "lastOpenFiles": [
-    "Languages/CSS/Fundamentals/Box Model.md",
-    "Languages/CSS/Fundamentals/Specificity.md",
+    "Languages/CSS/Responsive Design/Media Queries.md",
+    "Languages/CSS/Examples/Link State & Button Styling.md",
     "Languages/CSS/Fundamentals/Selectors.md",
-    "Languages/CSS/Fundamentals.md",
     "Languages/CSS/Fundamentals/Positioning & Order.md",
-    "Languages/CSS/Fundamentals/Visibility.md",
-    "Languages/CSS/Fundamentals/Backgrounds & Borders.md",
-    "Languages/CSS/Responsive Design.md",
+    "Languages/CSS/Fundamentals/Measurement Units.md",
     "Languages/CSS/Fundamentals/Inline & Block Styling.md",
-    "Web/Azure Web Developer Associate/Functions/Implement Azure Durable Functions/Explore Task Hubs.md"
+    "Languages/CSS/Fundamentals/Fonts.md",
+    "Languages/CSS/Fundamentals/Float & Alignment.md",
+    "Languages/CSS/Fundamentals/Backgrounds & Borders.md",
+    "Languages/CSS/Fundamentals/Colour Types.md"
   ]
 }
