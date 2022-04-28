@@ -28,10 +28,70 @@ body {
 	padding-top: 100px;
 }
 
-@media(max-width: 500px) {
-	
+h1 {
+	display: none;
+}
+
+/* smartphones */
+@media (max-width: 500px) {
+	body {
+		background: red;
+	}
+
+	#smartphone h1 {
+		display: block;
+	}
+}
+
+/* tablet */
+@media (min-width: 501px) and (max-width: 768px) {
+	body {
+		background: blue;
+	}
+
+	#tablet h1 {
+		display: block;
+	}
+}
+
+/* normal */
+@media (min-width: 769px) and (max-width: 1200px) {
+	body {
+		background: green;
+	}
+
+	#normal h1 {
+		display: block;
+	}
+}
+
+/* widescreen */
+@media (min-width: 1201px) {
+	body {
+		background: black;
+	}
+
+	#widescreen h1 {
+		display: block;
+	}
+}
+
+/* landscaped mobile */
+@media (max-height: 500px) {
+	body {
+		background: orange;
+	}
+
+	#landscape h1 {
+		display: block;
+	}
 }
 ```
 
+## Link Stylesheet Based on Media Query
+```html
+<link rel="stylesheet" href="mobile.css" media="screen and (max-width: 768px)"/>
+```
+
 ## JSFiddle
-Can see the above JS Fiddle [here](https://jsfiddle.net/Hobnob93/rm2nkeup/3).
+Can see the above JS Fiddle [here](https://jsfiddle.net/Hobnob93/78za0cb3/2/).
