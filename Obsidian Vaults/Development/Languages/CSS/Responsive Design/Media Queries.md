@@ -27,6 +27,10 @@ body {
 	text-align: center;
 	padding-top: 100px;
 }
+
+@media(max-width: 500px) {
+	
+}
 ```
 
 ## JSFiddle
