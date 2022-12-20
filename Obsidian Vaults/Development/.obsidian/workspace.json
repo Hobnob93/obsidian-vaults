@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "b0908ba9d30cbe02",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6dcea9cd5086be3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd3f7b6ab7e05ba5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Languages.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b5897f3ee1e6fd79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Games/Project ImmSys/Project ImmSys.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8763d8e231ac2fd0",
+    "type": "split",
+    "children": [
+      {
+        "id": "22a61e78b58f6698",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "463f8c739f1a5c45",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bb26e126b8f6c9b7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "display:",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 405
+  },
+  "right": {
+    "id": "977474422d0419a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "d98709f78f7da760",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5405c0c4ca9a7249",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Games/Project ImmSys/Project ImmSys.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "dc95840a718470c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9181d8a74f85a40c",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Games/Project ImmSys/Project ImmSys.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [
+                    {
+                      "query": "tag:#stub",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14701138
+                      }
+                    },
+                    {
+                      "query": "tag:#category",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14148156
+                      }
+                    },
+                    {
+                      "query": "tag:#main",
+                      "color": {
+                        "a": 1,
+                        "rgb": 1220057
+                      }
+                    },
+                    {
+                      "query": "tag:#module",
+                      "color": {
+                        "a": 1,
+                        "rgb": 13383808
+                      }
+                    },
+                    {
+                      "query": "tag:#topic",
+                      "color": {
+                        "a": 1,
+                        "rgb": 5431473
+                      }
+                    }
+                  ],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.25883865621816293,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 319
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "b5897f3ee1e6fd79",
+  "lastOpenFiles": [
+    "Games.md",
+    "Games/Project ImmSys/Project ImmSys.md",
+    "Languages.md",
+    "Useful Sources.md",
+    "Languages/CSS/Fundamentals/Measurement Units.md",
+    "Languages/CSS/Fundamentals/Colour Types.md",
+    "Languages/CSS/Reset Rule.md",
+    "Languages/CSS/Responsive Design/Media Queries.md",
+    "Languages/CSS/Examples/Link State & Button Styling.md",
+    "Languages/CSS/Fundamentals/Selectors.md"
+  ]
+}
