@@ -6,3 +6,14 @@ The "ball" are Helper T Cells.
 The "bricks" are B Cells.
 When a B Cell is destroyed, it releases antibodies.
 Antibodies track down nearby pathogens to slow them down.
+
+Pathogens ("the maker of suffering"):
+- Bacteria
+- Virus
+- Protozoa
+- Parasite
+
+Other dangers:
+- Cancer
+- Allergies
+- Autoimmune
