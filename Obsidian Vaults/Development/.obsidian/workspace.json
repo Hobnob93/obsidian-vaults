@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8dc021a15357c056",
+        "id": "34bfbf81e2f48700",
         "type": "tabs",
         "children": [
           {
-            "id": "a53c9f255cea4c82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Games/Projects/Project ImmSys/Project ImmSys.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "28d043db0cbe016e",
+            "id": "df151a7e74d246c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,7 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,17 +181,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "28d043db0cbe016e",
+  "active": "df151a7e74d246c8",
   "lastOpenFiles": [
+    "Games/Projects/Project ImmSys/Images/HowImmuneSystemWorks.png",
+    "Games/Projects/Project ImmSys/Project ImmSys.md",
+    "Pasted image 20221223144744.png",
     "Games/Game Projects.md",
     "Games.md",
-    "Games/Projects/Project ImmSys/Project ImmSys.md",
     "Games/Project ImmSys/Untitled.canvas",
     "Languages.md",
     "Useful Sources.md",
     "Languages/CSS/Fundamentals/Measurement Units.md",
-    "Languages/CSS/Fundamentals/Colour Types.md",
-    "Languages/CSS/Reset Rule.md",
-    "Languages/CSS/Responsive Design/Media Queries.md"
+    "Languages/CSS/Fundamentals/Colour Types.md"
   ]
 }
