@@ -36,3 +36,4 @@ Defenses:
 - Dendritic cell (messenger and intelligence officer)
 - Phagocytes ("eating cells") - includes macrophages and neutrophils
 - Apoptosis - controlled suicide
+- mast cell - causes rapid local inflammation

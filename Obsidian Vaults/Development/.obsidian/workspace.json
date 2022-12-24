@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "303cdf65a70bf8d8",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.9"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,7 +181,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "303cdf65a70bf8d8",
+  "active": "df151a7e74d246c8",
   "lastOpenFiles": [
     "Games/Projects/Project ImmSys/Images/HowImmuneSystemWorks.png",
     "Games/Projects/Project ImmSys/Project ImmSys.md",
