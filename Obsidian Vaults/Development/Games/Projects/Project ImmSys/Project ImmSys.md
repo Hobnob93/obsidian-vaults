@@ -41,3 +41,4 @@ Defenses:
 - Cytokines - small proteins used to convey information
 - Toll-like receptors
 - Microbial pattern recognition
+- Opsonisation
