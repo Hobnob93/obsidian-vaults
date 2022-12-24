@@ -19,6 +19,7 @@ Other dangers:
 - Cancer
 - Allergies
 - Autoimmune
+- Cytokine Storm
 
 Defenses:
 - Defensins on skin
@@ -36,4 +37,5 @@ Defenses:
 - Dendritic cell (messenger and intelligence officer)
 - Phagocytes ("eating cells") - includes macrophages and neutrophils
 - Apoptosis - controlled suicide
-- mast cell - causes rapid local inflammation
+- Mast cell - causes rapid local inflammation
+- Cytokines - small proteins used to convey information
