@@ -39,3 +39,5 @@ Defenses:
 - Apoptosis - controlled suicide
 - Mast cell - causes rapid local inflammation
 - Cytokines - small proteins used to convey information
+- Toll-like receptors
+- Microbial pattern recognition
