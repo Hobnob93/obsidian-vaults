@@ -2,14 +2,14 @@
 
 A rogue-like "brick-breaker" game themed around the body's immune system.
 
-A "turn" is every time the ball bounces, and player *can* do the following:
+A "turn" is every time the ball bounces, when player *can* do the following:
 - Release a new "ball" from a selection
 - Activate individual "ball" abilities
 
 The "balls" are either Helper T cells, Dendritic cells, or phagocytes.
 - Dendritic cells identify a pathogen when it passes near or hits them
 	- A direct hit adds more to the "knowledge" then just passing nearby does
-	- Once "knowledge" is complete on a disease, it unlocks the T Cell for it
+	- Once "knowledge" is complete on a disease, it morphs into the T Cell for it
 	- If a dendritic cell is lost, player immediately gets a new one but all "knowledge" it had is lost
 - Helper T Cells are of a particular pathogen type
 	- If a T Cell is lost, it will be replenished after x amount of turns
