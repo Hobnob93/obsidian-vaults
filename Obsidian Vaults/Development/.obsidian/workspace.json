@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Games/Projects/Project ImmSys/Project ImmSys.md",
+                "file": "Web/Azure Web Dev Associate.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "776ad4525e951074",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web/Azure Web Developer Associate/Secure Cloud Solutions/Azure Key Vault/Azure Key Vault Best Practises.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Games/Projects/Project ImmSys/Project ImmSys.md",
+                "file": "Web/Azure Web Developer Associate/Secure Cloud Solutions/Azure Key Vault/Azure Key Vault Best Practises.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Games/Projects/Project ImmSys/Project ImmSys.md",
+                "file": "Web/Azure Web Developer Associate/Secure Cloud Solutions/Azure Key Vault/Azure Key Vault Best Practises.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -181,17 +194,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "df151a7e74d246c8",
+  "active": "776ad4525e951074",
   "lastOpenFiles": [
-    "Games/Projects/Project ImmSys/Images/HowImmuneSystemWorks.png",
-    "Games/Projects/Project ImmSys/Project ImmSys.md",
-    "Pasted image 20221223144744.png",
-    "Games/Game Projects.md",
-    "Games.md",
-    "Games/Project ImmSys/Untitled.canvas",
-    "Languages.md",
-    "Useful Sources.md",
-    "Languages/CSS/Fundamentals/Measurement Units.md",
-    "Languages/CSS/Fundamentals/Colour Types.md"
+    "Web/Azure Web Dev Associate.md",
+    "Web/Azure Web Developer Associate/Secure Cloud Solutions/Azure Key Vault.md",
+    "Web/Azure Web Developer Associate/Secure Cloud Solutions/Azure Key Vault/Azure Key Vault Best Practises.md",
+    "Web/Azure Web Developer Associate/Secure Cloud Solutions/Azure Key Vault/Explore Azure Key Vault.md",
+    "Web/Azure Web Developer Associate/Event-Based Solutions/Explore Azure Event Hubs.md",
+    "Web/Azure Web Developer Associate/Monitor App Performance.md",
+    "Web/Azure Web Developer Associate/Monitor App Performance/Explore Azure Monitor.md",
+    "Web/Azure Web Developer Associate/Authentication & Authorisation/About Azure Active Directory.md",
+    "Web/Azure Web Developer Associate/Authentication & Authorisation/Authenticating with Microsoft Authentication Library.md",
+    "Web/Azure Web Developer Associate/Web Apps/Explore Azure App Service.md"
   ]
 }

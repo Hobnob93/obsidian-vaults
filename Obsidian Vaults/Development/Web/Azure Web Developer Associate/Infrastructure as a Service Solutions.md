@@ -1,4 +1,4 @@
-#azure #stub #az-204 #module 
+#azure #az-204 #module 
 
 # Infrastructure as a Service Solutions
 [[Provision VMs in Azure]]
