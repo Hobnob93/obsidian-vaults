@@ -20,12 +20,24 @@
             }
           },
           {
-            "id": "776ad4525e951074",
+            "id": "0c00d8e5e5ae294b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Azure Web Developer Associate/Secure Cloud Solutions/Azure Key Vault/Azure Key Vault Best Practises.md",
+                "file": "Web/Azure Web Developer Associate/Secure Cloud Solutions/Azure Key Vault.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "095510925a3fb2a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web/Azure Web Developer Associate/Secure Cloud Solutions/Azure Key Vault/Set & Retrieve a Secret Using Azure CLI.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Azure Web Developer Associate/Secure Cloud Solutions/Azure Key Vault/Azure Key Vault Best Practises.md",
+                "file": "Web/Azure Web Developer Associate/Secure Cloud Solutions/Azure Key Vault.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +125,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Web/Azure Web Developer Associate/Secure Cloud Solutions/Azure Key Vault/Azure Key Vault Best Practises.md",
+                "file": "Web/Azure Web Developer Associate/Secure Cloud Solutions/Azure Key Vault.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -194,17 +206,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "776ad4525e951074",
+  "active": "9181d8a74f85a40c",
   "lastOpenFiles": [
-    "Web/Azure Web Dev Associate.md",
+    "Web/Azure Web Developer Associate/Secure Cloud Solutions/Azure Key Vault/Authenticate to Azure Key Vault.md",
+    "Web/Azure Web Developer Associate/Secure Cloud Solutions/Azure Key Vault/Set & Retrieve a Secret Using Azure CLI.md",
+    "Web/Azure Web Developer Associate/Azure Storage/Azure Storage Encryption for Data at Rest.md",
+    "Web/Azure Web Developer Associate/Authentication & Authorisation/About Azure Active Directory.md",
     "Web/Azure Web Developer Associate/Secure Cloud Solutions/Azure Key Vault.md",
     "Web/Azure Web Developer Associate/Secure Cloud Solutions/Azure Key Vault/Azure Key Vault Best Practises.md",
+    "Web/Azure Web Dev Associate.md",
     "Web/Azure Web Developer Associate/Secure Cloud Solutions/Azure Key Vault/Explore Azure Key Vault.md",
     "Web/Azure Web Developer Associate/Event-Based Solutions/Explore Azure Event Hubs.md",
-    "Web/Azure Web Developer Associate/Monitor App Performance.md",
-    "Web/Azure Web Developer Associate/Monitor App Performance/Explore Azure Monitor.md",
-    "Web/Azure Web Developer Associate/Authentication & Authorisation/About Azure Active Directory.md",
-    "Web/Azure Web Developer Associate/Authentication & Authorisation/Authenticating with Microsoft Authentication Library.md",
-    "Web/Azure Web Developer Associate/Web Apps/Explore Azure App Service.md"
+    "Web/Azure Web Developer Associate/Monitor App Performance.md"
   ]
 }
