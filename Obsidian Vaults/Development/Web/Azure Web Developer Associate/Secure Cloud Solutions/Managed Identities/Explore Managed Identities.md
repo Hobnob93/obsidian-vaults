@@ -15,4 +15,11 @@ There are two types of managed identities:
 - __User-assigned managed identity__
 	- Created as a standalone Azure resource
 	- Azure creates an identity in the Azure AD tenant trusted by the subscription in use
-	- 
+	- When created, identity can be assigned to one or more Azure service instances
+	- Lifecycle is managed separately from the instances it is assigned to
+
+Internally, managed identities are service principals of a special type.
+They are locked to only be used with Azure resources.
+When a managed identity is deleted, the corresponding service principal is removed.
+
+## Characteristics of Managed Identities
