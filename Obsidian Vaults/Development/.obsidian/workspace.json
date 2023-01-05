@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Azure Web Developer Associate/Implement Secure Cloud Solutions.md",
+                "file": "Web/Azure Web Developer Associate/Secure Cloud Solutions/Managed Identities.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Azure Web Developer Associate/Implement Secure Cloud Solutions.md",
+                "file": "Web/Azure Web Developer Associate/Secure Cloud Solutions/Managed Identities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Web/Azure Web Developer Associate/Implement Secure Cloud Solutions.md",
+                "file": "Web/Azure Web Developer Associate/Secure Cloud Solutions/Managed Identities.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -208,15 +208,15 @@
   },
   "active": "095510925a3fb2a6",
   "lastOpenFiles": [
-    "Web/Azure Web Developer Associate/Secure Cloud Solutions/Azure Key Vault.md",
-    "Web/Azure Web Developer Associate/Secure Cloud Solutions/Azure Key Vault/Set & Retrieve a Secret Using Azure CLI.md",
     "Web/Azure Web Developer Associate/Secure Cloud Solutions/Azure Key Vault/Authenticate to Azure Key Vault.md",
+    "Web/Azure Web Developer Associate/Secure Cloud Solutions/Managed Identities/Explore Managed Identities.md",
+    "Web/Azure Web Developer Associate/Secure Cloud Solutions/Managed Identities.md",
+    "Web/Azure Web Developer Associate/Secure Cloud Solutions/Azure Key Vault.md",
+    "Web/Azure Web Developer Associate/Implement Secure Cloud Solutions.md",
+    "Web/Azure Web Developer Associate/Secure Cloud Solutions/Azure Key Vault/Set & Retrieve a Secret Using Azure CLI.md",
     "Web/Azure Web Developer Associate/Azure Storage/Azure Storage Encryption for Data at Rest.md",
     "Web/Azure Web Developer Associate/Authentication & Authorisation/About Azure Active Directory.md",
     "Web/Azure Web Developer Associate/Secure Cloud Solutions/Azure Key Vault/Azure Key Vault Best Practises.md",
-    "Web/Azure Web Dev Associate.md",
-    "Web/Azure Web Developer Associate/Secure Cloud Solutions/Azure Key Vault/Explore Azure Key Vault.md",
-    "Web/Azure Web Developer Associate/Event-Based Solutions/Explore Azure Event Hubs.md",
-    "Web/Azure Web Developer Associate/Monitor App Performance.md"
+    "Web/Azure Web Dev Associate.md"
   ]
 }
