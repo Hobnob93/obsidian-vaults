@@ -23,3 +23,12 @@ They are locked to only be used with Azure resources.
 When a managed identity is deleted, the corresponding service principal is removed.
 
 ## Characteristics of Managed Identities
+Table below highlights key differences between the types of managed identities.
+| Characteristic           | System-Assigned  | User-Assigned                       |
+| ------------------------ | ---------------- | ----------------------------------- |
+| Creation                 | Part of resource | Standalone                          |
+| Lifecycle                | Tied to resource | Independent - explicit deletion     |
+| Sharing Across Resources | Cannot be shared | Shared - can be used multiple times |
+
+## When To Use Managed Identities
+Simply: when you want to build an app using Azure resources that accesses anything supporting [[About Azure Active Directory|Azure Active Directory]] authentication.
