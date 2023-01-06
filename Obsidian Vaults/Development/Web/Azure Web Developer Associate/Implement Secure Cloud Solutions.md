@@ -1,6 +1,6 @@
-#azure #stub #az-204 #module 
+#azure #az-204 #module 
 
-# Implement Secure Cloud Solutions
+## Sections
 [[Azure Key Vault]]
 [[Managed Identities]]
 [[Azure App Configuration]]

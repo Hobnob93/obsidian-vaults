@@ -1,6 +1,7 @@
-#azure #stub #az-204 #topic
+#azure #az-204 #topic
 
-# Managed Identities
+## Sections
 [[Explore Managed Identities]]
 [[Managed Identities With Azure Virtual Machine]]
 [[Configure Managed Identities]]
+[[Acquire An Access Token]]

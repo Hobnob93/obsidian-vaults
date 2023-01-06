@@ -1,3 +1,6 @@
 #azure #stub #az-204 #topic
 
-# Azure App Configuration
+## Sections
+[[Explore Azure App Configuration Service]]
+[[Create Paired Keys and Values]]
+[[Managed Application Features]]
