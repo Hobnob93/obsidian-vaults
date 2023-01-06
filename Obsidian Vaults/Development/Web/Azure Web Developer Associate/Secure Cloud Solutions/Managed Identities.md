@@ -3,3 +3,4 @@
 # Managed Identities
 [[Explore Managed Identities]]
 [[Managed Identities With Azure Virtual Machine]]
+[[Configure Managed Identities]]
