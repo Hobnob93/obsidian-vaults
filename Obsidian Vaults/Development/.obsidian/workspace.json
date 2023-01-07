@@ -32,19 +32,19 @@
             }
           },
           {
-            "id": "d60153f8f25db1e0",
+            "id": "de6c4a4e6cd93e17",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Azure Web Developer Associate/API Management/Create Advanced Policies.md",
+                "file": "Web/Azure Web Developer Associate/API Management/Secure APIs By Using Subscriptions.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Azure Web Developer Associate/API Management.md",
+                "file": "Web/Azure Web Developer Associate/API Management/Secure APIs By Using Subscriptions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Web/Azure Web Developer Associate/API Management.md",
+                "file": "Web/Azure Web Developer Associate/API Management/Secure APIs By Using Subscriptions.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -206,17 +206,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "ec6c508de668687b",
+  "active": "de6c4a4e6cd93e17",
   "lastOpenFiles": [
-    "Azure Files.md",
     "Web/Azure Web Developer Associate/API Management.md",
+    "Web/Azure Web Developer Associate/API Management/Secure APIs By Using Subscriptions.md",
     "Web/Azure Web Developer Associate/API Management/Create Advanced Policies.md",
+    "Azure Files.md",
     "Web/Azure Web Developer Associate/API Management/Explore API Management Policies.md",
     "Web/Azure Web Developer Associate/API Management/Explore API Gateways.md",
     "Pasted image 20230107100701.png",
     "Web/Azure Web Developer Associate/Images/API Gateway Diagram.png",
     "Web/Azure Web Developer Associate/Images/Front End Proxy Service Diagram.png",
-    "Web/Azure Web Developer Associate/Images/Three Tier App Deployment Diagram.png",
-    "Web/Azure Web Developer Associate/API Management/Discover API Management Service.md"
+    "Web/Azure Web Developer Associate/Images/Three Tier App Deployment Diagram.png"
   ]
 }
