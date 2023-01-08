@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "ecac386754112025",
+            "id": "bbb282618844a803",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Azure Web Developer Associate/Event-Based Solutions/Azure Event Grid/Explore Azure Event Grid.md",
+                "file": "Web/Azure Web Developer Associate/Event-Based Solutions/Azure Event Grid/Discover Event Schemas.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Azure Web Developer Associate/Event-Based Solutions/Azure Event Grid/Explore Azure Event Grid.md",
+                "file": "Web/Azure Web Developer Associate/Event-Based Solutions/Azure Event Grid/Discover Event Schemas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Web/Azure Web Developer Associate/Event-Based Solutions/Azure Event Grid/Explore Azure Event Grid.md",
+                "file": "Web/Azure Web Developer Associate/Event-Based Solutions/Azure Event Grid/Discover Event Schemas.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -194,17 +194,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "ecac386754112025",
+  "active": "bbb282618844a803",
   "lastOpenFiles": [
     "Web/Azure Web Developer Associate/Event-Based Solutions/Azure Event Grid.md",
-    "Web/Azure Web Dev Associate.md",
+    "Web/Azure Web Developer Associate/Event-Based Solutions/Azure Event Grid/Discover Event Schemas.md",
     "Web/Azure Web Developer Associate/Event-Based Solutions/Azure Event Grid/Explore Azure Event Grid.md",
+    "Web/Azure Web Dev Associate.md",
     "Web/Azure Web Developer Associate/Event-Based Solutions/Azure Event Hubs.md",
     "Web/Azure Web Developer Associate/API Management.md",
     "Web/Azure Web Developer Associate/Event-Based Solutions.md",
     "Web/Azure Web Developer Associate/API Management/Exercise - Create A Backend API.md",
     "Web/Azure Web Developer Associate/Secure Cloud Solutions/Azure Key Vault/Exercise Set & Retrieve a Secret Using Azure CLI.md",
-    "Web/Azure Web Developer Associate/Secure Cloud Solutions/Managed Identities/Configure Managed Identities.md",
-    "Web/Azure Web Developer Associate/API Management/Create Advanced Policies.md"
+    "Web/Azure Web Developer Associate/Secure Cloud Solutions/Managed Identities/Configure Managed Identities.md"
   ]
 }

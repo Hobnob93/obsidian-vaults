@@ -2,3 +2,4 @@
 
 ## Sections
 [[Explore Azure Event Grid]]
+[[Discover Event Schemas]]
