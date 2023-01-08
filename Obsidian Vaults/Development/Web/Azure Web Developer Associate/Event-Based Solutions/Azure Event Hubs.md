@@ -2,3 +2,4 @@
 
 ## Sections
 [[Discover Azure Event Hubs]]
+[[Explore Event Hubs Capture]]
