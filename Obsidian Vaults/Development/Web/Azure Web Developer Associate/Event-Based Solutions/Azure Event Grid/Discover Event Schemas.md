@@ -75,10 +75,31 @@ An example of an Azure Blob Storage event in CloudEvents format:
 	"source": "<path-to-storage-account>",
 	"id": "9aeb0fdf-c01e-0131-0922-9eb54906e209",
 	"time": "2019-11-18T15:13:39.4589254Z",
-	"subject": "blobServices/default/containers/{container}/blobs/{new-file}",
+	"subject": "blobServices/default/containers/{container}/blobs/{file}",
 	"dataschema": "#",
 	"data": {
-		
+		"api": "PutBlockList",
+		"clientRequestId": "4c5dd7fb-2c48-4a27-bb30-5361b5de920a",
+		"requestId": "9aeb0fdf-c01e-0131-0922-9eb549000000",
+		"eTag": "0x8D76C39E4407333",
+		"contentType": "image/png",
+		"contentLength": 30699,
+		"blobType": "BlockBlob",
+		"url": "https://gridtesting.blob.core.windows.net/testcontainer/{file}",
+		"sequencer": "000000000000000000000000000099240000000000c41c18",
+		"storageDiagnostics": {
+			"batchId": "681fe319-3006-00a8-0022-9e7cde000000"
+		}
 	}
 }
 ```
+
+A detailed description of available fields, their types, and definitions can be found [here](https://github.com/cloudevents/spec/blob/v1.0/spec.md#required-attributes).
+
+Headers values for events delivered in CloudEvents schema and Event Grid schema are the same except for `content-type`.
+For CloudEvents schema, it is `application/cloudevents+json; charset=utf-8`.
+For Event Grid schema, it is `application/json; charset=utf-8`.
+
+You can use Event Grid for both input and output of events in CloudEvents schema.
+Can use CloudEvents for system events, like Blob Storage or custom events.
+It can also transform those events on wire back and forth.
