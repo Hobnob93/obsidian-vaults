@@ -1,4 +1,4 @@
-#azure #stub #az-204 #module 
+#azure #az-204 #module 
 
 # Event-Based Solutions
 [[Azure Event Grid]]

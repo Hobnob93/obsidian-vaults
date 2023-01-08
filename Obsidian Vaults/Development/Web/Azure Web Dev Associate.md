@@ -1,6 +1,6 @@
 #azure #az-204 #main
 
-# Azure Web Developer Associate
+## Sections
 - [[Azure Web Apps]]
 	- [[Explore Azure App Service]]
 	- [[Configure Web App Settings]]

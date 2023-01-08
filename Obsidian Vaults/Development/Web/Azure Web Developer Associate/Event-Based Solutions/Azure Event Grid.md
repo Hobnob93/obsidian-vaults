@@ -4,7 +4,7 @@
 [[Explore Azure Event Grid]]
 [[Discover Event Schemas]]
 [[Explore Event Delivery Durability]]
-[[Control Access To Events]]
+[[Control Access To Events (Event Grid)]]
 [[Receive Events By Using Webhooks]]
 [[Filter Events]]
 [[Exercise - Route Custom Events To Endpoint Using Azure CLI]]

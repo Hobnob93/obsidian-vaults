@@ -2,5 +2,5 @@
 
 # Partitioning in Azure Cosmos DB
 [[Explore Partitions]]
-[[Choose a Partition Key]]
+[[Choose A Partition Key]]
 [[Create a Synthetic Partition Key]]
