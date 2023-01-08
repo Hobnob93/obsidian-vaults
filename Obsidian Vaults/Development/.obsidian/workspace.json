@@ -13,26 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Azure Web Developer Associate/Event-Based Solutions/Azure Event Grid.md",
+                "file": "Web/Azure Web Developer Associate/Event-Based Solutions/Azure Event Hubs.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4dc8f43beca4ab4e",
+            "id": "ab45b48a4e6557b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Azure Web Developer Associate/Event-Based Solutions/Azure Event Grid/Filter Events.md",
+                "file": "Web/Azure Web Developer Associate/Event-Based Solutions/Azure Event Hubs/Discover Azure Event Hubs.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Azure Web Developer Associate/Event-Based Solutions/Azure Event Grid/Filter Events.md",
+                "file": "Web/Azure Web Developer Associate/Event-Based Solutions/Azure Event Hubs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Web/Azure Web Developer Associate/Event-Based Solutions/Azure Event Grid/Filter Events.md",
+                "file": "Web/Azure Web Developer Associate/Event-Based Solutions/Azure Event Hubs.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -182,7 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 304.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,17 +193,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "4dc8f43beca4ab4e",
+  "active": "d6ed9327e3cbc2bc",
   "lastOpenFiles": [
+    "Web/Azure Web Developer Associate/Event-Based Solutions/Azure Event Hubs/Discover Azure Event Hubs.md",
+    "Web/Azure Web Developer Associate/Event-Based Solutions/Azure Event Hubs.md",
     "Web/Azure Web Developer Associate/Event-Based Solutions/Azure Event Grid.md",
+    "Web/Azure Web Developer Associate/Event-Based Solutions.md",
+    "Web/Azure Web Developer Associate/Event-Based Solutions/Azure Event Grid/Exercise - Route Custom Events To Endpoint Using Azure CLI.md",
+    "Web/Azure Web Developer Associate/API Management/Exercise - Create A Backend API.md",
     "Web/Azure Web Developer Associate/Event-Based Solutions/Azure Event Grid/Filter Events.md",
     "Web/Azure Web Developer Associate/Event-Based Solutions/Azure Event Grid/Receive Events By Using Webhooks.md",
     "Web/Azure Web Developer Associate/Event-Based Solutions/Azure Event Grid/Control Access To Events.md",
-    "Web/Azure Web Developer Associate/Event-Based Solutions/Azure Event Grid/Explore Event Delivery Durability.md",
-    "Web/Azure Web Developer Associate/Event-Based Solutions/Azure Event Grid/Discover Event Schemas.md",
-    "Web/Azure Web Developer Associate/Event-Based Solutions/Azure Event Grid/Explore Azure Event Grid.md",
-    "Web/Azure Web Dev Associate.md",
-    "Web/Azure Web Developer Associate/Event-Based Solutions/Azure Event Hubs.md",
-    "Web/Azure Web Developer Associate/API Management.md"
+    "Web/Azure Web Developer Associate/Event-Based Solutions/Azure Event Grid/Explore Event Delivery Durability.md"
   ]
 }
