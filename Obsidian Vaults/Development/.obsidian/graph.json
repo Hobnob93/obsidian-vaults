@@ -1,6 +1,6 @@
 {
-  "collapse-filter": true,
-  "search": "",
+  "collapse-filter": false,
+  "search": "tag:#exercise",
   "showTags": false,
   "showAttachments": true,
   "hideUnresolved": false,
@@ -54,5 +54,5 @@
   "linkStrength": 0.752136752136752,
   "linkDistance": 231,
   "scale": 0.1634837056722051,
-  "close": true
+  "close": false
 }

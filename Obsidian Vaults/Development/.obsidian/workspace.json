@@ -4,47 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "34bfbf81e2f48700",
+        "id": "b0917072b2408c28",
         "type": "tabs",
         "children": [
           {
-            "id": "df151a7e74d246c8",
+            "id": "d6ed9327e3cbc2bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Azure Web Dev Associate.md",
+                "file": "Web/Azure Web Developer Associate/Event-Based Solutions/Azure Event Grid.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ec6c508de668687b",
+            "id": "ecac386754112025",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Azure Web Developer Associate/API Management.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "de6c4a4e6cd93e17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web/Azure Web Developer Associate/API Management/Secure APIs By Using Subscriptions.md",
+                "file": "Web/Azure Web Developer Associate/Event-Based Solutions/Azure Event Grid/Explore Azure Event Grid.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Azure Web Developer Associate/API Management/Secure APIs By Using Subscriptions.md",
+                "file": "Web/Azure Web Developer Associate/Event-Based Solutions/Azure Event Grid/Explore Azure Event Grid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Web/Azure Web Developer Associate/API Management/Secure APIs By Using Subscriptions.md",
+                "file": "Web/Azure Web Developer Associate/Event-Based Solutions/Azure Event Grid/Explore Azure Event Grid.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -194,7 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 276.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,17 +194,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "de6c4a4e6cd93e17",
+  "active": "ecac386754112025",
   "lastOpenFiles": [
+    "Web/Azure Web Developer Associate/Event-Based Solutions/Azure Event Grid.md",
+    "Web/Azure Web Dev Associate.md",
+    "Web/Azure Web Developer Associate/Event-Based Solutions/Azure Event Grid/Explore Azure Event Grid.md",
+    "Web/Azure Web Developer Associate/Event-Based Solutions/Azure Event Hubs.md",
     "Web/Azure Web Developer Associate/API Management.md",
-    "Web/Azure Web Developer Associate/API Management/Secure APIs By Using Subscriptions.md",
-    "Web/Azure Web Developer Associate/API Management/Create Advanced Policies.md",
-    "Azure Files.md",
-    "Web/Azure Web Developer Associate/API Management/Explore API Management Policies.md",
-    "Web/Azure Web Developer Associate/API Management/Explore API Gateways.md",
-    "Pasted image 20230107100701.png",
-    "Web/Azure Web Developer Associate/Images/API Gateway Diagram.png",
-    "Web/Azure Web Developer Associate/Images/Front End Proxy Service Diagram.png",
-    "Web/Azure Web Developer Associate/Images/Three Tier App Deployment Diagram.png"
+    "Web/Azure Web Developer Associate/Event-Based Solutions.md",
+    "Web/Azure Web Developer Associate/API Management/Exercise - Create A Backend API.md",
+    "Web/Azure Web Developer Associate/Secure Cloud Solutions/Azure Key Vault/Exercise Set & Retrieve a Secret Using Azure CLI.md",
+    "Web/Azure Web Developer Associate/Secure Cloud Solutions/Managed Identities/Configure Managed Identities.md",
+    "Web/Azure Web Developer Associate/API Management/Create Advanced Policies.md"
   ]
 }

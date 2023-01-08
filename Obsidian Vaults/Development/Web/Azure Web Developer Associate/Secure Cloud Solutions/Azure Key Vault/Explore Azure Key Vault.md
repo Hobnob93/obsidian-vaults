@@ -39,7 +39,7 @@ These are some of the core benefits to using the service:
 	- May delete logs you no longer need
 	- It can be configured to:
 		- Archive to a [[Types of Storage Accounts|storage account]]
-		- Stream to an [[Explore Azure Event Hubs|event hub]]
+		- Stream to an [[Azure Event Hubs|event hub]]
 		- Send logs to [[Explore Azure Monitor|Azure Monitor]]
 - __Simplified Administration of Application Secrets__
 	- Security information must be secured, follow a life cycle, and be highly available. Vaults simply the process of meeting this requirements by:

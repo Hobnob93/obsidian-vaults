@@ -1,5 +1,5 @@
 #azure #stub #az-204 #module 
 
 # Event-Based Solutions
-[[Explore Azure Event Grid]]
-[[Explore Azure Event Hubs]]
+[[Azure Event Grid]]
+[[Azure Event Hubs]]

@@ -8,4 +8,4 @@ A *secret* is anything requiring tight access control; such as API keys, passwor
 [[Explore Azure Key Vault]]
 [[Azure Key Vault Best Practises]]
 [[Authenticate to Azure Key Vault]]
-[[Set & Retrieve a Secret Using Azure CLI]]
+[[Exercise Set & Retrieve a Secret Using Azure CLI]]
