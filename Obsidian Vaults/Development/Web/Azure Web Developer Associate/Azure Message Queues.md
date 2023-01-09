@@ -3,3 +3,5 @@
 ## Sections
 [[Choose A Message Queue Solution]]
 [[Explore Azure Service Bus]]
+[[Discover Service Bus Queues, Topics, & Subscriptions]]
+[[Explore Service Bus Message Payloads & Serialisation]]

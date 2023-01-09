@@ -38,4 +38,30 @@ There's a _timeout_ associated with the lock.
 If app fails to process message before lock expires, Service Bus unlocks it to make it available as before.
 
 ## Topics & Subscriptions
-A queue allowing processing
+A queue allows processing of a message by a single consumer.
+In contrast to queues; topics and subscriptions provide a one-to-many relationship in a publish and subscribe pattern.
+Useful for scaling to large numbers of recipients.
+Each published message is made available to each subscriber registered with the topic.
+Publisher sends a message to a topic, and one or more subscribers receive a copy of the message.
+This will depend on filter rules set on the subscriptions.
+
+Publishers send messages to a topic the same way as they do to a queue.
+However, consumers don't receive messages directly from the topic.
+Consumers receive messages from subscriptions of the topic.
+A topic subscription resembles a virtual queue which receives copies of topic messages.
+Consumers receive messages from a subscription the same way as they do a queue.
+
+Creating a topic is similar to creating a queue.
+Can create topics and subscriptions using the portal, PowerShell, CLI. or Resource Manager templates.
+Send messages to a topic and receive messages from subscriptions using clients written in C#, Java, Python, and JavaScript.
+
+## Rules & Actions
+Messages that have specific characteristics must be processed a different way.
+To enable this, you can configure subscriptions to find messages that have desired properties, and then perform modifications to those properties.
+Although Service Bus subscriptions see all messages sent to a topic, you can only copy a subset of those messages to the virtual subscription queue.
+This filtering is done using subscription filters.
+Such modifications are called _filter actions_.
+When subscription created, you can supply a filter expression that operates on the properties of a message.
+Properties can be system properties (such as `label`), and/or custom properties (like `StoreName`).
+The SQL filter expression is optional.
+Without a SQL filter expression, any filter action defined on a subscription will be done on all messages for that subscription.
