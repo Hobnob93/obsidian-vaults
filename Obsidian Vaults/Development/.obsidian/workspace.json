@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d6ed9327e3cbc2bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web/Azure Web Developer Associate/Azure Message Queues.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "491dec89e6dcf72a",
             "type": "leaf",
             "state": {
@@ -32,19 +20,19 @@
             }
           },
           {
-            "id": "95cf444c81d8cfc9",
+            "id": "0e329e64aa15439f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Azure Web Developer Associate/Azure Message Queues/Explore Azure Service Bus.md",
+                "file": "Web/Azure Web Developer Associate/Azure Message Queues/Discover Service Bus Queues, Topics, & Subscriptions.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Azure Web Developer Associate/Azure Message Queues/Explore Azure Service Bus.md",
+                "file": "Web/Azure Web Developer Associate/Azure Message Queues/Discover Service Bus Queues, Topics, & Subscriptions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Web/Azure Web Developer Associate/Azure Message Queues/Explore Azure Service Bus.md",
+                "file": "Web/Azure Web Developer Associate/Azure Message Queues/Discover Service Bus Queues, Topics, & Subscriptions.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -206,9 +194,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "95cf444c81d8cfc9",
+  "active": "0e329e64aa15439f",
   "lastOpenFiles": [
     "Web/Azure Web Developer Associate/Azure Message Queues.md",
+    "Web/Azure Web Developer Associate/Azure Message Queues/Explore Azure Service Bus.md",
     "Web/Azure Web Developer Associate/Azure Message Queues/Choose A Message Queue Solution.md",
     "Web/Azure Web Developer Associate/Cosmos DB/Partitioning in Azure Cosmos DB/Choose A Partition Key.md",
     "Web/Azure Web Dev Associate.md",
@@ -216,7 +205,6 @@
     "Web/Azure Web Developer Associate/Event-Based Solutions.md",
     "Web/Azure Web Developer Associate/Event-Based Solutions/Azure Event Hubs/Perform Common Operations With The Event Hubs Client Library.md",
     "Web/Azure Web Developer Associate/Event-Based Solutions/Azure Event Hubs/Control Access To Events (Event Hub).md",
-    "Web/Azure Web Developer Associate/Event-Based Solutions/Azure Event Grid/Control Access To Events (Event Grid).md",
-    "Web/Azure Web Developer Associate/Event-Based Solutions/Azure Event Hubs/Scale Your Processing Application.md"
+    "Web/Azure Web Developer Associate/Event-Based Solutions/Azure Event Grid/Control Access To Events (Event Grid).md"
   ]
 }
