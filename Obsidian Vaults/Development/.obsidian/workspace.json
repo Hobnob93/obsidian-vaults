@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Azure Web Developer Associate/Azure Message Queues/Explore Service Bus Message Payloads & Serialisation.md",
+                "file": "Web/Azure Web Dev Associate.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Azure Web Developer Associate/Azure Message Queues/Explore Service Bus Message Payloads & Serialisation.md",
+                "file": "Web/Azure Web Dev Associate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Web/Azure Web Developer Associate/Azure Message Queues/Explore Service Bus Message Payloads & Serialisation.md",
+                "file": "Web/Azure Web Dev Associate.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -196,8 +196,8 @@
   },
   "active": "753880ceffaaa78b",
   "lastOpenFiles": [
-    "Web/Azure Web Developer Associate/Azure Message Queues.md",
     "Web/Azure Web Developer Associate/Azure Message Queues/Explore Service Bus Message Payloads & Serialisation.md",
+    "Web/Azure Web Developer Associate/Azure Message Queues.md",
     "Web/Azure Web Developer Associate/Azure Message Queues/Discover Service Bus Queues, Topics, & Subscriptions.md",
     "Web/Azure Web Developer Associate/Azure Message Queues/Explore Azure Service Bus.md",
     "Web/Azure Web Developer Associate/Azure Message Queues/Choose A Message Queue Solution.md",
