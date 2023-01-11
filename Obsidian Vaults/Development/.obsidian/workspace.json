@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Azure Web Developer Associate/Monitor App Performance/Explore Azure Monitor.md",
+                "file": "Web/Azure Web Developer Associate/Monitor App Performance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fee89867bf4c30e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web/Azure Web Developer Associate/Monitor App Performance/Explore Application Insights.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Azure Web Developer Associate/Monitor App Performance/Explore Azure Monitor.md",
+                "file": "Web/Azure Web Developer Associate/Monitor App Performance/Explore Application Insights.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Web/Azure Web Developer Associate/Monitor App Performance/Explore Azure Monitor.md",
+                "file": "Web/Azure Web Developer Associate/Monitor App Performance/Explore Application Insights.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -181,17 +194,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "753880ceffaaa78b",
+  "active": "fee89867bf4c30e1",
   "lastOpenFiles": [
     "Web/Azure Web Developer Associate/Monitor App Performance.md",
+    "Web/Azure Web Developer Associate/Monitor App Performance/Explore Application Insights.md",
+    "Web/Azure Web Developer Associate/Monitor App Performance/Explore Azure Monitor.md",
+    "Web/Azure Web Developer Associate/Monitor App Performance/Azure Monitor High Level Overview.png",
     "Web/Azure Web Dev Associate.md",
     "Web/Azure Web Developer Associate/Azure Message Queues.md",
     "Web/Azure Web Developer Associate/Azure Message Queues/Create & Manage Azure Queue Storage & Messages Using .NET.md",
     "Web/Azure Web Developer Associate/Azure Message Queues/Exercise - Send & Receive Message From A Service Bus Queue Using .NET.md",
     "Web/Azure Web Developer Associate/Azure Message Queues/Explore Azure Queue Storage.md",
-    "Web/Azure Web Developer Associate/API Management/Exercise - Create A Backend API.md",
-    "Web/Azure Web Developer Associate/Azure Message Queues/Explore Service Bus Message Payloads & Serialisation.md",
-    "Web/Azure Web Developer Associate/Azure Message Queues/Discover Service Bus Queues, Topics, & Subscriptions.md",
-    "Web/Azure Web Developer Associate/Azure Message Queues/Explore Azure Service Bus.md"
+    "Web/Azure Web Developer Associate/API Management/Exercise - Create A Backend API.md"
   ]
 }

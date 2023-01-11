@@ -2,3 +2,4 @@
 
 ## Sections
 [[Explore Azure Monitor]]
+[[Explore Application Insights]]
