@@ -1,4 +1,4 @@
-#azure #stub #az-204 #module 
+#azure #stub #az-204 #module #topic
 
-# Monitor App Performance
+## Sections
 [[Explore Azure Monitor]]

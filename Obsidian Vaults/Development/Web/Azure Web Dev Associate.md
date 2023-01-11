@@ -40,7 +40,6 @@
 	- [[Azure Event Hubs]]
 - [[Azure Message Queues]]
 - [[Monitor App Performance]]
-	- [[Explore Azure Monitor]]
 - [[Caching & Content Delivery within Solutions]]
 	- [[Azure Cache for Redis]]
 	- [[Storage on CDNs]]

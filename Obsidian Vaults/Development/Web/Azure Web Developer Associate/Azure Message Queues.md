@@ -1,4 +1,4 @@
-#azure #stub #az-204 #module #topic
+#azure #az-204 #module #topic
 
 ## Sections
 [[Choose A Message Queue Solution]]
