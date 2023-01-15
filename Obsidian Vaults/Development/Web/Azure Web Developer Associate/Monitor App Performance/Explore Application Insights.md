@@ -56,3 +56,20 @@ The describe app activities and health, as was as trace logging data.
 ## Getting Started With Application Insights
 App Insights is one of many services hosted within Microsoft Azure.
 Telemetry is sent there for analysis and presentation.
+Free to sign up.
+Can choose the basic plan for no charge until application has grown to have substantial usage.
+
+Several ways to get started monitoring and analysing app performance:
+- __At run time__
+	- Instrument your web app on the server
+	- Ideal for apps already deployed
+	- Avoids any update to the code
+- __At development time__
+	- Add App Insights to your code
+	- Allows you to customise telemetry collection and send more telemetry
+- __Instrument your web pages__
+	- For page view, AJAX, and other client-side telemetry
+- __Analyse mobile app usage__
+	- Integrate with Visual Studio App Centre
+- __Availability tests__
+	- Ping your website regularly from Azure servers

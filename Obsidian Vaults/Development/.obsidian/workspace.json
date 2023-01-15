@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Azure Web Developer Associate/Monitor App Performance.md",
+                "file": "Web/Azure Web Developer Associate/Caching/Azure Cache for Redis.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fee89867bf4c30e1",
+            "id": "e13ca2b59d8aa64b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Azure Web Developer Associate/Monitor App Performance/Explore Application Insights.md",
+                "file": "Web/Azure Web Developer Associate/Caching/Azure Cache for Redis/Explore Azure Cache For Redis.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Azure Web Developer Associate/Monitor App Performance/Explore Application Insights.md",
+                "file": "Web/Azure Web Developer Associate/Caching/Azure Cache for Redis/Explore Azure Cache For Redis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Web/Azure Web Developer Associate/Monitor App Performance/Explore Application Insights.md",
+                "file": "Web/Azure Web Developer Associate/Caching/Azure Cache for Redis/Explore Azure Cache For Redis.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -194,17 +194,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "fee89867bf4c30e1",
+  "active": "e13ca2b59d8aa64b",
   "lastOpenFiles": [
-    "Web/Azure Web Developer Associate/Monitor App Performance.md",
-    "Web/Azure Web Developer Associate/Monitor App Performance/Explore Application Insights.md",
-    "Web/Azure Web Developer Associate/Monitor App Performance/Explore Azure Monitor.md",
-    "Web/Azure Web Developer Associate/Monitor App Performance/Azure Monitor High Level Overview.png",
+    "Web/Azure Web Developer Associate/Caching/Azure Cache for Redis.md",
+    "Web/Azure Web Developer Associate/Caching/Azure Cache for Redis/Explore Azure Cache For Redis.md",
     "Web/Azure Web Dev Associate.md",
-    "Web/Azure Web Developer Associate/Azure Message Queues.md",
-    "Web/Azure Web Developer Associate/Azure Message Queues/Create & Manage Azure Queue Storage & Messages Using .NET.md",
-    "Web/Azure Web Developer Associate/Azure Message Queues/Exercise - Send & Receive Message From A Service Bus Queue Using .NET.md",
-    "Web/Azure Web Developer Associate/Azure Message Queues/Explore Azure Queue Storage.md",
-    "Web/Azure Web Developer Associate/API Management/Exercise - Create A Backend API.md"
+    "Web/Azure Web Developer Associate/Monitor App Performance.md",
+    "Web/Azure Web Developer Associate/Monitor App Performance/Troubleshoot App Performance Using Application Map.md",
+    "Web/Azure Web Developer Associate/Monitor App Performance/Select An Availability Test.md",
+    "Web/Azure Web Developer Associate/Monitor App Performance/Instrument An App For Monitoring.md",
+    "Web/Azure Web Developer Associate/Monitor App Performance/Discover Log-Based Metrics.md",
+    "Web/Azure Web Developer Associate/Monitor App Performance/Explore Application Insights.md",
+    "Web/Azure Web Developer Associate/Monitor App Performance/Explore Azure Monitor.md"
   ]
 }
