@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Azure Web Developer Associate/Caching/Azure Cache for Redis.md",
+                "file": "Web/Azure Web Developer Associate/Caching/Azure Cache for Redis/Interact With Azure Cache For Redis By Using .NET.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Web/Azure Web Developer Associate/Caching/Azure Cache for Redis.md",
+                "file": "Web/Azure Web Developer Associate/Caching/Azure Cache for Redis/Interact With Azure Cache For Redis By Using .NET.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -193,8 +194,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "e13ca2b59d8aa64b",
+  "active": "594db32104df934a",
   "lastOpenFiles": [
+    "Web/Azure Web Developer Associate/Caching/Azure Cache for Redis.md",
     "Web/Azure Web Developer Associate/Azure Message Queues.md",
     "Web/Azure Web Developer Associate/Azure Functions.md",
     "Web/Azure Web Developer Associate/Azure Blob Storage.md",
@@ -202,7 +204,6 @@
     "Web/Azure Web Developer Associate/API Management.md",
     "Web/Azure Web Developer Associate/Caching/Azure Cache for Redis/Interact With Azure Cache For Redis By Using .NET.md",
     "Web/Azure Web Developer Associate/Caching/Azure Cache for Redis/Explore Azure Cache For Redis.md",
-    "Web/Azure Web Developer Associate/Caching/Azure Cache for Redis.md",
     "Web/Azure Web Developer Associate/Caching/Azure Cache for Redis/Configure Azure Cache For Redis.md",
     "Web/Azure Web Dev Associate.md"
   ]
