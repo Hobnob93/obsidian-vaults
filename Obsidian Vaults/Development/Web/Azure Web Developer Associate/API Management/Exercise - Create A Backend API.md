@@ -58,6 +58,6 @@ The API is created, but need to specify a backend
 
 ## Clean Up Resources
 When you no longer need these resources, use the following command to delete the resource group and related resources.
-```Shell
+```shell
 az group delete --name az204-apim-rg --no-wait
 ```

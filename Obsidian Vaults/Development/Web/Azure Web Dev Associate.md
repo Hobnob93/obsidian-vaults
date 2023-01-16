@@ -42,4 +42,4 @@
 - [[Monitor App Performance]]
 - [[Caching & Content Delivery within Solutions]]
 	- [[Azure Cache for Redis]]
-	- [[Storage on CDNs]]
+	- [[Storage on Content Delivery Networks]]

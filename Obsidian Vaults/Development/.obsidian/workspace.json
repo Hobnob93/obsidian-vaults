@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Azure Web Developer Associate/Caching/Azure Cache for Redis.md",
+                "file": "Web/Azure Web Developer Associate/Caching/Storage on Content Delivery Networks.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "594db32104df934a",
+            "id": "b307ab97f864212e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Azure Web Developer Associate/Caching/Azure Cache for Redis/Interact With Azure Cache For Redis By Using .NET.md",
+                "file": "Web/Azure Web Developer Associate/Caching & Content Delivery within Solutions.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Azure Web Developer Associate/Caching/Azure Cache for Redis/Interact With Azure Cache For Redis By Using .NET.md",
+                "file": "Web/Azure Web Developer Associate/Caching & Content Delivery within Solutions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Web/Azure Web Developer Associate/Caching/Azure Cache for Redis/Interact With Azure Cache For Redis By Using .NET.md",
+                "file": "Web/Azure Web Developer Associate/Caching & Content Delivery within Solutions.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -194,17 +194,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "594db32104df934a",
+  "active": "b307ab97f864212e",
   "lastOpenFiles": [
+    "Web/Azure Web Developer Associate/Caching/Storage on Content Delivery Networks.md",
+    "Web/Azure Web Developer Associate/Caching/Storage on CDNs/Explore Azure Content Delivery Networks.md",
+    "Web/Azure Web Developer Associate/Caching/Untitled.md",
+    "Web/Azure Web Developer Associate/Caching & Content Delivery within Solutions.md",
     "Web/Azure Web Developer Associate/Caching/Azure Cache for Redis.md",
-    "Web/Azure Web Developer Associate/Azure Message Queues.md",
-    "Web/Azure Web Developer Associate/Azure Functions.md",
-    "Web/Azure Web Developer Associate/Azure Blob Storage.md",
-    "Web/Azure Web Developer Associate/Azure Storage.md",
-    "Web/Azure Web Developer Associate/API Management.md",
+    "Web/Azure Web Developer Associate/Caching/Azure Cache for Redis/Exercise - Connect An App To Azure Cache For Redis Using .NET Core.md",
+    "Web/Azure Web Developer Associate/API Management/Exercise - Create A Backend API.md",
     "Web/Azure Web Developer Associate/Caching/Azure Cache for Redis/Interact With Azure Cache For Redis By Using .NET.md",
-    "Web/Azure Web Developer Associate/Caching/Azure Cache for Redis/Explore Azure Cache For Redis.md",
-    "Web/Azure Web Developer Associate/Caching/Azure Cache for Redis/Configure Azure Cache For Redis.md",
-    "Web/Azure Web Dev Associate.md"
+    "Web/Azure Web Developer Associate/Azure Message Queues.md",
+    "Web/Azure Web Developer Associate/Azure Functions.md"
   ]
 }

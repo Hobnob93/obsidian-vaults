@@ -1,5 +1,5 @@
-#azure #stub #az-204 #module
+#azure #az-204 #module
 
-# Caching & Content Delivery within Solutions
+## Sections
 [[Azure Cache for Redis]]
-[[Storage on CDNs]]
+[[Storage on Content Delivery Networks]]
