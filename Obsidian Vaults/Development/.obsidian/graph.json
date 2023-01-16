@@ -1,6 +1,6 @@
 {
-  "collapse-filter": false,
-  "search": "tag:#exercise",
+  "collapse-filter": true,
+  "search": "",
   "showTags": false,
   "showAttachments": true,
   "hideUnresolved": false,
@@ -43,16 +43,16 @@
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": -0.2,
-  "nodeSizeMultiplier": 1.48205128205128,
-  "lineSizeMultiplier": 1.10512820512821,
-  "collapse-forces": true,
-  "centerStrength": 0.358974358974359,
-  "repelStrength": 10.0854700854701,
-  "linkStrength": 0.752136752136752,
-  "linkDistance": 231,
-  "scale": 0.1634837056722051,
-  "close": false
+  "nodeSizeMultiplier": 1.00598958333333,
+  "lineSizeMultiplier": 0.75078125,
+  "collapse-forces": false,
+  "centerStrength": 0.361979166666667,
+  "repelStrength": 8.38541666666667,
+  "linkStrength": 0.903645833333333,
+  "linkDistance": 100,
+  "scale": 0.22920135941749356,
+  "close": true
 }
