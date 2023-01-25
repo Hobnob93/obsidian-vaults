@@ -7,3 +7,4 @@
 [[JavaScript]]
 [[Sass]]
 [[Azure Web Dev Associate]]
+[[Security]]
