@@ -1,6 +1,6 @@
 #azure #az-204 #topic 
 
-# Explore Azure Functions
+## Sections
 [[Discover Azure Functions]]
 [[Compare Azure Functions Hosting Options]]
 [[Scale Azure Functions]]

@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Azure Web Developer Associate/AZ-204 Exam Overview.md",
+                "file": "Web/Azure Web Developer Associate/Functions/Explore Azure Functions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "79189d441b86a92b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web/Azure Web Developer Associate/Functions/Explore Azure Functions/Compare Azure Functions Hosting Options.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Azure Web Developer Associate/AZ-204 Exam Overview.md",
+                "file": "Web/Azure Web Developer Associate/Functions/Explore Azure Functions/Compare Azure Functions Hosting Options.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +125,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Web/Azure Web Developer Associate/AZ-204 Exam Overview.md",
+                "file": "Web/Azure Web Developer Associate/Functions/Explore Azure Functions/Compare Azure Functions Hosting Options.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -194,17 +206,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "ce85b4017fac840c",
+  "active": "79189d441b86a92b",
   "lastOpenFiles": [
-    "Web/Azure Web Dev Associate.md",
+    "Web/Azure Web Developer Associate/Functions/Explore Azure Functions.md",
+    "Web/Azure Web Developer Associate/Functions/What Is Serverless Architecture.md",
+    "Web/Azure Web Developer Associate/Azure Functions.md",
     "Web/Azure Web Developer Associate/AZ-204 Exam Overview.md",
+    "Web/Azure Web Dev Associate.md",
     "Web.md",
     "Web/General Web Stuff/Security.md",
     "Web/Azure Web Developer Associate/Authentication & Authorisation/About Azure Active Directory.md",
     "Web/Azure Web Developer Associate/Caching/Storage on Content Delivery Networks.md",
-    "Web/Azure Web Developer Associate/Caching/Storage on CDNs/Interact With Azure Content Delivery Networks Using .NET.md",
-    "Web/Azure Web Developer Associate/Caching/Storage on CDNs/Control Cache Behaviour on Azure Content Delivery Networks.md",
-    "Web/Azure Web Developer Associate/Caching/Storage on CDNs/Explore Azure Content Delivery Networks.md",
-    "Web/Azure Web Developer Associate/Caching & Content Delivery within Solutions.md"
+    "Web/Azure Web Developer Associate/Caching/Storage on CDNs/Interact With Azure Content Delivery Networks Using .NET.md"
   ]
 }
