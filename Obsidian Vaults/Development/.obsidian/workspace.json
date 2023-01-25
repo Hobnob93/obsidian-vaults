@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/General Web Stuff/Security.md",
+                "file": "Web/Azure Web Dev Associate.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce85b4017fac840c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web/Azure Web Developer Associate/AZ-204 Exam Overview.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/General Web Stuff/Security.md",
+                "file": "Web/Azure Web Developer Associate/AZ-204 Exam Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Web/General Web Stuff/Security.md",
+                "file": "Web/Azure Web Developer Associate/AZ-204 Exam Overview.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -181,17 +194,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "e13ca2b59d8aa64b",
+  "active": "ce85b4017fac840c",
   "lastOpenFiles": [
-    "Web.md",
     "Web/Azure Web Dev Associate.md",
+    "Web/Azure Web Developer Associate/AZ-204 Exam Overview.md",
+    "Web.md",
+    "Web/General Web Stuff/Security.md",
     "Web/Azure Web Developer Associate/Authentication & Authorisation/About Azure Active Directory.md",
     "Web/Azure Web Developer Associate/Caching/Storage on Content Delivery Networks.md",
     "Web/Azure Web Developer Associate/Caching/Storage on CDNs/Interact With Azure Content Delivery Networks Using .NET.md",
     "Web/Azure Web Developer Associate/Caching/Storage on CDNs/Control Cache Behaviour on Azure Content Delivery Networks.md",
     "Web/Azure Web Developer Associate/Caching/Storage on CDNs/Explore Azure Content Delivery Networks.md",
-    "Web/Azure Web Developer Associate/Caching & Content Delivery within Solutions.md",
-    "Web/Azure Web Developer Associate/Caching/Untitled.md",
-    "Web/Azure Web Developer Associate/Caching/Azure Cache for Redis.md"
+    "Web/Azure Web Developer Associate/Caching & Content Delivery within Solutions.md"
   ]
 }
