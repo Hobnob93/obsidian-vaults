@@ -4,12 +4,12 @@
 - configuration of a single function
 - defines bindings
 
-`index.js`
+`index.cs`
 - or any other code file
 - code of the function
 
 `.funcignore`
-- files to ignore, like a .gitignore file
+- files to ignore, similar to a .gitignore file
 
 `host.json`
 - global configuration of all functions at function app level
