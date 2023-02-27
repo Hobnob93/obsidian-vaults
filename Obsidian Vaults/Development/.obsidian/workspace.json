@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7ab739b308095887",
+            "id": "23b87168dde0aa1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,12 +20,24 @@
             }
           },
           {
-            "id": "23b87168dde0aa1e",
+            "id": "1ad14e744b1ba10b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp AZ-204 Course.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Virtual Machines/Azure VMs - Working with Azure Managed Identities.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3df3392723e5378e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Virtual Machines/Azure VMs - VM Sizes.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp AZ-204 Course.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Virtual Machines/Azure VMs - Working with Azure Managed Identities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +125,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp AZ-204 Course.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Virtual Machines/Azure VMs - Working with Azure Managed Identities.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -194,34 +206,37 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "23b87168dde0aa1e",
+  "active": "1ad14e744b1ba10b",
   "lastOpenFiles": [
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Kubernetes.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Virtual Machines",
     "Web/Azure Web Developer Associate/CodeCamp AZ-204 Course.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Patterns of Durable Functions.md",
-    "Pasted image 20230226115541.png",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Durable Functions.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Virtual Machines/Azure VMs - Working with Azure Managed Identities.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Virtual Machines/Azure VMs - VM Sizes.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Virtual Machines/Azure VMs - Cloud Init.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Custom Handler Diagra.png",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Custom Handlers.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Debugging.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Durable Functions.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - HTTP Authorization Levels.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Key Concepts.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Kubernetes.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Local Settings File.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Overview.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Patterns of Durable Functions.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Plan Services.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Runtimes.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Storage Considerations.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Templates.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Triggers and Bindings.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Types of Bindings.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Use Cases.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - VSCode Extension.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Windows vs Linux Hosting.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Virtual Machines/Azure VMs - Cloud Init Diagram.png",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Virtual Machines/Azure VMs - Operating Systems.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Virtual Machines/Azure VMs - Introduction.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Virtual Machines",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Custom Handler Diagram.png",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Core Tools.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Local Settings File.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Binding Expressions.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Triggers and Bindings.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Binding Direction.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Windows vs Linux Hosting.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - VSCode Extension.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Use Cases.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Types of Bindings.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Templates.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Storage Considerations.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Runtimes.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Plan Services.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Key Concepts.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - HTTP Authorization Levels.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Debugging.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Configuration.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Anatomy of a Function.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Overview.md"
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Binding Expressions.md"
   ]
 }

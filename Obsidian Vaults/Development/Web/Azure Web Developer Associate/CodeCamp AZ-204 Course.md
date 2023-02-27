@@ -31,3 +31,8 @@ www.exampro.co/az-204
 [[Azure Functions - Kubernetes]]
 
 ##### Virtual Machines
+[[Azure VMs - Introduction]]
+[[Azure VMs - Operating Systems]]
+[[Azure VMs - Cloud Init]]
+[[Azure VMs - VM Sizes]]
+[[Azure VMs - Working with Azure Managed Identities]]
