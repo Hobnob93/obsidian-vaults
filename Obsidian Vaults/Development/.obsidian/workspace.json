@@ -20,29 +20,19 @@
             }
           },
           {
-            "id": "7cfa45a6d4064b6b",
+            "id": "23b87168dde0aa1e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Triggers and Bindings.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp AZ-204 Course.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "0d695d6288dd5824",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.15"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Triggers and Bindings.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp AZ-204 Course.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Triggers and Bindings.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp AZ-204 Course.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -204,17 +194,34 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "0d695d6288dd5824",
+  "active": "23b87168dde0aa1e",
   "lastOpenFiles": [
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Kubernetes.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Virtual Machines",
     "Web/Azure Web Developer Associate/CodeCamp AZ-204 Course.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - HTTP Authorization Levels.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Plan Services.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Configuration.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Templates.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Patterns of Durable Functions.md",
+    "Pasted image 20230226115541.png",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Durable Functions.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Custom Handlers.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Custom Handler Diagram.png",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Core Tools.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Local Settings File.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Binding Expressions.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Triggers and Bindings.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Binding Direction.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Windows vs Linux Hosting.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Runtimes.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - VSCode Extension.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Use Cases.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Key Concepts.md"
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Types of Bindings.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Templates.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Storage Considerations.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Runtimes.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Plan Services.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Key Concepts.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - HTTP Authorization Levels.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Debugging.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Configuration.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Anatomy of a Function.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Overview.md"
   ]
 }

@@ -1,4 +1,4 @@
-#azure #az-204 
+#azure #az-204 #json
 
 Every function contains a function config file called `function.json`.
 It defines function's trigger, bindings, and other config settings.
