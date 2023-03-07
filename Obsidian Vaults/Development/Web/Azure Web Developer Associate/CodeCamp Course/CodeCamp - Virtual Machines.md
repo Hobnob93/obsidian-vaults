@@ -12,3 +12,5 @@
 [[Azure VMs - Secure Shell (SSH)]]
 [[Azure VMs - Remote Desktop Protocol (RDP)]]
 [[Azure VMs - Azure Bastion]]
+[[Azure VMs - Windows vs Linux Servers]]
+[[Azure VMs - Update Management & Azure Automation]]

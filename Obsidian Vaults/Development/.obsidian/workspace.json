@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "dcc696ba95cbdd72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Virtual Machines/Azure VMs - Azure Bastion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Virtual Machines/Azure VMs - Azure Bastion.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Virtual Machines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +100,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Virtual Machines/Azure VMs - Azure Bastion.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Virtual Machines.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -194,9 +181,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "dcc696ba95cbdd72",
+  "active": "15c9b21402f090ee",
   "lastOpenFiles": [
+    "Web/Azure Web Developer Associate/CodeCamp Course/Virtual Machines/Azure VMs - Update Management & Azure Automation.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Virtual Machines.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Virtual Machines/Azure VMs - Windows vs Linux Servers.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Virtual Machines/Azure VMs - Azure Bastion.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Virtual Machines/Azure VMs - Remote Desktop Protocol (RDP).md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Virtual Machines/Azure VMs - Secure Shell (SSH).md",
@@ -223,8 +212,6 @@
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Durable Functions.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - HTTP Authorization Levels.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Key Concepts.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Local Settings File.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Overview.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Virtual Machines/Azure VMs - Cloud Init Diagram.png",
     "Web/Azure Web Developer Associate/CodeCamp Course/Virtual Machines",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Custom Handler Diagram.png"
