@@ -19,5 +19,5 @@ Available OS' include:
 - Docker images
 - CloudBees Jenkins Platform
 
-You can create a Linux Virtual Hard Disk (VHD) by running Hyper-V on a Windows device.
+You can create a Linux Virtual Hard Disk (VHD) by running [[Azure VMs - Hyper-V and Generation 1 vs 2|Hyper-V]] on a Windows device.
 Does not support newer format VHDX, *only* VHD format supported.

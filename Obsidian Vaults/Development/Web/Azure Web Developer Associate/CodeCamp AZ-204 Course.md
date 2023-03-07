@@ -35,4 +35,7 @@ www.exampro.co/az-204
 [[Azure VMs - Operating Systems]]
 [[Azure VMs - Cloud Init]]
 [[Azure VMs - VM Sizes]]
-[[Azure VMs - Working with Azure Managed Identities]]
+[[Azure VMs - Azure Compute Units]]
+[[Azure VMs - Monitor VMs via Azure Mobile App]]
+[[Azure VMs - Hyper-V and Generation 1 vs 2]]
+[[Azure VMs - SSH, RDP, and Bastion]]
