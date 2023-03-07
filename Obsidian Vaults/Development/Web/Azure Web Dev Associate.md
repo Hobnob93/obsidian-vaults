@@ -2,7 +2,7 @@
 
 ## Sections
 [[AZ-204 Exam Overview]]
-[[CodeCamp AZ-204 Course]]
+[[CodeCamp AZ-204 Course.canvas|CodeCamp AZ-204 Course]]
 
 - [[Azure Web Apps]]
 	- [[Explore Azure App Service]]

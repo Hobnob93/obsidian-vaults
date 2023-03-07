@@ -1,9 +1,6 @@
-#azure #az-204 
-
-www.exampro.co/az-204
+#azure #az-204 #module 
 
 ## Sections
-##### Azure Functions
 [[What Is Serverless Architecture]]
 [[Function As A Service (FaaS)]]
 [[Azure Functions - Overview]]
@@ -29,13 +26,3 @@ www.exampro.co/az-204
 [[Azure Functions - Durable Functions]]
 [[Azure Functions - Patterns of Durable Functions]]
 [[Azure Functions - Kubernetes]]
-
-##### Virtual Machines
-[[Azure VMs - Introduction]]
-[[Azure VMs - Operating Systems]]
-[[Azure VMs - Cloud Init]]
-[[Azure VMs - VM Sizes]]
-[[Azure VMs - Azure Compute Units]]
-[[Azure VMs - Monitor VMs via Azure Mobile App]]
-[[Azure VMs - Hyper-V and Generation 1 vs 2]]
-[[Azure VMs - SSH, RDP, and Bastion]]

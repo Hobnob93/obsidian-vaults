@@ -3,7 +3,7 @@
 Kubernetes Event-driven Autoscaling (**KEDA**) allows you to setup autoscaling based on events from various cloud-native and third-party services
 
 You can deploy any Azure function app to a Kubernetes cluster running KEDA.
-```cli
+```Shell
 func kubernetes deploy \
 	--name <name-of-function-deployment> |
 	--registry <container-registry-username

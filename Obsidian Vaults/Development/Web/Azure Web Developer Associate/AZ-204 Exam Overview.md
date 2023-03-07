@@ -1,4 +1,4 @@
-#azure #az-204 
+#azure #az-204 #topic 
 
 Azure exams are generally aimed at testing PRACTICAL KNOWLEDGE.
 Focuses on STEPS TO USE A SERVICE rather than conceptual or strategic information.
