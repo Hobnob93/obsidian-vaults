@@ -1,10 +1,11 @@
 {
 	"nodes":[
-		{"id":"31ffc4395cb0b3e6","x":-520,"y":-380,"width":500,"height":120,"type":"text","text":"## ExamPro Website\nwww.exampro.co/az-204"},
-		{"id":"29007ae5d4e1c8c7","x":20,"y":-380,"width":500,"height":385,"type":"file","file":"Web/Azure Web Developer Associate/AZ-204 Exam Overview.md"},
+		{"type":"text","text":"## ExamPro Website\nwww.exampro.co/az-204","id":"31ffc4395cb0b3e6","x":-520,"y":-380,"width":500,"height":120},
+		{"type":"file","file":"Web/Azure Web Developer Associate/AZ-204 Exam Overview.md","id":"29007ae5d4e1c8c7","x":20,"y":-380,"width":500,"height":385},
 		{"type":"text","text":"## Video Course\nhttps://www.youtube.com/watch?v=jZx8PMQjobk","id":"cd4e5ad3fbbd0129","x":-520,"y":-115,"width":500,"height":120},
-		{"id":"fb198248748e4c48","x":-520,"y":60,"width":500,"height":460,"type":"file","file":"Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Functions.md"},
-		{"id":"6e7db40da8b4baf6","x":20,"y":60,"width":500,"height":460,"type":"file","file":"Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Virtual Machines.md"}
+		{"type":"file","file":"Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Functions.md","id":"fb198248748e4c48","x":-520,"y":60,"width":500,"height":460},
+		{"type":"file","file":"Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Virtual Machines.md","id":"6e7db40da8b4baf6","x":20,"y":60,"width":500,"height":460},
+		{"id":"f68751fa605389ef","x":-520,"y":560,"width":500,"height":400,"type":"file","file":"Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - ARM Templates.md"}
 	],
 	"edges":[]
 }
