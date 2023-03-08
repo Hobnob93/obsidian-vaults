@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "15c9b21402f090ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Virtual Machines.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1b3b239d165685b8",
             "type": "leaf",
             "state": {
@@ -28,14 +16,38 @@
                 "file": "Web/Azure Web Developer Associate/CodeCamp AZ-204 Course.canvas",
                 "viewState": {
                   "x": 0,
-                  "y": 359.5283018867925,
+                  "y": 456.0377358490567,
                   "zoom": -0.05343925896146061
                 }
               }
             }
+          },
+          {
+            "id": "15c9b21402f090ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - ARM Templates.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc8c0c41f60a4c9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/ARM Templates/ARM Templates - Introduction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp AZ-204 Course.canvas",
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/ARM Templates/ARM Templates - Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp AZ-204 Course.canvas",
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/ARM Templates/ARM Templates - Introduction.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -197,9 +209,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "1b3b239d165685b8",
+  "active": "bc8c0c41f60a4c9e",
   "lastOpenFiles": [
     "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - ARM Templates.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/ARM Templates/ARM Templates - Introduction.md",
+    "Web/Azure Web Developer Associate/CodeCamp AZ-204 Course.canvas",
     "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Virtual Machines.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/ARM Templates",
     "Web/Azure Web Developer Associate/CodeCamp Course/Virtual Machines/Azure VMs - Update Management & Azure Automation.md",
@@ -213,7 +227,6 @@
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Core Tools.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Virtual Machines/Azure VMs - SSH, RDP, and Bastion.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Functions.md",
-    "Web/Azure Web Developer Associate/CodeCamp AZ-204 Course.canvas",
     "Web/Azure Web Dev Associate.md",
     "Web/Azure Web Developer Associate/CodeCamp AZ-204 Course.md",
     "Web/Azure Web Developer Associate/AZ-204 Exam Overview.md",
@@ -228,7 +241,6 @@
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Custom Handlers.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Debugging.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Durable Functions.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - HTTP Authorization Levels.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Virtual Machines/Azure VMs - Cloud Init Diagram.png",
     "Web/Azure Web Developer Associate/CodeCamp Course/Virtual Machines",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Custom Handler Diagram.png"
