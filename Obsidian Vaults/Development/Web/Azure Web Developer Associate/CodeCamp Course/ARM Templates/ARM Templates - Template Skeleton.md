@@ -9,9 +9,9 @@ Defined via JSON, with the following properties:
 	- Can provide any value for this property
 - `apiProfile`
 	- Use this to avoid having to specify API versions for each resource in the template
-- `parameters`
+- `parameters` ([[ARM Templates - Parameters|More Info]])
 	- Values you can pass along to your template
-- `variables` ([[ARM Templates - Parameters|More Info]])
+- `variables` ([[ARM Templates - Variables|More Info]])
 	- You transform parameters or resource properties using function expressions
 - `functions` ([[ARM Templates - Functions|More Info]])
 	- User-defined functions available within the template
