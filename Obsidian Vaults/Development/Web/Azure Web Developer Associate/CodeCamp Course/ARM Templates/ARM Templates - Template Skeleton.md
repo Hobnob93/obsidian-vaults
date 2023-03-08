@@ -17,7 +17,7 @@ Defined via JSON, with the following properties:
 	- User-defined functions available within the template
 - `resources` ([[ARM Templates - Resources|More Info]])
 	- The Azure resources you'll want to deploy or update
-- `outputs`
+- `outputs` ([[ARM Templates - Outputs|More Info]])
 	- Values that are returned after the deployments
 
 ```json

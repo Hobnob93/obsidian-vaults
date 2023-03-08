@@ -7,3 +7,4 @@
 [[ARM Templates - Parameters]]
 [[ARM Templates - Functions]]
 [[ARM Templates - Variables]]
+[[ARM Templates - Outputs]]
