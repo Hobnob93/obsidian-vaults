@@ -8,7 +8,8 @@
 		{"type":"file","file":"Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - ARM Templates.md","id":"f68751fa605389ef","x":-520,"y":900,"width":500,"height":361},
 		{"type":"file","file":"Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Container Registry (ACR).md","id":"579aa6541ee6852b","x":-520,"y":1300,"width":500,"height":280},
 		{"type":"file","file":"Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Container Instances (ACI).md","id":"37888f9b865ace01","x":20,"y":620,"width":500,"height":380},
-		{"id":"a35cec16244ab439","x":20,"y":1040,"width":500,"height":424,"type":"file","file":"Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure App Services.md"}
+		{"type":"file","file":"Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure App Services.md","id":"a35cec16244ab439","x":20,"y":1040,"width":500,"height":424},
+		{"id":"8e3c8ee535fe9d17","x":20,"y":1520,"width":500,"height":400,"type":"file","file":"Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Tables & CosmosDB.md"}
 	],
 	"edges":[]
 }
