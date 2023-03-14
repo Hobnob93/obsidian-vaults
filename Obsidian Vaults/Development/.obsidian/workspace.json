@@ -35,12 +35,12 @@
             }
           },
           {
-            "id": "b1838ea0ce817c7a",
+            "id": "b4b67030249ca316",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Tables & CosmosDB/Azure Tables & CosmosDB - Key Value Store.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Tables & CosmosDB/Azure Tables & CosmosDB - Graph Database.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Tables & CosmosDB/Azure Tables & CosmosDB - Key Value Store.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Tables & CosmosDB/Azure Tables & CosmosDB - Graph Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Tables & CosmosDB/Azure Tables & CosmosDB - Key Value Store.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Tables & CosmosDB/Azure Tables & CosmosDB - Graph Database.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -209,9 +209,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b1838ea0ce817c7a",
+  "active": "b4b67030249ca316",
   "lastOpenFiles": [
     "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Tables & CosmosDB.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Tables & CosmosDB/Azure Tables & CosmosDB - Graph Database.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Tables & CosmosDB/Azure Tables & CosmosDB - MongoDB.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Tables & CosmosDB/Azure Tables & CosmosDB - Document Store.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Tables & CosmosDB/Azure Tables & CosmosDB - Document Store Diagram.png",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Tables & CosmosDB/Azure Tables & CosmosDB - Key Value Store.md",
     "Web/Azure Web Developer Associate/CodeCamp AZ-204 Course.canvas",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Tables & CosmosDB",
@@ -237,9 +241,6 @@
     "Web/Azure Web Developer Associate/CodeCamp Course/Virtual Machines/Azure VMs - SSH, RDP, and Bastion.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Functions.md",
     "Web/Azure Web Dev Associate.md",
-    "Web/Azure Web Developer Associate/CodeCamp AZ-204 Course.md",
-    "Web/Azure Web Developer Associate/AZ-204 Exam Overview.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Virtual Machines/Azure VMs - Hyper-V and Generation 1 vs 2.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Virtual Machines/Azure VMs - Mobile App.png",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Custom Handler Diagra.png",
     "Web/Azure Web Developer Associate/CodeCamp Course/Virtual Machines/Azure VMs - Cloud Init Diagram.png",
