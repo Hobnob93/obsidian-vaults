@@ -16,38 +16,25 @@
                 "file": "Web/Azure Web Developer Associate/CodeCamp AZ-204 Course.canvas",
                 "viewState": {
                   "x": 0,
-                  "y": 1421.1320754716987,
+                  "y": 2096.698113207548,
                   "zoom": -0.05343925896146061
                 }
               }
             }
           },
           {
-            "id": "7f34c4d48ae6b917",
+            "id": "625b9c6f9fca9800",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Tables & CosmosDB.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b4b67030249ca316",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Tables & CosmosDB/Azure Tables & CosmosDB - Graph Database.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Cosmos DB.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Tables & CosmosDB/Azure Tables & CosmosDB - Graph Database.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp AZ-204 Course.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +115,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Tables & CosmosDB/Azure Tables & CosmosDB - Graph Database.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp AZ-204 Course.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -209,16 +196,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b4b67030249ca316",
+  "active": "1b3b239d165685b8",
   "lastOpenFiles": [
-    "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Tables & CosmosDB.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Tables & CosmosDB/Azure Tables & CosmosDB - Graph Database.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Tables & CosmosDB/Azure Tables & CosmosDB - MongoDB.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Tables & CosmosDB/Azure Tables & CosmosDB - Document Store.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Tables & CosmosDB/Azure Tables & CosmosDB - Document Store Diagram.png",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Tables & CosmosDB/Azure Tables & CosmosDB - Key Value Store.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Data Storage on Azure.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Data Storage on Azure/Data Storage on Azure - Cosmos DB Table vs Azure Table.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Cosmos DB.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Cosmos DB",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Data Storage on Azure/Data Storage on Azure - Cosmos DB.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Data Storage on Azure/Data Storage on Azure - Azure Tables.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Data Storage on Azure/Data Storage on Azure - Apache TinkerPop & Gremlin.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Data Storage on Azure/Data Storage on Azure - MongoDB.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Data Storage on Azure/Data Storage on Azure - Key Value Store.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Data Storage on Azure/Data Storage on Azure - Graph Database.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Data Storage on Azure/Data Storage on Azure - Document Store Diagram.png",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Data Storage on Azure/Data Storage on Azure - Document Store.md",
     "Web/Azure Web Developer Associate/CodeCamp AZ-204 Course.canvas",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Tables & CosmosDB",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Data Storage on Azure",
     "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - ARM Templates.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/ARM Templates/ARM Templates - Outputs.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/ARM Templates/ARM Templates - Template Skeleton.md",
@@ -236,11 +229,6 @@
     "Web/Azure Web Developer Associate/CodeCamp Course/Virtual Machines/Azure VMs - Secure Shell (SSH).md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Kubernetes.md",
     "Web/Azure Web Developer Associate/Caching/Storage on CDNs/Control Cache Behaviour on Azure Content Delivery Networks.md",
-    "Web/Azure Web Developer Associate/Caching/Azure Cache for Redis/Configure Azure Cache For Redis.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Core Tools.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Virtual Machines/Azure VMs - SSH, RDP, and Bastion.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Functions.md",
-    "Web/Azure Web Dev Associate.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Virtual Machines/Azure VMs - Mobile App.png",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Custom Handler Diagra.png",
     "Web/Azure Web Developer Associate/CodeCamp Course/Virtual Machines/Azure VMs - Cloud Init Diagram.png",
