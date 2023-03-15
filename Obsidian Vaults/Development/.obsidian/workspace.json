@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "676cb73fc5693641",
+            "id": "901d40f27bd8be54",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Cosmos DB/Cosmos DB - Choosing a Partition Key.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Cosmos DB/Cosmos DB - Choosing a Unique Key.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Cosmos DB/Cosmos DB - Choosing a Partition Key.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Cosmos DB/Cosmos DB - Choosing a Unique Key.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Cosmos DB/Cosmos DB - Choosing a Partition Key.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Cosmos DB/Cosmos DB - Choosing a Unique Key.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -194,9 +194,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "676cb73fc5693641",
+  "active": "901d40f27bd8be54",
   "lastOpenFiles": [
     "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Cosmos DB.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Cosmos DB/Cosmos DB - Choosing a Unique Key.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Cosmos DB/Cosmos DB - Choosing a Partition Key.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Cosmos DB/Cosmos DB - Partitioning Schemes Diagram.png",
     "Web/Azure Web Developer Associate/CodeCamp Course/Cosmos DB/Cosmos DB - Partitioning Schemes.md",
@@ -227,7 +228,6 @@
     "Web/Azure Web Developer Associate/CodeCamp Course/ARM Templates/ARM Templates - Infrastructure As Code (IaC).md",
     "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Virtual Machines.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/ARM Templates",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Virtual Machines/Azure VMs - Update Management & Azure Automation.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Virtual Machines/Azure VMs - Mobile App.png",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Custom Handler Diagra.png",
     "Web/Azure Web Developer Associate/CodeCamp Course/Virtual Machines/Azure VMs - Cloud Init Diagram.png",
