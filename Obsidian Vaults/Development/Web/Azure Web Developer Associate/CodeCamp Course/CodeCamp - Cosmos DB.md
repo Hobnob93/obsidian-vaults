@@ -9,3 +9,5 @@
 [[Cosmos DB - Partitioning Schemes]]
 [[Cosmos DB - Choosing a Partition Key]]
 [[Cosmos DB - Choosing a Unique Key]]
+[[Cosmos DB - Containers]]
+[[Cosmos DB - Containers Capacity]]
