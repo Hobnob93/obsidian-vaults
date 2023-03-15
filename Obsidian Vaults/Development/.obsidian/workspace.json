@@ -35,12 +35,12 @@
             }
           },
           {
-            "id": "bedc7832774a1540",
+            "id": "33a38a2b3b54a013",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Cosmos DB/Cosmos DB - Advantages.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Cosmos DB/Cosmos DB - APIs.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Cosmos DB/Cosmos DB - Advantages.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Cosmos DB/Cosmos DB - APIs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Cosmos DB/Cosmos DB - Advantages.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Cosmos DB/Cosmos DB - APIs.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -209,9 +209,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bedc7832774a1540",
+  "active": "33a38a2b3b54a013",
   "lastOpenFiles": [
     "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Cosmos DB.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Cosmos DB/Cosmos DB - APIs.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Cosmos DB/Cosmos DB - Advantages.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Data Storage on Azure/Data Storage on Azure - Cosmos DB.md",
     "Web/Azure Web Developer Associate/CodeCamp AZ-204 Course.canvas",
@@ -241,7 +242,6 @@
     "Web/Azure Web Developer Associate/CodeCamp Course/Virtual Machines/Azure VMs - Azure Bastion.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Virtual Machines/Azure VMs - Remote Desktop Protocol (RDP).md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Virtual Machines/Azure VMs - Secure Shell (SSH).md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Kubernetes.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Virtual Machines/Azure VMs - Mobile App.png",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Custom Handler Diagra.png",
     "Web/Azure Web Developer Associate/CodeCamp Course/Virtual Machines/Azure VMs - Cloud Init Diagram.png",

@@ -3,3 +3,4 @@
 ## Sections
 [[Data Storage on Azure - Cosmos DB]]
 [[Cosmos DB - Advantages]]
+[[Cosmos DB - APIs]]
