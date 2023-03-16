@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Cosmos DB/Cosmos DB - Containers Capacity.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Cosmos DB/Cosmos DB - Container Capacity.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Cosmos DB/Cosmos DB - Containers Capacity.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Cosmos DB/Cosmos DB - Container Capacity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Cosmos DB/Cosmos DB - Containers Capacity.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Cosmos DB/Cosmos DB - Container Capacity.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -197,7 +197,7 @@
   "active": "514903fca46b53c2",
   "lastOpenFiles": [
     "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Cosmos DB.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Cosmos DB/Cosmos DB - Containers Capacity.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Cosmos DB/Cosmos DB - Container Capacity.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Cosmos DB/Cosmos DB - Containers.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Cosmos DB/Cosmos DB - Choosing a Unique Key.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Cosmos DB/Cosmos DB - Choosing a Partition Key.md",
