@@ -11,3 +11,6 @@
 [[Cosmos DB - Choosing a Unique Key]]
 [[Cosmos DB - Containers]]
 [[Cosmos DB - Container Capacity]]
+[[Cosmos DB - Database-Level Shared Throughput]]
+[[Cosmos DB - Reading Data]]
+[[Cosmos DB - Request Units]]
