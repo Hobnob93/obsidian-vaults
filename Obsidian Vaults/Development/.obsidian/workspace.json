@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "426b46b59c8e084d",
+            "id": "26144a62d223bcec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Cosmos DB/Cosmos DB - Request Units.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Cosmos DB/Cosmos DB - Consistency Levels.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Cosmos DB/Cosmos DB - Request Units.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Cosmos DB/Cosmos DB - Consistency Levels.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Cosmos DB/Cosmos DB - Request Units.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Cosmos DB/Cosmos DB - Consistency Levels.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -194,9 +194,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "426b46b59c8e084d",
+  "active": "26144a62d223bcec",
   "lastOpenFiles": [
     "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Cosmos DB.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Cosmos DB/Cosmos DB - Consistency Levels.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Cosmos DB/Cosmos DB - Request Units.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Cosmos DB/Cosmos DB - Reading Data.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Cosmos DB/Cosmos DB - Database-Level Shared Throughput.md",
@@ -226,7 +227,6 @@
     "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - ARM Templates.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/ARM Templates/ARM Templates - Outputs.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/ARM Templates/ARM Templates - Template Skeleton.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/ARM Templates/ARM Templates - Variables.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/ARM Templates",
     "Web/Azure Web Developer Associate/CodeCamp Course/Virtual Machines/Azure VMs - Mobile App.png",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Custom Handler Diagra.png",

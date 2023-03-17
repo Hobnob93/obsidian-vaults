@@ -14,3 +14,4 @@
 [[Cosmos DB - Database-Level Shared Throughput]]
 [[Cosmos DB - Reading Data]]
 [[Cosmos DB - Request Units]]
+[[Cosmos DB - Consistency Levels]]
