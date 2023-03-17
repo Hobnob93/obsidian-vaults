@@ -11,28 +11,30 @@
             "id": "1b3b239d165685b8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Cosmos DB.md",
-                "mode": "source",
-                "source": false
+                "file": "Web/Azure Web Developer Associate/CodeCamp AZ-204 Course.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 1903.6792452830196,
+                  "zoom": -0.05343925896146061
+                }
               }
             }
           },
           {
-            "id": "26144a62d223bcec",
+            "id": "7395cb8bba03a5d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Cosmos DB/Cosmos DB - Consistency Levels.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Storage Accounts.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Cosmos DB/Cosmos DB - Consistency Levels.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp AZ-204 Course.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Cosmos DB/Cosmos DB - Consistency Levels.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp AZ-204 Course.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -194,9 +196,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "26144a62d223bcec",
+  "active": "1b3b239d165685b8",
   "lastOpenFiles": [
     "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Cosmos DB.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Storage Accounts.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Cosmos DB/Cosmos DB - Change Feed.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Storage Accounts",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Cosmos DB/Cosmos DB - APIs.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Cosmos DB/Cosmos DB - Consistency Levels.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Cosmos DB/Cosmos DB - Request Units.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Cosmos DB/Cosmos DB - Reading Data.md",
@@ -209,7 +215,6 @@
     "Web/Azure Web Developer Associate/CodeCamp Course/Cosmos DB/Cosmos DB - Partitioning Schemes.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Cosmos DB/Cosmos DB - Explorer.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Cosmos DB/Cosmos DB - Core Components.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Cosmos DB/Cosmos DB - APIs.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Cosmos DB/Cosmos DB - Advantages.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Data Storage on Azure/Data Storage on Azure - Cosmos DB.md",
     "Web/Azure Web Developer Associate/CodeCamp AZ-204 Course.canvas",
@@ -225,8 +230,6 @@
     "Web/Azure Web Developer Associate/CodeCamp Course/Data Storage on Azure/Data Storage on Azure - Document Store.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Data Storage on Azure",
     "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - ARM Templates.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/ARM Templates/ARM Templates - Outputs.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/ARM Templates/ARM Templates - Template Skeleton.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/ARM Templates",
     "Web/Azure Web Developer Associate/CodeCamp Course/Virtual Machines/Azure VMs - Mobile App.png",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Custom Handler Diagra.png",
