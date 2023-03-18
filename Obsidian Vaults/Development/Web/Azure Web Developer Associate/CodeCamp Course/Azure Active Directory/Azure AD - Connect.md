@@ -13,7 +13,7 @@ Azure AD Connect has the following features:
 	- Allows users to use the same password on-premise and in the cloud
 - **Federation integration**
 	- Hybrid environment using an on-premise AD FS infrastructure
-	- For certificate renwal
+	- For certificate renewal
 - **Synchronisation**
 	- Responsible for creating users, groups, and other objects
 	- Ensures on-premise and cloud data matches
