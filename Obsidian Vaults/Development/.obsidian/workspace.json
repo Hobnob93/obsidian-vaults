@@ -11,28 +11,43 @@
             "id": "1b3b239d165685b8",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Web/Azure Web Developer Associate/CodeCamp AZ-204 Course.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 2000.1886792452838,
+                  "zoom": -0.05343925896146061
+                }
+              }
+            }
+          },
+          {
+            "id": "ef019353b9a219a9",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Storage Accounts.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Active Directory.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ad12e8d1b31a011a",
+            "id": "a077b1ab2bfcfe8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Storage Accounts/Storage Accounts - Properties & Metadata.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Active Directory/Azure AD - Introduction.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Storage Accounts/Storage Accounts - Properties & Metadata.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Active Directory/Azure AD - Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +128,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Storage Accounts/Storage Accounts - Properties & Metadata.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Active Directory/Azure AD - Introduction.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -194,13 +209,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ad12e8d1b31a011a",
+  "active": "a077b1ab2bfcfe8a",
   "lastOpenFiles": [
+    "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Active Directory.md",
+    "Web/Azure Web Developer Associate/CodeCamp AZ-204 Course.canvas",
     "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Storage Accounts.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Active Directory/Azure AD - Introduction.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Active Directory.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Active Directory",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Storage Accounts/Storage Accounts - Properties & Metadata.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Storage Accounts/Storage Accounts - Lifecycle Management.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Storage Accounts/Storage Accounts - AzCopy.md",
-    "Web/Azure Web Developer Associate/CodeCamp AZ-204 Course.canvas",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Storage Accounts/Storage Accounts - Access Tiers.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Storage Accounts/Storage Accounts - Performance Tiers.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Storage Accounts/Storage Accounts - Core Storage Services.md",
@@ -221,10 +240,6 @@
     "Web/Azure Web Developer Associate/CodeCamp Course/Cosmos DB/Cosmos DB - Partitioning Schemes Diagram.png",
     "Web/Azure Web Developer Associate/CodeCamp Course/Cosmos DB/Cosmos DB - Partitioning Schemes.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Cosmos DB/Cosmos DB - Explorer.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Cosmos DB/Cosmos DB - Core Components.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Cosmos DB/Cosmos DB - Advantages.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Data Storage on Azure/Data Storage on Azure - Cosmos DB.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Data Storage on Azure.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Cosmos DB",
     "Web/Azure Web Developer Associate/CodeCamp Course/Data Storage on Azure/Data Storage on Azure - Document Store Diagram.png",
     "Web/Azure Web Developer Associate/CodeCamp Course/Data Storage on Azure",
