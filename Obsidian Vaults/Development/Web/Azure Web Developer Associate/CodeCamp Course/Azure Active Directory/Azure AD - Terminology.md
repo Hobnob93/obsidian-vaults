@@ -14,8 +14,8 @@ A domain computer would be an AD Object.
 
 **AD Object**
 The basic element of Active Directory, such as:
-- Users
-- Groups
+- [[Azure AD - Users|Users]]
+- [[Azure AD - Groups|Groups]]
 - Printers
 - Computers
 - Shared folders
