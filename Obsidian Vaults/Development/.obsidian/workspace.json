@@ -16,9 +16,21 @@
                 "file": "Web/Azure Web Developer Associate/CodeCamp AZ-204 Course.canvas",
                 "viewState": {
                   "x": 0,
-                  "y": 2386.2264150943406,
+                  "y": 1324.6226415094343,
                   "zoom": -0.05343925896146061
                 }
+              }
+            }
+          },
+          {
+            "id": "8306f8b3e9d766f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Roles.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -80,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Active Directory.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp AZ-204 Course.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Active Directory.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp AZ-204 Course.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -186,6 +198,9 @@
   },
   "active": "1b3b239d165685b8",
   "lastOpenFiles": [
+    "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Roles.md",
+    "Web/Azure Web Developer Associate/CodeCamp AZ-204 Course.canvas",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Roles",
     "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Active Directory.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Active Directory/Azure AD - External Identities.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Active Directory/Azure AD - Terminology.md",
@@ -198,7 +213,6 @@
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Active Directory/Azure AD - Tenant.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Active Directory/Azure AD - Active Directory vs Azure AD.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Active Directory/Azure AD - Use Cases.md",
-    "Web/Azure Web Developer Associate/CodeCamp AZ-204 Course.canvas",
     "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Storage Accounts.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Active Directory.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Active Directory",
@@ -213,8 +227,6 @@
     "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Cosmos DB.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Cosmos DB/Cosmos DB - Change Feed.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Storage Accounts",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Cosmos DB/Cosmos DB - APIs.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Cosmos DB/Cosmos DB - Consistency Levels.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Cosmos DB/Cosmos DB - Partitioning Schemes Diagram.png",
     "Web/Azure Web Developer Associate/CodeCamp Course/Cosmos DB",
     "Web/Azure Web Developer Associate/CodeCamp Course/Data Storage on Azure/Data Storage on Azure - Document Store Diagram.png",
