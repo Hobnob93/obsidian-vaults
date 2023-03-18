@@ -7,3 +7,5 @@
 [[Storage Accounts - Performance Tiers]]
 [[Storage Accounts - Access Tiers]]
 [[Storage Accounts - AzCopy]]
+[[Storage Accounts - Lifecycle Management]]
+[[Storage Accounts - Properties & Metadata]]
