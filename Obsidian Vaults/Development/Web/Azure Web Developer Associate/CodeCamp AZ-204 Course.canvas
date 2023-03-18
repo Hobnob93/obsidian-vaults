@@ -12,7 +12,7 @@
 		{"type":"file","file":"Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Data Storage on Azure.md","id":"8e3c8ee535fe9d17","x":20,"y":1520,"width":500,"height":424},
 		{"type":"file","file":"Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Cosmos DB.md","id":"624032b1f8744a2e","x":-520,"y":1620,"width":500,"height":553},
 		{"type":"file","file":"Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Storage Accounts.md","id":"3c43b6265627a9d2","x":20,"y":1973,"width":500,"height":424},
-		{"id":"bc7bd727ff1de359","x":-520,"y":2220,"width":500,"height":400,"type":"file","file":"Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Active Directory.md"}
+		{"id":"bc7bd727ff1de359","x":-520,"y":2220,"width":500,"height":496,"type":"file","file":"Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Active Directory.md"}
 	],
 	"edges":[]
 }

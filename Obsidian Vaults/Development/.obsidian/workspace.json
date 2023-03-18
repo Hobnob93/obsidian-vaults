@@ -16,50 +16,13 @@
                 "file": "Web/Azure Web Developer Associate/CodeCamp AZ-204 Course.canvas",
                 "viewState": {
                   "x": 0,
-                  "y": 2000.1886792452838,
+                  "y": 2386.2264150943406,
                   "zoom": -0.05343925896146061
                 }
               }
             }
-          },
-          {
-            "id": "ef019353b9a219a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Active Directory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5f3e4aa4a6356375",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Active Directory/Azure AD - External Identities.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d6bf8786295635ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Active Directory/Azure AD - Terminology.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Active Directory/Azure AD - External Identities.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Active Directory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Active Directory/Azure AD - External Identities.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Active Directory.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -221,12 +184,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5f3e4aa4a6356375",
+  "active": "1b3b239d165685b8",
   "lastOpenFiles": [
     "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Active Directory.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Active Directory/Azure AD - External Identities.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Active Directory/Azure AD - Access Rights.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Active Directory/Azure AD - Terminology.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Active Directory/Azure AD - Access Rights.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Active Directory/Azure AD - Groups.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Active Directory/Azure AD - Introduction.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Active Directory/Azure AD - Users.md",
