@@ -23,18 +23,6 @@
             }
           },
           {
-            "id": "4d543b393f23d5de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Key Vault/Key Vault - Introduction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a94913dc68c6423f",
             "type": "leaf",
             "state": {
@@ -45,8 +33,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5adad043fd06619c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Key Vault/Key Vault - Keys.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Key Vault.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Key Vault/Key Vault - Keys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Key Vault.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Key Vault/Key Vault - Keys.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -208,10 +209,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1b3b239d165685b8",
+  "active": "5adad043fd06619c",
   "lastOpenFiles": [
     "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Key Vault.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Key Vault/Key Vault - Introduction.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Key Vault/Key Vault - Keys.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Key Vault/Key Vault - Pricing.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Key Vault/Key Vault - Recovery Options.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Key Vault/Key Vault - API.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Key Vault/Key Vault - What is a Vault.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Key Vault/Key Vault - HSM and FIPS.md",
     "Web/Azure Web Developer Associate/CodeCamp AZ-204 Course.canvas",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Key Vault",
     "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Roles.md",
@@ -233,13 +240,7 @@
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Active Directory/Azure AD - Connect.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Active Directory/Azure AD - Domain Services (AD DS).md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Active Directory/Azure AD - Tenant.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Active Directory/Azure AD - Active Directory vs Azure AD.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Active Directory/Azure AD - Use Cases.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Storage Accounts.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Active Directory.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Active Directory",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Storage Accounts/Storage Accounts - Properties & Metadata.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Storage Accounts/Storage Accounts - Lifecycle Management.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Storage Accounts",
     "Web/Azure Web Developer Associate/CodeCamp Course/Cosmos DB/Cosmos DB - Partitioning Schemes Diagram.png",
     "Web/Azure Web Developer Associate/CodeCamp Course/Cosmos DB",
