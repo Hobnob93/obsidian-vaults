@@ -8,3 +8,6 @@
 [[Key Vault - Recovery Options]]
 [[Key Vault - Pricing]]
 [[Key Vault - Keys]]
+[[Key Vault - Microsoft Managed Key]]
+[[Key Vault - Double Encryption]]
+[[Key Vault - Secrets]]

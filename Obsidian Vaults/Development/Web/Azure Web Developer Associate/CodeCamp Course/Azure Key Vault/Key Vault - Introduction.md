@@ -12,3 +12,4 @@ Azure Key Vault focuses on three things:
 	- See [[Key Vault - Keys]]
 1. **Secrets Management**
 	- Store and tightly control access to tokens, passwords, certificates, API keys, and other secrets
+	- See [[Key Vault - Secrets]]
