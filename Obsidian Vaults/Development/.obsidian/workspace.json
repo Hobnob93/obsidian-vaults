@@ -28,19 +28,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Key Vault.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Key Vault/Key Vault - x.509 Certificate Format.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "36dd28813d4a2814",
+            "id": "6efd6df538503cbf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Key Vault/Key Vault - x.509 Certificate Format.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Key Vault/Key Vault - Certificate Extensions.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Key Vault/Key Vault - x.509 Certificate Format.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Key Vault/Key Vault - Certificate Extensions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Key Vault/Key Vault - x.509 Certificate Format.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Key Vault/Key Vault - Certificate Extensions.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -209,10 +209,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "36dd28813d4a2814",
+  "active": "6efd6df538503cbf",
   "lastOpenFiles": [
-    "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Key Vault.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Key Vault/Key Vault - x.509 Certificate Format.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Key Vault.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Key Vault/Key Vault - Certificate Extensions.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Key Vault/Key Vault - Introduction.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Key Vault/Key Vault - x.509 Chain of Trust.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Key Vault/Key Vault - x.509 Certificates.md",
@@ -239,7 +240,6 @@
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Roles",
     "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Active Directory.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Active Directory/Azure AD - External Identities.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Active Directory/Azure AD - Terminology.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Active Directory",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Storage Accounts",
     "Web/Azure Web Developer Associate/CodeCamp Course/Cosmos DB/Cosmos DB - Partitioning Schemes Diagram.png",
