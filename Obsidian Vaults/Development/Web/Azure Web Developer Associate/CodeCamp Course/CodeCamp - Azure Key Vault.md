@@ -11,3 +11,6 @@
 [[Key Vault - Microsoft Managed Key]]
 [[Key Vault - Double Encryption]]
 [[Key Vault - Secrets]]
+[[Key Vault - x.509 Certificates]]
+[[Key Vault - x.509 Chain of Trust]]
+[[Key Vault - x.509 Certificate Format]]
