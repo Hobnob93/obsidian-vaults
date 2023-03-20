@@ -16,3 +16,5 @@
 [[Key Vault - x.509 Certificate Format]]
 [[Key Vault - Certificate Extensions]]
 [[Key Vault - Certificate Signing Request]]
+[[Key Vault - Certificates]]
+[[Key Vault - Composition of a Certificate]]

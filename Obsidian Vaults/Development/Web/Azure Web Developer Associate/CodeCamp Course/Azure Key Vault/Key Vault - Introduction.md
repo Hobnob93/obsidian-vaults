@@ -7,7 +7,7 @@ Azure Key Vault focuses on three things:
 	- Easily provision, manage, and deploy public and private SSL certificates for use with Azure and internal connected sources.
 	- Certificates contain key pair key and secrets
 		- *Not* to be confused with Key Management and Secrets Management below
-	- See [[Key Vault - x.509 Certificates]]
+	- See [[Key Vault - Certificates]]
 1. **Key Management**
 	- Create and control the encryption keys used to encrypt your data
 	- See [[Key Vault - Keys]]
