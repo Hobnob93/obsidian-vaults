@@ -24,7 +24,7 @@ Some of the properties within the metadata includes:
 	- Allows multiple cert holders to act as a single logical entity
 - **Extensions**
 	- Allows a CA to associate additional private information to a certificate
-	- Not to be confused with [[Key Vault - Certificate Extensions|certificate file extensions]]
+	- Not to be confused with [[X.509 Certificates - Extensions Types|certificate file extensions]]
 
 All of the certificate public metadata is *hashed* to produce a single hash "fingerprint".
 The hash is signed by a private key to produce a *signature*.

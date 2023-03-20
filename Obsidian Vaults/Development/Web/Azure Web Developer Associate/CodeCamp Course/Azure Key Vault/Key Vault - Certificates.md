@@ -1,6 +1,6 @@
 #azure #az-204 
 
-Azure Key Vault allows you to import, generate, and manage [[Key Vault - x.509 Certificates|x.509 Certificates]].
+Azure Key Vault allows you to import, generate, and manage [[X.509 Certificates - Introduction|x.509 Certificates]].
 Key Vault partners with certificate issuer providers for TLS/SSL:
 - DigiCert
 - GlobalSign
