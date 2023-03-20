@@ -16,25 +16,38 @@
                 "file": "Web/Azure Web Developer Associate/CodeCamp AZ-204 Course.canvas",
                 "viewState": {
                   "x": 0,
-                  "y": 3254.8113207547185,
+                  "y": 3351.3207547169827,
                   "zoom": -0.05343925896146061
                 }
               }
             }
           },
           {
-            "id": "a94913dc68c6423f",
+            "id": "045fef35714c9236",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Key Vault.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure App Configuration.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f478a2d1ccded113",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure App Configuration/App Config - Introduction.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -92,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp AZ-204 Course.canvas",
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure App Configuration/App Config - Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp AZ-204 Course.canvas",
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure App Configuration/App Config - Introduction.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -196,18 +209,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1b3b239d165685b8",
+  "active": "f478a2d1ccded113",
   "lastOpenFiles": [
+    "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure App Configuration.md",
+    "Web/Azure Web Developer Associate/CodeCamp AZ-204 Course.canvas",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure App Configuration/App Config - Introduction.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Key Vault.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure App Configuration",
     "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - X.509 Certificates.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/X509 Certificates/X.509 Certificates - Certificate Signing Request (CSR).md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/X509 Certificates/X.509 Certificates - Extensions Types.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/X509 Certificates/X.509 Certificates - Format.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/X509 Certificates/X.509 Certificates - Chain of Trust.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/X509 Certificates/X.509 Certificates - Introduction.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/X.509 Certificates/X.509 Certificates - Certificate Signing Request (CSR).md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/X.509 Certificates/X.509 Certificates - Extensions Types.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/X.509 Certificates/X.509 Certificates - Format.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/X.509 Certificates/X.509 Certificates - Chain of Trust.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/X.509 Certificates/X.509 Certificates - Introduction.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Key Vault/Key Vault - Composition of a Certificate.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Key Vault/Key Vault - Certificate Policy.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/X509 Certificates",
+    "Web/Azure Web Developer Associate/CodeCamp Course/X.509 Certificates",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Key Vault/Key Vault - Certificates.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Key Vault/Key Vault - Introduction.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Key Vault/Key Vault - Secrets.md",
@@ -219,14 +236,10 @@
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Key Vault/Key Vault - API.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Key Vault/Key Vault - What is a Vault.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Key Vault/Key Vault - HSM and FIPS.md",
-    "Web/Azure Web Developer Associate/CodeCamp AZ-204 Course.canvas",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Key Vault",
     "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Roles.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Roles/Azure Roles - Policies vs RBAC vs Azure AD Roles.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Roles/Azure Roles - Anatomy.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Roles/Azure Roles - Azure Active Directory.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Roles/Azure Roles - Types.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Active Directory/Azure AD - Introduction.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Roles",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Active Directory",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Storage Accounts",
