@@ -17,7 +17,8 @@
 		{"type":"file","file":"Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Key Vault.md","id":"fdc858b5a5984370","x":-520,"y":2760,"width":500,"height":505},
 		{"type":"file","file":"Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - X.509 Certificates.md","id":"a6ae5d1b3adfcb58","x":20,"y":2840,"width":500,"height":313},
 		{"type":"file","file":"Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure App Configuration.md","id":"9f834ab6cc03b1bf","x":20,"y":3200,"width":500,"height":328},
-		{"id":"e81c022c0bc68fa5","x":-520,"y":3300,"width":500,"height":400,"type":"file","file":"Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Graph API.md"}
+		{"type":"file","file":"Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Graph API.md","id":"e81c022c0bc68fa5","x":-520,"y":3300,"width":500,"height":289},
+		{"id":"2afbd2b20d74c747","x":20,"y":3560,"width":500,"height":400,"type":"file","file":"Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Front Door.md"}
 	],
 	"edges":[]
 }
