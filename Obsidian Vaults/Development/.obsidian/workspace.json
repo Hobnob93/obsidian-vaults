@@ -16,38 +16,37 @@
                 "file": "Web/Azure Web Developer Associate/CodeCamp AZ-204 Course.canvas",
                 "viewState": {
                   "x": 0,
-                  "y": 3640.8490566037754,
+                  "y": 3737.3584905660396,
                   "zoom": -0.05343925896146061
                 }
               }
             }
           },
           {
-            "id": "78e3dee1e792e09c",
+            "id": "d9218f9d69037ee3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Front Door.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Application Insights.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1dbff9b8fd94f2db",
+            "id": "1aca4b52cefb3e56",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Front Door/Front Door - Introduction.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Application Insights/Application Insights - Introduction.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Front Door/Front Door - Introduction.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp AZ-204 Course.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Front Door/Front Door - Introduction.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp AZ-204 Course.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -209,12 +208,30 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1dbff9b8fd94f2db",
+  "active": "1b3b239d165685b8",
   "lastOpenFiles": [
+    "Web/Azure Web Developer Associate/CodeCamp Course/Application Insights/Application Insights - Introduction.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Application Insights.md",
     "Web/Azure Web Developer Associate/CodeCamp AZ-204 Course.canvas",
-    "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Graph API.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Front Door/Front Door - Introduction.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Application Insights",
     "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Front Door.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Front Door/Front Door - Rule Sets.md",
+    "Pasted image 20230324194233.png",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Front Door/Front Door - Core Components Diagram.png",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Front Door/Front Door - Rules Engine.png",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Front Door/Front Door - Core Components.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Front Door/Front Door - Origin Group.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Front Door/Front Door - Origin.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Front Door/Front Door - Routing.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Front Door/Front Door - Introduction.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Front Door/Front Door - Traffic Acceleration.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Front Door/Front Door - Routes.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Front Door/Front Door - Endpoint Manager.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Front Door/Front Door - Custom Domain Names.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Front Door/Front Door - Tiers.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Front Door/Front Door - Load Balancing Settings.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Front Door/Front Door - Health Probes.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Graph API.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Front Door",
     "Web/Azure Web Developer Associate/CodeCamp Course/Graph API/Graph API - Microsoft Graph.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Graph API/Graph API - Microsoft Graph Diagram.png",
@@ -229,21 +246,8 @@
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure App Configuration/App Config - Configuration Explorer View.png",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure App Configuration/App Config - Tiers.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure App Configuration/App Config - Introduction.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Key Vault.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure App Configuration",
-    "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - X.509 Certificates.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/X.509 Certificates/X.509 Certificates - Certificate Signing Request (CSR).md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/X.509 Certificates/X.509 Certificates - Extensions Types.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/X.509 Certificates/X.509 Certificates - Format.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/X.509 Certificates/X.509 Certificates - Chain of Trust.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/X.509 Certificates/X.509 Certificates - Introduction.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Key Vault/Key Vault - Composition of a Certificate.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Key Vault/Key Vault - Certificate Policy.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/X.509 Certificates",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Key Vault/Key Vault - Certificates.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Key Vault/Key Vault - Introduction.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Key Vault/Key Vault - Secrets.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Key Vault/Key Vault - Double Encryption.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Key Vault",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Roles",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Active Directory",
@@ -251,10 +255,7 @@
     "Web/Azure Web Developer Associate/CodeCamp Course/Cosmos DB/Cosmos DB - Partitioning Schemes Diagram.png",
     "Web/Azure Web Developer Associate/CodeCamp Course/Cosmos DB",
     "Web/Azure Web Developer Associate/CodeCamp Course/Data Storage on Azure/Data Storage on Azure - Document Store Diagram.png",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Data Storage on Azure",
     "Web/Azure Web Developer Associate/CodeCamp Course/Virtual Machines/Azure VMs - Mobile App.png",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Custom Handler Diagra.png",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Virtual Machines/Azure VMs - Cloud Init Diagram.png",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Custom Handler Diagram.png"
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Custom Handler Diagra.png"
   ]
 }
