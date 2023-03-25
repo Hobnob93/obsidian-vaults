@@ -13,3 +13,6 @@
 [[Azure Monitor - Data Stores]]
 [[Azure Monitor - Log Analytics Workspaces]]
 [[Azure monitor - Log Analytics]]
+[[Azure Monitor - Kusto Query Language]]
+[[Azure Monitor - KQL Entities]]
+[[Azure Monitor - Scalar Data Types]]
