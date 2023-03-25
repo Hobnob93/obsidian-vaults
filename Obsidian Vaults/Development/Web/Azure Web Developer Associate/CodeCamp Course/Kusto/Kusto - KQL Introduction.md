@@ -4,7 +4,7 @@ Azure Monitor Logs is based on Azure Data Explorer.
 Log queries are written using the Kusto Query Language (KQL or KSL).
 
 Kusto is based on relational database management systems.
-It supports [[Azure Monitor - KQL Entities|entities]] such as [[Azure Monitor - KQL Databases|databases]], [[Azure Monitor - KQL Clusters|clusters]], [[Azure Monitor - KQL Tables|tables]], [[Azure Monitor - KQL Columns|columns]], and [[Azure Monitor - KQL Functions|functions]].
+It supports [[Kusto - Entities|entities]] such as databases, clusters, tables, columns, and [[Kusto - Functions|functions]].
 
 KQL can be used in:
 - Log Analytics

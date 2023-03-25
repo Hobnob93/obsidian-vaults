@@ -16,14 +16,14 @@
                 "file": "Web/Azure Web Developer Associate/CodeCamp AZ-204 Course.canvas",
                 "viewState": {
                   "x": 0,
-                  "y": 3833.867924528304,
+                  "y": 4316.4150943396235,
                   "zoom": -0.05343925896146061
                 }
               }
             }
           },
           {
-            "id": "1f378eca9087d82c",
+            "id": "51741cfee5f53388",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,24 +35,12 @@
             }
           },
           {
-            "id": "09052bf71d1fdc6e",
+            "id": "9d5dbacc9a19fc47",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Monitor/Azure Monitor - Scalar Data Types.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "07f2cc829630c0e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Monitor/Azure Monitor - Kusto Query Language.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Monitor/Azure Monitor - Metrics Explorer.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Monitor/Azure Monitor - Scalar Data Types.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Monitor/Azure Monitor - Metrics Explorer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +128,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Monitor/Azure Monitor - Scalar Data Types.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Monitor/Azure Monitor - Metrics Explorer.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -221,31 +209,38 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "09052bf71d1fdc6e",
+  "active": "9d5dbacc9a19fc47",
   "lastOpenFiles": [
     "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Monitor.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Monitor/Azure Monitor - Scalar Data Types.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Monitor/Azure Monitor - Kusto Query Language.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Monitor/Azure Monitor - KQL Entities.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Monitor/Azure monitor - Log Analytics.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Monitor/Azure Monitor - Log Analytics Workspaces.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Monitor/Azure Monitor - Data Stores.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Monitor/Azure Monitor - Metrics Explorer.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Monitor/Azure Monitor - Azure Resources Source.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Monitor/Azure Monitor - Anatomy.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Monitor/Azure Monitor - Introduction.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Monitor/Azure Monitor - Custom Sources.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Monitor/Azure Monitor - Log Analytics Workspaces.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Monitor/Azure Monitor - Log Analytics.md",
+    "Web/Azure Web Developer Associate/CodeCamp AZ-204 Course.canvas",
+    "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Kusto Query Language.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Kusto/Kusto - Tabular Operators.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Kusto/Kusto - Scalar Operators.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Kusto/Kusto - Functions.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Kusto/Kusto - Control Commands.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Kusto/Kusto - Data Types.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Kusto/Kusto - Entities.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Kusto/Kusto - KQL Introduction.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Kusto",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Monitor/Azure Monitor - Data Stores.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Monitor/Azure Monitor - Custom Source Diagram.png",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Monitor/Azure Monitor - Azure Tenant Source.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Monitor/Azure Monitor - Azure Tenant Source Diagram.png",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Monitor/Azure Monitor - Azure Subscription Source.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Monitor/Azure Monitor - Azure Subscription Source Diagram.png",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Monitor/Azure Monitor - Azure Resources Source.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Monitor/Azure Monitor - Azure Resources Source Diagram.png",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Monitor/Azure Monitor - OS Source.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Monitor/Azure Monitor - OS Source Diagram.png",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Monitor/Azure Monitor - Application Source.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Monitor/Azure Monitor - Application Source Diagram.png",
-    "Web/Azure Web Developer Associate/CodeCamp AZ-204 Course.canvas",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Monitor/Azure Monitor - The Pillars of Observability.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Monitor/Azure Monitor - Introduction.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Monitor/Azure Monitor - Dashboard Example.png",
     "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Application Insights.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Monitor",
@@ -253,22 +248,15 @@
     "Web/Azure Web Developer Associate/CodeCamp Course/Application Insights/Application Insights - Open Telemetry.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Application Insights/Application Insights - Open Telemetry Diagram.png",
     "Web/Azure Web Developer Associate/CodeCamp Course/Application Insights/Application Insights - Instrument Your App.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Application Insights/Application Insights - Introduction.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Application Insights/Application Insights - Overview Diagram.png",
     "Web/Azure Web Developer Associate/CodeCamp Course/Application Insights",
-    "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Front Door.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Front Door/Front Door - Rule Sets.md",
     "Pasted image 20230324194233.png",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Front Door/Front Door - Core Components.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Front Door/Front Door - Origin Group.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Front Door/Front Door - Origin.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Front Door",
     "Web/Azure Web Developer Associate/CodeCamp Course/Graph API",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure App Configuration",
     "Web/Azure Web Developer Associate/CodeCamp Course/X.509 Certificates",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Key Vault",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Roles",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Active Directory",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Storage Accounts"
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Active Directory"
   ]
 }
