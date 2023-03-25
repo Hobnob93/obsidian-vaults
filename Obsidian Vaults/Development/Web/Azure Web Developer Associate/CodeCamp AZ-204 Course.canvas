@@ -20,8 +20,9 @@
 		{"type":"file","file":"Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Graph API.md","id":"e81c022c0bc68fa5","x":20,"y":3580,"width":500,"height":289},
 		{"type":"file","file":"Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Application Insights.md","id":"27b7bdc0fd05ff12","x":-520,"y":3300,"width":500,"height":328},
 		{"type":"file","file":"Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Front Door.md","id":"2afbd2b20d74c747","x":-520,"y":3680,"width":500,"height":521},
-		{"type":"file","file":"Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Monitor.md","id":"721440f97367cb97","x":20,"y":3920,"width":500,"height":400},
-		{"id":"cf2d47227eacf78e","x":-520,"y":4240,"width":500,"height":400,"type":"file","file":"Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Kusto Query Language.md"}
+		{"type":"file","file":"Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Monitor.md","id":"721440f97367cb97","x":20,"y":3920,"width":500,"height":577},
+		{"id":"cf2d47227eacf78e","x":-520,"y":4240,"width":500,"height":400,"type":"file","file":"Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Kusto Query Language.md"},
+		{"id":"427f24933a4146b1","x":20,"y":4540,"width":500,"height":400,"type":"file","file":"Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - API Management.md"}
 	],
 	"edges":[]
 }

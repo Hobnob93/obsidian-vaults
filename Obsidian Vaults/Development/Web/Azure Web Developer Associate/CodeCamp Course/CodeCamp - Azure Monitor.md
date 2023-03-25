@@ -14,3 +14,6 @@
 [[Azure Monitor - Log Analytics Workspaces]]
 [[Azure Monitor - Log Analytics]]
 [[Azure Monitor - Metrics Explorer]]
+[[Azure Monitor - Azure Alerts]]
+[[Azure Monitor - Azure Dashboards]]
+[[Azure Monitor - Azure Workbooks]]

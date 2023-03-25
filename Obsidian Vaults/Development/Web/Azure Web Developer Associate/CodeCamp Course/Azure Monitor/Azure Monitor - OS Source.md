@@ -8,7 +8,7 @@ Log Analytics Agent is installed for comprehensive monitoring.
 Dependency Agent collects discovered data about processes running on VM and external process dependencies.
 Agents can be installed on OS for VMs running in Azure, on-premise, or other cloud provider.
 
-Diagnostics Extension collects performance counters and stores them in metrics.
+Diagnostics Extension collects performance counters and stores them in [[Azure Monitor - Metrics Explorer|metrics]].
 Application Insights collects logs and performance counters from the compute resource supporting your app to be analysed with other app data.
 Diagnostics Extension can stream data to other locations using [[CodeCamp - Azure Event Hub|Azure Event Hub]].
 Diagnostic Extension always writes to an Azure Storage Account.

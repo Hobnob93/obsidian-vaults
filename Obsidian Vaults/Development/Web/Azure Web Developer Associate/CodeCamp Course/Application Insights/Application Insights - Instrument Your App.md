@@ -13,12 +13,12 @@ The resource is identified by an instrumentation key (`ikey`).
 ![[Application Insights - Overview Diagram.png]]
 
 There are many ways to view your telemetry data:
-- Smart detection and manual alerts
+- Smart detection and manual [[Azure Monitor - Azure Alerts|alerts]]
 - Application map
 - Profiler
 - Usage Analysis
 - Diagnostic search for instance data
-- Metrics explorer for aggregated data
+- [[Azure Monitor - Metrics Explorer|Metrics Explorer]] for aggregated data
 - Dashboards
 - Live Metrics Stream
 - Analytics
