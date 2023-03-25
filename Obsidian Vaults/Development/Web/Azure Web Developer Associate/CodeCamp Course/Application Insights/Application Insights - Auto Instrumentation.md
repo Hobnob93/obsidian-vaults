@@ -3,6 +3,8 @@
 Auto-instrumentation allows you to enable application monitoring with Application Insights without modifying the codebase.
 However, if you want to monitor specific things you are able to implement instrumentation manually using the SDK.
 
+**OnBD**: On by default.
+
 | Env                            | .NET           | .NET Core      | Java           | Node.js        | Python    |
 | ------------------------------ | -------------- | -------------- | -------------- | -------------- | --------- |
 | Azure App Service Windows      | GA, OnBD*      | GA, opt-in     | Public preview | Public preview | N/A       |
