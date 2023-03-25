@@ -12,3 +12,4 @@
 [[Azure Monitor - Custom Sources]]
 [[Azure Monitor - Data Stores]]
 [[Azure Monitor - Log Analytics Workspaces]]
+[[Azure monitor - Log Analytics]]
