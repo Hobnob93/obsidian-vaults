@@ -1,7 +1,7 @@
 #azure #az-204 #xml 
 
 #### Send Request to a Service
-Uses [[CodeCamp - Dapr|Dapr]] runtime to locate and reliably communicate with a Dapr microservice.
+Uses [[CodeCamp - Distributed Application Runtime|Dapr]] runtime to locate and reliably communicate with a Dapr microservice.
 
 #### Send Message to Pub/Sub Topic
 uses Dapr runtime to publish a message to a Publish/Subscribe topic.

@@ -27,6 +27,6 @@ Azure has a collection of policy groups which contain many policies you can appl
 - Caching Policies
 - Cross-Domain Policies
 - Transformation Policies
-- [[CodeCamp - Dapr|Dapr]] Integration Policies
+- [[CodeCamp - Distributed Application Runtime|Dapr]] Integration Policies
 - Validation Policies
 - GraphQL Validation Policies

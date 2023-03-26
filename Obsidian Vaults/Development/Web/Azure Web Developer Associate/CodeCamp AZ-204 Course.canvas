@@ -21,8 +21,10 @@
 		{"type":"file","file":"Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Application Insights.md","id":"27b7bdc0fd05ff12","x":-520,"y":3300,"width":500,"height":328},
 		{"type":"file","file":"Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Front Door.md","id":"2afbd2b20d74c747","x":-520,"y":3680,"width":500,"height":521},
 		{"type":"file","file":"Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Monitor.md","id":"721440f97367cb97","x":20,"y":3920,"width":500,"height":577},
-		{"id":"cf2d47227eacf78e","x":-520,"y":4240,"width":500,"height":400,"type":"file","file":"Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Kusto Query Language.md"},
-		{"id":"427f24933a4146b1","x":20,"y":4540,"width":500,"height":400,"type":"file","file":"Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - API Management.md"}
+		{"type":"file","file":"Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Kusto Query Language.md","id":"cf2d47227eacf78e","x":-520,"y":4240,"width":500,"height":400},
+		{"type":"file","file":"Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - API Management.md","id":"427f24933a4146b1","x":20,"y":4540,"width":500,"height":760},
+		{"type":"file","file":"Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Distributed Application Runtime.md","id":"0d904d5e00c8d94c","x":-520,"y":4680,"width":500,"height":252},
+		{"id":"e66794b506450451","x":-520,"y":4980,"width":500,"height":400,"type":"file","file":"Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Event Grid.md"}
 	],
 	"edges":[]
 }
