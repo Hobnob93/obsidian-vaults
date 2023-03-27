@@ -2,3 +2,4 @@
 
 ## Sections
 [[Notification Hub - Introduction]]
+[[Notification Hub - Supported Platforms]]
