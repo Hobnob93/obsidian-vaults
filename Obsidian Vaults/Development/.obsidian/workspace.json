@@ -16,31 +16,31 @@
                 "file": "Web/Azure Web Developer Associate/CodeCamp AZ-204 Course.canvas",
                 "viewState": {
                   "x": 11.934226767975815,
-                  "y": 5151.7924528301855,
+                  "y": 5055.283018867922,
                   "zoom": -0.05343925896146061
                 }
               }
             }
           },
           {
-            "id": "445f4bc1999a7f99",
+            "id": "0334f519b1774a0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Event Hub.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Notification Hub.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6f6559452f82e7a4",
+            "id": "3654dbc922bd135e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Event Hub/Event Hub - Schema Registry.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Notification Hub/Notification Hub - Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Event Hub/Event Hub - Schema Registry.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Notification Hub/Notification Hub - Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Event Hub/Event Hub - Schema Registry.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Notification Hub/Notification Hub - Introduction.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -209,9 +209,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6f6559452f82e7a4",
+  "active": "3654dbc922bd135e",
   "lastOpenFiles": [
+    "Web/Azure Web Developer Associate/CodeCamp AZ-204 Course.canvas",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Notification Hub/Notification Hub - Introduction.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Notification Hub.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Notification Hub",
     "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Event Hub.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Event Hub/Event Hub - Key Concepts.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Event Hub/Event Hub - Introduction.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Event Hub/Event Hub - Event Retention.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Event Hub/Event Hub - Partitions.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Event Hub/Event Hub - Kafka Compatibility.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Event Hub/Event Hub - Schema Registry.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Event Hub/Event Hub - Checkpointing.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Event Hub/Event Hub - Offsets.md",
@@ -220,11 +229,8 @@
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Event Hub/Event Hub - Producers.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Event Hub/Event Hub - Entities.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Event Hub/Event Hub - Scaling.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Event Hub/Event Hub - Key Concepts.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Event Hub/Event Hub - Pricing.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Event Hub/Event Hub - Introduction.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Event Hub/Event Hub - Overview Illustration.png",
-    "Web/Azure Web Developer Associate/CodeCamp AZ-204 Course.canvas",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Event Hub",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Event Grid/Event Grid - Sources & Handlers Diagram.png",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Event Grid/Event Grid - Key Concepts.md",
@@ -240,12 +246,6 @@
     "Web/Azure Web Developer Associate/CodeCamp Course/Dapr",
     "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - API Management.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/APIM/APIM - Built-in vs External Cache.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/APIM/APIM - Developer Portal Authentication.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/APIM/APIM - Developer Portal.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/APIM/APIM - WADL and WSDL.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/APIM/APIM - OpenAPI.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/APIM/APIM - Defining APIs.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/APIM/APIM - Validation Policies.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/APIM/APIM - Policies Diagram.png",
     "Web/Azure Web Developer Associate/CodeCamp Course/APIM/APIM - Gateway Diagram.png",
     "Web/Azure Web Developer Associate/CodeCamp Course/APIM",
@@ -256,7 +256,6 @@
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Monitor/Azure Monitor - Azure Subscription Source Diagram.png",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Monitor",
     "Web/Azure Web Developer Associate/CodeCamp Course/Application Insights",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Front Door",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Graph API"
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Front Door"
   ]
 }

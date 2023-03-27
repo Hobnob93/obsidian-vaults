@@ -12,3 +12,6 @@
 [[Event Hub - Offsets]]
 [[Event Hub - Checkpointing]]
 [[Event Hub - Schema Registry]]
+[[Event Hub - Kafka Compatibility]]
+[[Event Hub - Partitions]]
+[[Event Hub - Event Retention]]
