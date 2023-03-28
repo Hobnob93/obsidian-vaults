@@ -1,0 +1,38 @@
+#azure #az-204 
+
+There are some key concepts to do with Service Buses:
+- **Namespace**
+	- works like a server
+	- has `N` queues and topics
+	- see [[Service Bus - Namespace]]
+- **Queue**
+	- contains the messages
+- **Sender**
+	- sends the messages
+- **Receiver**
+	- receives the messages
+- **Topic**
+	- a queue with multiple receivers that works like a queue
+- **Subscription**
+	- a receiver in a topic
+- **Batch**
+	- group of messages
+- **Safe-batch**
+	- validates if each message can be included in the batch
+- **Session**
+	- allows you to use FIFO
+	- groups your messages in a queue
+- **Peek**
+	- retrieves a message in the queue without removing it
+- **Dead-letter Queue**
+	- a queue for messages unable to be delivered through normal queue
+- **Peek & Lock**
+	- retrieves a message from the queue without removing it
+	- locks the message so other receivers cannot receive it
+- **Receive & Delete**
+	- retrieves a message from the queue
+	- deletes that message
+- **Auto Delete on Idle**
+	- sets a timespan to delete the queue if it is not used
+- **Duplicate Detection History**
+	- checks if message was sent earlier before sending a message

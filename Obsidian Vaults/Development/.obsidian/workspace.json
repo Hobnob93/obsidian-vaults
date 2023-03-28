@@ -16,31 +16,31 @@
                 "file": "Web/Azure Web Developer Associate/CodeCamp AZ-204 Course.canvas",
                 "viewState": {
                   "x": 11.934226767975815,
-                  "y": 5827.358490566032,
+                  "y": 6020.377358490559,
                   "zoom": -0.05343925896146061
                 }
               }
             }
           },
           {
-            "id": "aeb726b3410c0415",
+            "id": "9caac82f201e3cfe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Queue Storage.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Service Bus.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9dd17236852a4631",
+            "id": "fde3753bbad9706c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Queue Storage/Queue Storage - Introduction.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Service Bus/Service Bus - Queues.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Queue Storage/Queue Storage - Introduction.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Service Bus/Service Bus - Queues.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Queue Storage/Queue Storage - Introduction.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Service Bus/Service Bus - Queues.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -209,11 +209,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9dd17236852a4631",
+  "active": "fde3753bbad9706c",
   "lastOpenFiles": [
-    "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Queue Storage.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Queue Storage/Queue Storage - Introduction.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Service Bus.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Service Bus/Service Bus - Queues.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Service Bus/Service Bus - Namespace.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Service Bus/Service Bus - Key Concepts.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Service Bus/Service Bus - Introduction.md",
     "Web/Azure Web Developer Associate/CodeCamp AZ-204 Course.canvas",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Service Bus",
+    "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Queue Storage.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Queue Storage/Queue Storage - CLI Commands.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Queue Storage/Queue Storage - Key Concepts.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Queue Storage/Queue Storage - Introduction.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Queue Storage",
     "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Queuing.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Queuing/Queuing - Azure Services.md",
@@ -234,16 +242,9 @@
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Event Hub/Event Hub - Schema Registry.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Event Hub/Event Hub - Checkpointing.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Event Hub/Event Hub - Offsets.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Event Hub/Event Hub - Consumer Groups.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Event Hub/Event Hub - Consumers.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Event Hub/Event Hub - Producers.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Event Hub/Event Hub - Entities.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Event Hub/Event Hub - Scaling.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Event Hub/Event Hub - Pricing.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Event Hub/Event Hub - Overview Illustration.png",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Event Hub",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Event Grid/Event Grid - Sources & Handlers Diagram.png",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Event Grid/Event Grid - Key Concepts.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Event Grid/Event Grid - Concepts Diagram.png",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Event Grid/Untitled",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Event Grid",
@@ -256,7 +257,6 @@
     "Web/Azure Web Developer Associate/CodeCamp Course/Kusto",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Monitor/Azure Monitor - Custom Source Diagram.png",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Monitor/Azure Monitor - Azure Tenant Source Diagram.png",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Monitor/Azure Monitor - Azure Subscription Source Diagram.png",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Monitor"
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Monitor/Azure Monitor - Azure Subscription Source Diagram.png"
   ]
 }

@@ -22,12 +22,14 @@
 		{"type":"file","file":"Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Front Door.md","id":"2afbd2b20d74c747","x":-520,"y":3680,"width":500,"height":521},
 		{"type":"file","file":"Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Monitor.md","id":"721440f97367cb97","x":20,"y":3920,"width":500,"height":577},
 		{"type":"file","file":"Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Kusto Query Language.md","id":"cf2d47227eacf78e","x":-520,"y":4240,"width":500,"height":400},
-		{"id":"e66794b506450451","x":20,"y":4548,"width":500,"height":264,"type":"file","file":"Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Event Grid.md"},
+		{"type":"file","file":"Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Event Grid.md","id":"e66794b506450451","x":20,"y":4548,"width":500,"height":264},
 		{"type":"file","file":"Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - API Management.md","id":"427f24933a4146b1","x":-520,"y":4686,"width":500,"height":761},
 		{"type":"file","file":"Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Distributed Application Runtime.md","id":"0d904d5e00c8d94c","x":20,"y":4860,"width":500,"height":252},
-		{"id":"ffeadcc0434553c1","x":20,"y":5160,"width":500,"height":529,"type":"file","file":"Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Event Hub.md"},
-		{"id":"c2a74fe7cc1a85f8","x":-520,"y":5489,"width":500,"height":328,"type":"file","file":"Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Notification Hub.md"},
-		{"id":"e2c3e77d14c5136d","x":20,"y":5731,"width":500,"height":204,"type":"file","file":"Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Queuing.md"}
+		{"type":"file","file":"Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Event Hub.md","id":"ffeadcc0434553c1","x":20,"y":5160,"width":500,"height":529},
+		{"type":"file","file":"Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Notification Hub.md","id":"c2a74fe7cc1a85f8","x":-520,"y":5489,"width":500,"height":328},
+		{"type":"file","file":"Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Queuing.md","id":"e2c3e77d14c5136d","x":20,"y":5731,"width":500,"height":204},
+		{"id":"851c6849f688e9a1","x":-520,"y":5860,"width":500,"height":304,"type":"file","file":"Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Queue Storage.md"},
+		{"id":"715e8cc518f7c975","x":20,"y":5980,"width":500,"height":400,"type":"file","file":"Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Service Bus.md"}
 	],
 	"edges":[]
 }
