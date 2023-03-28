@@ -5,3 +5,4 @@
 [[Service Bus - Key Concepts]]
 [[Service Bus - Namespace]]
 [[Service Bus - Queues]]
+[[Service Bus - Queue Configuration]]

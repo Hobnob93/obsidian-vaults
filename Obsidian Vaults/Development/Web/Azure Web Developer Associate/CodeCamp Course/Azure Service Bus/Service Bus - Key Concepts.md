@@ -7,6 +7,7 @@ There are some key concepts to do with Service Buses:
 	- see [[Service Bus - Namespace]]
 - **Queue**
 	- contains the messages
+	- see [[Service Bus - Queues]]
 - **Sender**
 	- sends the messages
 - **Receiver**
