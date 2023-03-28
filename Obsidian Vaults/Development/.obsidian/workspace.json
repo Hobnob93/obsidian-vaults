@@ -11,28 +11,43 @@
             "id": "1b3b239d165685b8",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Web/Azure Web Developer Associate/CodeCamp AZ-204 Course.canvas",
+                "viewState": {
+                  "x": -0.04681309480955065,
+                  "y": 6519.347102452969,
+                  "zoom": -0.05343925896146061
+                }
+              }
+            }
+          },
+          {
+            "id": "69076b6a74214a57",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Service Bus.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Cache for Redis.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4b21663586ec0210",
+            "id": "30e0f3c0eeeccfe0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Service Bus/Service Bus - Queue Configuration.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Cache/Azure Cache - Introduction to Redis.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Service Bus/Service Bus - Queue Configuration.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Cache/Azure Cache - Introduction to Redis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +128,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Service Bus/Service Bus - Queue Configuration.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Cache/Azure Cache - Introduction to Redis.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -194,12 +209,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4b21663586ec0210",
+  "active": "30e0f3c0eeeccfe0",
   "lastOpenFiles": [
-    "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Service Bus.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Service Bus/Service Bus - Queue Configuration.md",
     "Web/Azure Web Developer Associate/CodeCamp AZ-204 Course.canvas",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Cache/Azure Cache - Introduction to Redis.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Cache for Redis.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Eventing/Eventing - Comparison.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Cache",
+    "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Eventing.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Eventing",
+    "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Service Bus.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Service Bus/Service Bus - CLI Commands.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Service Bus/Service Bus - Dead Letter Queue.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Service Bus/Service Bus - Pricing Tiers.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Service Bus/Service Bus - Subscription Configuration.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Service Bus/Service Bus - Key Concepts.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Service Bus/Service Bus - Topic Configuration.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Service Bus/Service Bus - Topics.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Service Bus/Service Bus - Queue Configuration.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Service Bus/Service Bus - Queues.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Service Bus/Service Bus - Namespace.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Service Bus/Service Bus - Introduction.md",
@@ -215,18 +242,7 @@
     "Web/Azure Web Developer Associate/CodeCamp Course/Queuing",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Notification Hub/Notification Hub - Queueing.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Notification Hub/Notification Hub - Key Concepts.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Notification Hub/Notification Hub - Message Flow.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Notification Hub/Notification Hub - Supported Platforms.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Notification Hub/Notification Hub - Introduction.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Notification Hub",
-    "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Event Hub.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Event Hub/Event Hub - Key Concepts.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Event Hub/Event Hub - Introduction.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Event Hub/Event Hub - Event Retention.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Event Hub/Event Hub - Partitions.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Event Hub/Event Hub - Kafka Compatibility.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Event Hub/Event Hub - Schema Registry.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Event Hub/Event Hub - Checkpointing.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Event Hub/Event Hub - Overview Illustration.png",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Event Hub",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Event Grid/Event Grid - Sources & Handlers Diagram.png",
@@ -237,9 +253,7 @@
     "Web/Azure Web Developer Associate/CodeCamp Course/Dapr",
     "Web/Azure Web Developer Associate/CodeCamp Course/APIM/APIM - Policies Diagram.png",
     "Web/Azure Web Developer Associate/CodeCamp Course/APIM/APIM - Gateway Diagram.png",
-    "Web/Azure Web Developer Associate/CodeCamp Course/APIM",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Monitor/Azure Monitor - Anatomy of an Alert Diagram.png",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Kusto",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Monitor/Azure Monitor - Custom Source Diagram.png",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Monitor/Azure Monitor - Azure Tenant Source Diagram.png",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Monitor/Azure Monitor - Azure Subscription Source Diagram.png"

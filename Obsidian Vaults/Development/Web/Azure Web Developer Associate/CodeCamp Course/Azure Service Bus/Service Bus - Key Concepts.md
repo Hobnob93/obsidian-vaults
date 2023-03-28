@@ -14,6 +14,7 @@ There are some key concepts to do with Service Buses:
 	- receives the messages
 - **Topic**
 	- a queue with multiple receivers that works like a queue
+	- see [[Service Bus - Topics]]
 - **Subscription**
 	- a receiver in a topic
 - **Batch**
