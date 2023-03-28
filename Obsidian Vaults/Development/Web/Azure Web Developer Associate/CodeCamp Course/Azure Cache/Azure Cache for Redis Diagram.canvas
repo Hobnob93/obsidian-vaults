@@ -31,7 +31,7 @@
 		{"type":"file","file":"Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Service Bus.md","id":"715e8cc518f7c975","x":20,"y":5980,"width":500,"height":480},
 		{"type":"file","file":"Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Event Hub.md","id":"ffeadcc0434553c1","x":-520,"y":5520,"width":500,"height":529},
 		{"type":"file","file":"Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Queue Storage.md","id":"851c6849f688e9a1","x":-520,"y":6100,"width":500,"height":304},
-		{"id":"a4d70f60eb1d6e2e","x":-520,"y":6440,"width":500,"height":400,"type":"file","file":"Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Cache for Redis.md"}
+		{"id":"a4d70f60eb1d6e2e","x":-520,"y":6440,"width":500,"height":400,"type":"file","file":"Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Cache.md"}
 	],
 	"edges":[]
 }

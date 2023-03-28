@@ -13,7 +13,7 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp AZ-204 Course.canvas",
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Cache/Azure Cache for Redis Diagram.canvas",
                 "viewState": {
                   "x": -0.04681309480955065,
                   "y": 6519.347102452969,
@@ -28,19 +28,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Cache for Redis.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Cache.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "30e0f3c0eeeccfe0",
+            "id": "dfb4c93655ddedd5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Cache/Azure Cache - Introduction to Redis.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Cache/Azure Cache - Azure Cache for Redis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "43f67cb6928fb263",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Cache/Azure Cache - Redis Sets.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Cache/Azure Cache - Introduction to Redis.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Cache/Azure Cache - Azure Cache for Redis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +140,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Cache/Azure Cache - Introduction to Redis.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Cache/Azure Cache - Azure Cache for Redis.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -209,11 +221,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "30e0f3c0eeeccfe0",
+  "active": "463f8c739f1a5c45",
   "lastOpenFiles": [
-    "Web/Azure Web Developer Associate/CodeCamp AZ-204 Course.canvas",
+    "Pasted image 20230328202314.png",
+    "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Cache.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Cache/Azure Cache - Azure Cache for Redis.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Cache/Azure Cache - Redis Sets.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Cache/Azure Cache - Redis Hashes.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Cache/Azure Cache - Redis Lists.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Cache/Azure Cache - Introduction to Redis.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Cache for Redis.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Cache/Azure Cache for Redis Diagram.canvas",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Cache/Azure Cache - Redis Data Types.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Cache/Azure Cache - Redis Strings.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Eventing/Eventing - Comparison.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Cache",
     "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Eventing.md",
@@ -234,14 +253,8 @@
     "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Queue Storage.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Queue Storage/Queue Storage - CLI Commands.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Queue Storage/Queue Storage - Key Concepts.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Queue Storage/Queue Storage - Introduction.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Queue Storage",
-    "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Queuing.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Queuing/Queuing - Azure Services.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Notification Hub.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Queuing",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Notification Hub/Notification Hub - Queueing.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Notification Hub/Notification Hub - Key Concepts.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Notification Hub",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Event Hub/Event Hub - Overview Illustration.png",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Event Hub",

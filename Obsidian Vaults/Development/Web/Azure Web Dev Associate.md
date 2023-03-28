@@ -2,7 +2,7 @@
 
 ## Sections
 [[AZ-204 Exam Overview]]
-[[CodeCamp AZ-204 Course.canvas|CodeCamp AZ-204 Course]]
+[[Azure Cache for Redis Diagram.canvas|CodeCamp AZ-204 Course]]
 
 - [[Azure Web Apps]]
 	- [[Explore Azure App Service]]
