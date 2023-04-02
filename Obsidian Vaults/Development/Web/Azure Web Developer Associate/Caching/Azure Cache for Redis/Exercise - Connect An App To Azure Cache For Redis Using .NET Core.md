@@ -10,7 +10,7 @@ An Azure account with active subscription
 ## Create Azure Resources
 1. Create resource group for the resources
 ```shell
-az grou create --name az204-redis-rg --location <region>
+az group create --name az204-redis-rg --location <region>
 ```
 2. Create an Azure Cache for Redis instance using `redis create` command
 ```shell
