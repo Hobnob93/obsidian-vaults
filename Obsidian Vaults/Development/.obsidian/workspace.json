@@ -11,8 +11,12 @@
             "id": "1b3b239d165685b8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Web/Azure Web Developer Associate/Secure Cloud Solutions/Azure Key Vault/Exercise Set & Retrieve a Secret Using Azure CLI.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#cli",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,7 +57,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -73,11 +78,12 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Web/Azure Web Developer Associate/Secure Cloud Solutions/Azure Key Vault/Exercise Set & Retrieve a Secret Using Azure CLI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
-                "searchQuery": "",
+                "searchQuery": "#cli",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -95,6 +101,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Web/Azure Web Developer Associate/Secure Cloud Solutions/Azure Key Vault/Exercise Set & Retrieve a Secret Using Azure CLI.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -177,6 +184,13 @@
   },
   "active": "1b3b239d165685b8",
   "lastOpenFiles": [
+    "Web/Azure Web Developer Associate/Functions/Implement Azure Durable Functions/Discover The Four Function Types.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Core Tools.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure App Services/Azure App Services - Deployment.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/ARM Templates/ARM Templates - Outputs.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Container Instances/ACI - Troubleshooting.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Container Instances/ACI - Persistent Storage.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Container Instances/ACI - Environment Variables (Env Vars).md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure App Services/Azure App Services - WebJobs.md",
     "Web/Azure Web Developer Associate/Web Apps/Configure Web App Settings/Diagnostic Logging.md",
     "Web/Azure Web Developer Associate/Web Apps/Configure Web App Settings/Configure Security Certificates.md",
@@ -200,13 +214,6 @@
     "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Service Bus.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Service Bus/Service Bus - CLI Commands.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Service Bus/Service Bus - Dead Letter Queue.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Service Bus/Service Bus - Pricing Tiers.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Service Bus/Service Bus - Subscription Configuration.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Service Bus/Service Bus - Key Concepts.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Service Bus/Service Bus - Topic Configuration.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Service Bus/Service Bus - Topics.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Service Bus/Service Bus - Queue Configuration.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Service Bus/Service Bus - Queues.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Service Bus",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Queue Storage",
     "Web/Azure Web Developer Associate/CodeCamp Course/Queuing",
