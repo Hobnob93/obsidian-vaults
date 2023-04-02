@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Storage Accounts/Storage Accounts - Properties & Metadata.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/APIM/APIM - Authentication Policies.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#cli",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,8 +57,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,12 +77,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Storage Accounts/Storage Accounts - Properties & Metadata.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/APIM/APIM - Authentication Policies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
-                "searchQuery": "#cli",
+                "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -101,7 +100,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Storage Accounts/Storage Accounts - Properties & Metadata.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/APIM/APIM - Authentication Policies.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -184,6 +183,8 @@
   },
   "active": "1b3b239d165685b8",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Storage Accounts/Storage Accounts - Properties & Metadata.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Storage Accounts/Storage Accounts - AzCopy.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Service Bus/Service Bus - CLI Commands.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Key Vault/Key Vault - Secrets.md",
@@ -208,8 +209,6 @@
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure App Services/Azure App Services - WebJobs.md",
     "Web/Azure Web Developer Associate/Web Apps/Configure Web App Settings/Diagnostic Logging.md",
     "Web/Azure Web Developer Associate/Web Apps/Configure Web App Settings/Configure Security Certificates.md",
-    "Web/Azure Web Developer Associate/Web Apps/Configure Web App Settings/Configure Path Mappings.md",
-    "Web/Azure Web Developer Associate/Web Apps/Configure Web App Settings/Configure General Settings.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Cache/Azure Cache for Redis Diagram.canvas",
     "Pasted image 20230328202314.png",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Cache",
