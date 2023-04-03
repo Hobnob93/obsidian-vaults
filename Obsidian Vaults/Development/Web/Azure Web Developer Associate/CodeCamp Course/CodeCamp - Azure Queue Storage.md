@@ -4,3 +4,4 @@
 [[Queue Storage - Introduction]]
 [[Queue Storage - Key Concepts]]
 [[Queue Storage - CLI Commands]]
+[[Queue Storage - Pricing]]

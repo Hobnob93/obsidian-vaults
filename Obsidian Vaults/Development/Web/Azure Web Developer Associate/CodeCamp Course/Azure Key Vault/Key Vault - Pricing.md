@@ -1,4 +1,4 @@
-#azure #az-204 
+#azure #az-204 #az-tiers 
 
 Azure has 2 pricing tiers for Key Vault:
 1. **Standard**
@@ -9,13 +9,13 @@ Azure has 2 pricing tiers for Key Vault:
 Secrets operations: $0.03/10,000 transactions.
 Certificate renewal: $3 per renewal request.
 Managed Azure Storage account key rotation: $1 per renewal.
-Managed HSM Pools: $3.20/hour.
 
 ##### Software-Protected Keys
 RSA 2048-bit keys: $0.03/10,000 transactions.
 Advanced key types such as RSA 4096-bit: $0.15/10,000 transactions.
 
 ##### HSM-Protected Keys
+Managed HSM Pools: $3.20/hour.
 RSA 2048-bit keys: $1/key/month + $0.03/10,000 transactions.
 Advanced key types such as RSA 4096-bit:
 - $5/key/month at 250 keys or less

@@ -1,6 +1,6 @@
 #azure #az-204 
 
-Create and maintain *Azure Container registries* to store and manage private Docker container images, and related artefacts.
+Create and maintain *Azure Container Registries* to store and manage private Docker container images, and related artefacts.
 
 ACR is a managed, private Docker registry service based on the open-source Docker Registry 2.0.
 

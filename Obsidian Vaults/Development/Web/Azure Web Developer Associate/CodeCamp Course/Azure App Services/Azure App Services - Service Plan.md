@@ -1,4 +1,4 @@
-#azure #az-204 
+#azure #az-204 #az-tiers 
 
 Azure App Service Plan defines how much you pay and what resources are available to you.
 There are 3 pricing tiers for the App Service Plan.

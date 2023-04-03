@@ -1,4 +1,4 @@
-#azure #az-204 
+#azure #az-204 #az-tiers 
 
 Pricing is based on a few measurements:
 - Capacity Unit (CU)

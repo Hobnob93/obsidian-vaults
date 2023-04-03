@@ -1,4 +1,4 @@
-#azure #az-204 
+#azure #az-204 #az-tiers 
 
 #### Standard
 Optimised for content delivery.

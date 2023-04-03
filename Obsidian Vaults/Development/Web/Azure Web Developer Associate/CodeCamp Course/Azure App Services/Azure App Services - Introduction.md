@@ -28,5 +28,6 @@ You pay based on an Azure App Service plan:
 - **Dedicated Tier**
 	- Basic, Standard, Premium, PremiumV2, PremiumV3
 - **Isolated Tier**
+	- Specific tier for [[Azure App Services - App Service Environment (ASE)|ASE]]
 
 Azure App Services can also run docker [[ACI - Introduction|single or multi-containers]].

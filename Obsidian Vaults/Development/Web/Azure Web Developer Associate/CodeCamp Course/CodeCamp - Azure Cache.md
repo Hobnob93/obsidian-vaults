@@ -7,3 +7,4 @@
 [[Azure Cache - Redis Lists]]
 [[Azure Cache - Redis Hashes]]
 [[Azure Cache - Azure Cache for Redis]]
+[[Azure Cache - Pricing Tiers]]

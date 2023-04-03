@@ -1,4 +1,4 @@
-#azure #az-204 
+#azure #az-204 #az-tiers
 
 APIM has many features, but they aren't always available.
 The availability depends on your selected plan.

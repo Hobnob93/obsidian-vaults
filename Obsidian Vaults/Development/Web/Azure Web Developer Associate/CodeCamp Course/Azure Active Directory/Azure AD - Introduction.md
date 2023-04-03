@@ -1,4 +1,4 @@
-#azure #az-204 
+#azure #az-204 #az-tiers 
 
 Cloud-based identity and access management service.
 Manage users, sign-ins, and access to AD-related resources.
