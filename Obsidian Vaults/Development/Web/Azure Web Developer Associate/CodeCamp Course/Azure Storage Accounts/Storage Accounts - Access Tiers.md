@@ -1,4 +1,4 @@
-#azure #az-204 
+#azure #az-204 #az-tiers 
 
 There are 3 types of access tiers for standard storage; Cool, Hot, and Archive.
 

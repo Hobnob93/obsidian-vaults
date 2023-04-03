@@ -1,4 +1,4 @@
-#azure #az-204 
+#azure #az-204 #az-tiers 
 
 Azure Service Bus has 3 different pricing tiers:
 - Basic

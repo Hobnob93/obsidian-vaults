@@ -4,59 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "b0917072b2408c28",
+        "id": "37784ed4438d31ca",
         "type": "tabs",
         "children": [
           {
-            "id": "1b3b239d165685b8",
+            "id": "8aadf895f5788f63",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Cache.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "01d24a339dc5f3c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Event Grid.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0a3e9d21060a304b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Queue Storage.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "53466685fece3d2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Roles/Azure Roles - Azure Active Directory.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#az-tiers",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +53,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -114,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Roles/Azure Roles - Azure Active Directory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +96,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Roles/Azure Roles - Azure Active Directory.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -218,35 +176,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "53466685fece3d2d",
+  "active": "8aadf895f5788f63",
   "lastOpenFiles": [
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Storage Accounts/Storage Accounts - Performance Tiers.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Storage Accounts/Storage Accounts - Access Tiers.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Service Bus/Service Bus - Pricing Tiers.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Queue Storage/Queue Storage - Pricing.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Queue Storage.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Queue Storage/Queue Storage - CLI Commands.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Queue Storage/Queue Storage - Introduction.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Notification Hub/Notification Hub - Introduction.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Monitor/Azure Monitor - Azure Subscription Source.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Monitor/Azure Monitor - Introduction.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Monitor/Azure Monitor - The Pillars of Observability.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Key Vault/Key Vault - Pricing.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Plan Services.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Front Door/Front Door - Tiers.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Event Hub/Event Hub - Pricing.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Event Hub/Event Hub - Introduction.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Event Grid/Event Grid - Pricing.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Virtual Machines/Azure VMs - VM Sizes.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Plan Services.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Cache/Azure Cache - Pricing Tiers.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure App Services/Azure App Services - Service Plan.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Active Directory/Azure AD - Introduction.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure App Configuration/App Config - Tiers.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/APIM/APIM - Feature Comparison.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Cache.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Event Grid.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Event Grid/Event Grid  - Introduction.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Event Grid/Event Grid - Key Concepts.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Event Grid/Event Grid - Sources and Handlers.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Queue Storage.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Cosmos DB/Cosmos DB - Choosing a Unique Key.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Cosmos DB/Cosmos DB - Choosing a Partition Key.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Cosmos DB/Cosmos DB - Request Units.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Cosmos DB/Cosmos DB - Change Feed.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Roles/Azure Roles - Role-Based Access Control (RBAC).md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Roles/Azure Roles - IAM Access Controls.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Roles/Azure Roles - Classic Administrator.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Roles/Azure Roles - Azure Active Directory.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Event Grid/Event Grid - Sources & Handlers Diagram.png",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Container Registry/ACR - Tasks.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Container Registry/ACR - Introduction.md",
-    "Web/Azure Web Developer Associate/Infrastructure as a Service/Run Container Images in Container Instances/Set Environment Variables in Container Instances.md",
-    "Web/Azure Web Developer Associate/Infrastructure as a Service/Run Container Images in Container Instances/Explore Azure Container Instances.md",
-    "Web/Azure Web Developer Associate/Infrastructure as a Service/Run Container Images in Container Instances/Run Containerised Tasks With Restart Policies.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Container Instances/ACI - Restart Policies.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Container Instances/ACI - Persistent Storage.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Container Instances/ACI - Environment Variables (Env Vars).md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Container Instances/ACI - Container Groups Diagram.png",
     "Untitled.canvas",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Cache/Azure Cache for Redis Diagram.canvas",

@@ -12,7 +12,7 @@ There are two types of roles:
 		- Reader
 		- AcrDelete
 		- AcrImageSigner
-		- AcrPull
+		- AcrPush
 - **Custom role**
 	- A role created by you with your own custom logic
 

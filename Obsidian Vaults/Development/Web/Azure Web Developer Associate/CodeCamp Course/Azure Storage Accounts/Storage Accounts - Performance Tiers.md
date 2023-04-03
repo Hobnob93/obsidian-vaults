@@ -1,9 +1,9 @@
-#azure #az-204 
+#azure #az-204 #az-tiers 
 
 There are 2 types of performance tiers for storage accounts; Standard and Premium.
 The higher the IOPS (I/O per second) the faster the drive can read and write.
 
-##### Standard Performance
+#### Standard Performance
 Stored on an HDD (Hard Disk Drive).
 Varied performance based on [[Storage Accounts - Access Tiers|access tier]].
 Use cases:
@@ -14,7 +14,7 @@ Use cases:
 An HDD has moving parts; an arm that needs to read and write data sequentially to a disk.
 It is very good at writing or reading large amounts of contiguous data.
 
-##### Premium Performance
+#### Premium Performance
 Stored on an SSD (Solid State Drive).
 Optimised for low latency.
 Higher throughput.

@@ -3,7 +3,7 @@
 Azure App Service Plan defines how much you pay and what resources are available to you.
 There are 3 pricing tiers for the App Service Plan.
 
-## Shared Tier
+#### Shared Tier
 There are 2 sub-tiers within the Shared Tier:
 - **Free Tier**
 	- 1 GB of disk space
@@ -17,7 +17,7 @@ There are 2 sub-tiers within the Shared Tier:
 
 Shared Tier *does not* support Linux-based instances.
 
-## Dedicated Tier
+#### Dedicated Tier
 There are 5 sub-tiers within the Dedicated Tier:
 - **Basic**
 	- More disk space
@@ -32,7 +32,7 @@ There are 5 sub-tiers within the Dedicated Tier:
 	- Availability SLA of 99.95%
 	- Multiple levels of hardware
 
-## Isolated Tier
+#### Isolated Tier
 - Only really used for [[Azure App Services - App Service Environment (ASE)|ASEs]]
 - Dedicated Azure virtual network
 - Scale out to 100 instances
