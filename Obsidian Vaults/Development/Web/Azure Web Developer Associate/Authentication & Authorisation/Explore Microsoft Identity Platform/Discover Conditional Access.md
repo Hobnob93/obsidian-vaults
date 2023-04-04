@@ -2,7 +2,7 @@
 
 # Discover Conditional Access
 Feature of *AAD* offering several ways to secure app and protect a service.
-Enables develops and enterprise customers to protect services in a multitude of ways, including:
+Enables developers and enterprise customers to protect services in a multitude of ways, including:
 - Multifactor authentication
 - Allowing only Intune devices to access specific services
 - Restricting user locations and IP ranges
