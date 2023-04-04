@@ -28,11 +28,11 @@ The five levels are:
 	- Other users may encounter "dirty" data if another session has just written some data
 	- Default consistency for newly created databases
 	- Reading costs lower than above, but more expensive than below
-1. **Consistent Prefix**
+4. **Consistent Prefix**
 	- Read operations ensure most recent data replicated among replicas is returned
 	- Does not guarantee that the data is the most recent
 	- "Dirty" data occurs when one replica changes the data state, but this data has not yet been replicated
 	- Stronger consistency than eventual, but less than the others above
-1. Eventual
+5. Eventual
 	- Out of order reads
 	- Read operations does not guarantee any consistency level
