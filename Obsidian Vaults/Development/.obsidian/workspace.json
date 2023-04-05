@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Azure Web Developer Associate/Authentication & Authorisation/Explore Microsoft Identity Platform/Discover Conditional Access.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Queuing/Queuing - Azure Services.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,8 +57,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Azure Web Developer Associate/Authentication & Authorisation/Explore Microsoft Identity Platform/Discover Conditional Access.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Queuing/Queuing - Azure Services.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +100,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Web/Azure Web Developer Associate/Authentication & Authorisation/Explore Microsoft Identity Platform/Discover Conditional Access.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Queuing/Queuing - Azure Services.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -184,6 +183,8 @@
   },
   "active": "8aadf895f5788f63",
   "lastOpenFiles": [
+    "Web/Azure Web Developer Associate/CodeCamp Course/Eventing/Eventing - Comparison.md",
+    "Web/Azure Web Developer Associate/Authentication & Authorisation/Explore Microsoft Identity Platform/Discover Conditional Access.md",
     "Web/Azure Web Developer Associate/Authentication & Authorisation/Explore Microsoft Identity Platform/About Microsoft identity Platform.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Active Directory/Azure AD - Introduction.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Queue Storage/Queue Storage - Key Concepts.md",
@@ -209,8 +210,6 @@
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Cache/Azure Cache - Pricing Tiers.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure App Services/Azure App Services - Service Plan.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure App Configuration/App Config - Tiers.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/APIM/APIM - Feature Comparison.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Cache.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Event Grid/Event Grid - Sources & Handlers Diagram.png",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Container Instances/ACI - Container Groups Diagram.png",
     "Untitled.canvas",
