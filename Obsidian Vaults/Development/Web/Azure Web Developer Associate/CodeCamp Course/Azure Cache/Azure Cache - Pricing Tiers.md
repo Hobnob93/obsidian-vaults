@@ -27,6 +27,7 @@ Azure Cache for Redis has a few pricing tiers from which to choose.
 - **Memory**: <1.5 TB
 - **Availability**: 99.999%
 - **Geo-replication**: Active
+- **Non-volatile memory**
 - **RediSearch**
 - **Redis JSON**
 - **Redis on Flash**
