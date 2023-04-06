@@ -36,4 +36,5 @@ Azure Cache for Redis has a few pricing tiers from which to choose.
 - **Memory**: <100 GB
 - **RedisBloom**
 - **RedisTimeSeries**
+- **Redis Modules**
 - **Max client connections**: <200,000
