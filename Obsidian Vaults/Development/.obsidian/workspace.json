@@ -11,14 +11,11 @@
             "id": "8aadf895f5788f63",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Cache/Azure Cache for Redis Diagram.canvas",
-                "viewState": {
-                  "x": 14.297570544863774,
-                  "y": 4501.0114426641985,
-                  "zoom": -0.057441189518956715
-                }
+                "file": "Web/Azure Web Developer Associate/Infrastructure as a Service/Provision VMs In Azure/Compare Virtual Machine Availability Options.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -51,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ZRS",
+                "query": "\"availability\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Cache/Azure Cache for Redis Diagram.canvas",
+                "file": "Web/Azure Web Developer Associate/Infrastructure as a Service/Provision VMs In Azure/Compare Virtual Machine Availability Options.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +101,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Cache/Azure Cache for Redis Diagram.canvas",
+                "file": "Web/Azure Web Developer Associate/Infrastructure as a Service/Provision VMs In Azure/Compare Virtual Machine Availability Options.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -187,8 +184,12 @@
   },
   "active": "8aadf895f5788f63",
   "lastOpenFiles": [
-    "Web/Azure Web Developer Associate/Azure Storage/Azure Storage Redundancy Options.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Monitor/Azure Monitor - Application Source.md",
+    "Web/Azure Web Developer Associate/Monitor App Performance.md",
+    "Web/Azure Web Developer Associate/Monitor App Performance/Select An Availability Test.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Cache/Azure Cache for Redis Diagram.canvas",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Storage Accounts/Storage Accounts - Comparison.md",
+    "Web/Azure Web Developer Associate/Azure Storage/Azure Storage Redundancy Options.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Event Grid/Event Grid - Sources and Handlers.md",
     "Web/Azure Web Dev Associate.md",
     "Web/Azure Web Developer Associate/AZ-204 Exam Overview.md",
@@ -211,10 +212,6 @@
     "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Event Hub.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Event Grid/Event Grid - Pricing.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Virtual Machines/Azure VMs - VM Sizes.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Cache/Azure Cache - Pricing Tiers.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure App Services/Azure App Services - Service Plan.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Active Directory/Azure AD - Introduction.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/APIM/APIM - Feature Comparison.md",
     "Untitled 1.canvas",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Event Grid/Event Grid - Sources & Handlers Diagram.png",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Container Instances/ACI - Container Groups Diagram.png",

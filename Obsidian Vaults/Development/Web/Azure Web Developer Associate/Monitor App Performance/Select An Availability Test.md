@@ -11,7 +11,7 @@ Can also test availability of a REST API your service depends on.
 Can create up to 100 availability tests per App Insights resource.
 There are three types of availability tests:
 - [URL ping test (class)](https://learn.microsoft.com/en-us/azure/azure-monitor/app/monitor-web-app-availability)
-	- Crate through portal
+	- Create through portal
 	- Validates whether endpoint is responding
 	- Measure performance associated with response
 	- Can set custom success criteria coupled with more advanced features
