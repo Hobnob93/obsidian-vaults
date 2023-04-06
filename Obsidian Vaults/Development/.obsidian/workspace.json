@@ -11,11 +11,14 @@
             "id": "8aadf895f5788f63",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Service Bus/Service Bus - Pricing Tiers.md",
-                "mode": "source",
-                "source": false
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Cache/Azure Cache for Redis Diagram.canvas",
+                "viewState": {
+                  "x": 14.297570544863774,
+                  "y": 5855.896662789992,
+                  "zoom": -0.057441189518956715
+                }
               }
             }
           }
@@ -48,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#az-tiers",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,8 +60,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Service Bus/Service Bus - Pricing Tiers.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Event Hub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Service Bus/Service Bus - Pricing Tiers.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Event Hub.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -184,6 +186,18 @@
   },
   "active": "8aadf895f5788f63",
   "lastOpenFiles": [
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Event Grid/Event Grid - Sources and Handlers.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Cache/Azure Cache for Redis Diagram.canvas",
+    "Web/Azure Web Dev Associate.md",
+    "Web/Azure Web Developer Associate/AZ-204 Exam Overview.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Queuing/Queuing - Azure Services.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Eventing/Eventing - Comparison.md",
+    "Pasted image 20230328202314.png",
+    "Languages.md",
+    "Web/Azure Web Developer Associate/Azure Storage/Types of Storage Accounts.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Storage Accounts/Storage Accounts - Performance Tiers.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Storage Accounts/Storage Accounts - Access Tiers.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Service Bus/Service Bus - Pricing Tiers.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Queue Storage/Queue Storage - Pricing.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Key Vault/Key Vault - Pricing.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Front Door/Front Door - Tiers.md",
@@ -200,22 +214,10 @@
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Active Directory/Azure AD - Introduction.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/APIM/APIM - Feature Comparison.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Plan Services.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure App Services/Azure App Services - App Service Environment (ASE).md",
-    "Web/Azure Web Developer Associate/Cosmos DB/Explore Azure Cosmos DB/Explore Consistency Levels.md",
-    "Web/Azure Web Developer Associate/Cosmos DB/Explore Azure Cosmos DB/Choose The Right Consistency Level.md",
-    "Web/Azure Web Developer Associate/Azure Storage/Types of Storage Accounts.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Storage Accounts/Storage Accounts - Introduction.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Storage Accounts/Storage Accounts - Access Tiers.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Storage Accounts/Storage Accounts - Performance Tiers.md",
-    "Web/Azure Web Developer Associate/Web Apps/Configure Web App Settings/Configure Security Certificates.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/APIM/APIM - Access Restriction Policies.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/APIM/APIM - Authentication Policies.md",
     "Untitled 1.canvas",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Event Grid/Event Grid - Sources & Handlers Diagram.png",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Container Instances/ACI - Container Groups Diagram.png",
     "Untitled.canvas",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Cache/Azure Cache for Redis Diagram.canvas",
-    "Pasted image 20230328202314.png",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Cache",
     "Web/Azure Web Developer Associate/CodeCamp Course/Eventing",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Service Bus",
