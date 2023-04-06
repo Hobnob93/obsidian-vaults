@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Cache/Azure Cache - Pricing Tiers.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Storage Accounts/Storage Accounts - Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#az-tiers",
+                "query": "general purpose",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Cache/Azure Cache - Pricing Tiers.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Storage Accounts/Storage Accounts - Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Cache/Azure Cache - Pricing Tiers.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Storage Accounts/Storage Accounts - Introduction.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -184,10 +184,16 @@
   },
   "active": "8aadf895f5788f63",
   "lastOpenFiles": [
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Queue Storage/Queue Storage - Pricing.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Storage Accounts/Storage Accounts - Access Tiers.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Storage Accounts/Storage Accounts - Performance Tiers.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Active Directory/Azure AD - Introduction.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure App Configuration/App Config - Tiers.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/APIM/APIM - Feature Comparison.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Cache/Azure Cache - Pricing Tiers.md",
     "Web/Azure Web Developer Associate/Web Apps/Configure Web App Settings/Configure Security Certificates.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/APIM/APIM - Access Restriction Policies.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/APIM/APIM - Authentication Policies.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/APIM/APIM - Feature Comparison.md",
     "Web/Azure Web Developer Associate/Authentication & Authorisation/Explore Microsoft Identity Platform/Explore Service Principals.md",
     "Web/Azure Web Developer Associate/Event-Based Solutions/Azure Event Hubs/Control Access To Events (Event Hub).md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Roles/Azure Roles - Role-Based Access Control (RBAC).md",
@@ -202,14 +208,8 @@
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Container Instances/ACI - Container Groups.md",
     "Web/Azure Web Developer Associate/Secure Cloud Solutions/Managed Identities/Explore Managed Identities.md",
     "Web/Azure Web Dev Associate.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Storage Accounts/Storage Accounts - Performance Tiers.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Storage Accounts/Storage Accounts - Access Tiers.md",
     "Web/Azure Web Developer Associate/Infrastructure as a Service/Provision VMs In Azure/Explore Azure Virtual Machines.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Queuing/Queuing - Azure Services.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Eventing/Eventing - Comparison.md",
-    "Web/Azure Web Developer Associate/Authentication & Authorisation/Explore Microsoft Identity Platform/Discover Conditional Access.md",
-    "Web/Azure Web Developer Associate/Authentication & Authorisation/Explore Microsoft Identity Platform/About Microsoft identity Platform.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Active Directory/Azure AD - Introduction.md",
     "Untitled 1.canvas",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Event Grid/Event Grid - Sources & Handlers Diagram.png",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Container Instances/ACI - Container Groups Diagram.png",
