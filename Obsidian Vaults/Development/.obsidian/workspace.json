@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Container Instances/ACI - Container Groups.md",
+                "file": "Web/Azure Web Developer Associate/Web Apps/Configure Web App Settings/Configure Security Certificates.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#az-tiers",
+                "query": "\"MSI\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Container Instances/ACI - Container Groups.md",
+                "file": "Web/Azure Web Developer Associate/Web Apps/Configure Web App Settings/Configure Security Certificates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Container Instances/ACI - Container Groups.md",
+                "file": "Web/Azure Web Developer Associate/Web Apps/Configure Web App Settings/Configure Security Certificates.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -184,6 +184,21 @@
   },
   "active": "bb26e126b8f6c9b7",
   "lastOpenFiles": [
+    "Web/Azure Web Developer Associate/CodeCamp Course/APIM/APIM - Access Restriction Policies.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/APIM/APIM - Authentication Policies.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/APIM/APIM - Feature Comparison.md",
+    "Web/Azure Web Developer Associate/Authentication & Authorisation/Explore Microsoft Identity Platform/Explore Service Principals.md",
+    "Web/Azure Web Developer Associate/Event-Based Solutions/Azure Event Hubs/Control Access To Events (Event Hub).md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Roles/Azure Roles - Role-Based Access Control (RBAC).md",
+    "Web/Azure Web Developer Associate/Secure Cloud Solutions/Azure Key Vault/Authenticate to Azure Key Vault.md",
+    "Web/Azure Web Developer Associate/Secure Cloud Solutions/Managed Identities/Acquire An Access Token.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Data Storage on Azure/Data Storage on Azure - MongoDB.md",
+    "Web/Azure Web Developer Associate/Authentication & Authorisation/Shared Access Signatures.md",
+    "Web/Azure Web Developer Associate/Authentication & Authorisation/Shared Access Signatures/Discover Shared Access Signatures.md",
+    "Web/Azure Web Developer Associate/Authentication & Authorisation/Shared Access Signatures/Explore Stored Access Policies.md",
+    "Web/Azure Web Developer Associate/Authentication & Authorisation/Shared Access Signatures/Choose When to Use Shared Access Signatures.md",
+    "Web/Azure Web Developer Associate/Azure User Authentication & Authorisation.md",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Container Instances/ACI - Container Groups.md",
     "Web/Azure Web Developer Associate/Secure Cloud Solutions/Managed Identities/Explore Managed Identities.md",
     "Web/Azure Web Dev Associate.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Storage Accounts/Storage Accounts - Performance Tiers.md",
@@ -195,22 +210,7 @@
     "Web/Azure Web Developer Associate/Authentication & Authorisation/Explore Microsoft Identity Platform/About Microsoft identity Platform.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Active Directory/Azure AD - Introduction.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Queue Storage/Queue Storage - Key Concepts.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Queue Storage/Queue Storage - Introduction.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Queue Storage/Queue Storage - CLI Commands.md",
-    "Web/Azure Web Developer Associate/Web Apps/Configure Web App Settings/Diagnostic Logging.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Cosmos DB/Cosmos DB - Consistency Levels.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Cosmos DB.md",
-    "Web/Azure Web Developer Associate/Cosmos DB/Explore Azure Cosmos DB/Explore Consistency Levels.md",
-    "Web/Azure Web Developer Associate/Cosmos DB/Explore Azure Cosmos DB/Choose The Right Consistency Level.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Data Storage on Azure/Data Storage on Azure - Cosmos DB.md",
     "Untitled 1.canvas",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Service Bus/Service Bus - Pricing Tiers.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Queue Storage/Queue Storage - Pricing.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Key Vault/Key Vault - Pricing.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Front Door/Front Door - Tiers.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Event Hub/Event Hub - Pricing.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Event Grid/Event Grid - Pricing.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Virtual Machines/Azure VMs - VM Sizes.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Event Grid/Event Grid - Sources & Handlers Diagram.png",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Container Instances/ACI - Container Groups Diagram.png",
     "Untitled.canvas",
