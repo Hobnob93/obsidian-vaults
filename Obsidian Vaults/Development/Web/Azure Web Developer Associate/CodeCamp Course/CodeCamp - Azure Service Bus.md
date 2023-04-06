@@ -1,4 +1,4 @@
-#azure #az-204 
+#azure #az-204 #module 
 
 ## Sections
 [[Service Bus - Introduction]]

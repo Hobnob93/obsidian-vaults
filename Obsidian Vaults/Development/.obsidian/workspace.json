@@ -16,7 +16,7 @@
                 "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Cache/Azure Cache for Redis Diagram.canvas",
                 "viewState": {
                   "x": 14.297570544863774,
-                  "y": 6243.006725683075,
+                  "y": 4501.0114426641985,
                   "zoom": -0.057441189518956715
                 }
               }
@@ -51,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ZRS",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -60,7 +60,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -80,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Service Bus.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Cache/Azure Cache for Redis Diagram.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Web/Azure Web Developer Associate/CodeCamp Course/CodeCamp - Azure Service Bus.md",
+                "file": "Web/Azure Web Developer Associate/CodeCamp Course/Azure Cache/Azure Cache for Redis Diagram.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -186,8 +187,9 @@
   },
   "active": "8aadf895f5788f63",
   "lastOpenFiles": [
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Event Grid/Event Grid - Sources and Handlers.md",
+    "Web/Azure Web Developer Associate/Azure Storage/Azure Storage Redundancy Options.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Cache/Azure Cache for Redis Diagram.canvas",
+    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Event Grid/Event Grid - Sources and Handlers.md",
     "Web/Azure Web Dev Associate.md",
     "Web/Azure Web Developer Associate/AZ-204 Exam Overview.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Queuing/Queuing - Azure Services.md",
@@ -213,7 +215,6 @@
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure App Services/Azure App Services - Service Plan.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Active Directory/Azure AD - Introduction.md",
     "Web/Azure Web Developer Associate/CodeCamp Course/APIM/APIM - Feature Comparison.md",
-    "Web/Azure Web Developer Associate/CodeCamp Course/Azure Functions/Azure Functions - Plan Services.md",
     "Untitled 1.canvas",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Event Grid/Event Grid - Sources & Handlers Diagram.png",
     "Web/Azure Web Developer Associate/CodeCamp Course/Azure Container Instances/ACI - Container Groups Diagram.png",
