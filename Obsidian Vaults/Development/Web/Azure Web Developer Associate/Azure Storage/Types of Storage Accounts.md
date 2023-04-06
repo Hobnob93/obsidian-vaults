@@ -1,4 +1,4 @@
-#azure #az-204 #topic 
+#azure #az-204 #topic #az-tiers 
 
 # Types of Storage Accounts
 *Azure Storage* offers two performance levels of storage accounts; `standard` and `premium`.
