@@ -6,8 +6,6 @@
   "foldIndent": true,
   "showLineNumber": true,
   "spellcheck": true,
-  "spellcheckLanguages": [
-    "en-GB"
-  ],
+  "spellcheckLanguages": null,
   "newFileLocation": "current"
 }
